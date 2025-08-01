@@ -1,0 +1,206 @@
+normal_action_dict = {
+    "Material Handling & Movement": [
+        "pouring something",
+        "holding object",
+        "moving object",
+        "placing object",
+        "stacking objects",
+        "pulling object",
+        "pushing object",
+        "rotating object",
+        "folding fabric",
+        "tying fabric",
+        "stamping object",
+        "loading materials",
+        "unloading materials",
+        "picking object",
+        "rotating wood planks",
+        "tearing something",
+        "poking object",
+        "arranging objects",
+        "rolling object",
+        "wrapping chain",
+        "attaching label"
+    ],
+    "Assembly & Production Tasks": [
+        "assembling electronic components",
+        "screwing parts",
+        "adjusting wiring",
+        "inserting screws",
+        "cutting with machine",
+        "bending metal sheet",
+        "cleaning object",
+        "sealing boxes",
+        "scanning label",
+        "sewing",
+        "connecting pipes",
+        "testing product functionality",
+        "heating metal",
+        "opening panel cover",
+        "closing panel cover",
+        "digging"
+    ],
+    "Machinery Operation & Maintenance": [
+        "operating machine",
+        "pressing button",
+        "adjusting fastener with wrench",
+        "hammering component",
+        "using jack to lift vehicle",
+        "adjusting machine components",
+        "detaching part from machinery"
+    ],
+    "Vehicle Interaction & Site Logistics": [
+        "driving vehicle",
+        "parking vehicle",
+        "backing vehicle",
+        "opening vehicle door",
+        "closing vehicle door",
+        "entering vehicle",
+        "exiting vehicle",
+        "loading to truck",
+        "unloading from truck",
+        "attaching chain to vehicle",
+        "changing tire",
+        "operating industrial vehicle"
+    ],
+    "Inspection & Quality Control": [
+        "inspecting equipment or text",
+        "looking at screen",
+        "measuring with tape",
+        "writing notes",
+        "taking a photo"
+    ],
+    "Communication & Human Interaction": [
+        "talking",
+        "pointing at something",
+        "signaling to someone",
+        "posing for camera",
+        "calling for help",
+        "assisting injured coworker",
+        "arguing",
+        "arresting person",
+        "knocking on window",
+        "shaking hands"
+    ],
+    "Navigation & Personal Movement": [
+        "adjusting clothing",
+        "standing",
+        "walking",
+        "running",
+        "entering doorway",
+        "exiting doorway",
+        "crouching",
+        "bending down",
+        "balancing on beam",
+        "dancing",
+        "showing discomfort",
+        "jumping",
+        "rubbing eyes",
+        "rubbing head",
+        "yawning",
+        "checking self",
+        "sitting",
+        "falling down",
+        "eating",
+        "getting up",
+        "putting on PPE",
+        "taking off PPE",
+        "crawling"
+    ],
+    "Surveillance & Observation": [
+        "monitoring onboard camera",
+        "appearing on security feed",
+        "searching area with flashlight",
+        "watching process"
+    ]
+}
+
+hazard_action_dict = {
+    "Machinery & Equipment Operation Errors": [
+        "operating forklift",
+        "forklift blade detaching",
+        "operating heavy equipment dangerously",
+        "operating hydraulic press",
+        "operating rolling machine",
+        "rotating machine lever",
+        "adjusting machine while running",
+        "robotic arm misoperation",
+        "walking on moving conveyor",
+        "misusing lift platform",
+        "machine part flying off",
+        "improper use of flamethrower"
+    ],
+    "Entanglement & Compression Hazards": [
+        "shirt caught in machine",
+        "hair caught in appliance",
+        "foot stuck in conveyor",
+        "body pulled into machine",
+        "trapped between closing machine sides",
+        "crushed under overturned vehicle"
+    ],
+    "Structural Failures, Falling Objects & Collapses": [
+        "structural collapse",
+        "falling load",
+        "heavy object slipping",
+        "break under load",
+        "warehouse shelves toppling",
+        "crane imbalance with suspended load",
+        "glass shattering on impact",
+        "unloading truck load fall"
+    ],
+    "Fire, Explosion & Thermal Hazards": [
+        "fire incident",
+        "pressurized vessel explosion",
+        "machine explosion",
+        "gas burst"
+    ],
+    "Manual Handling & Lifting Incidents": [
+        "lifting heavy load",
+        "pushing heavy load",
+        "pulling heavy load",
+        "carrying heavy load",
+        "carrying object and slipping",
+    ],
+    "Vehicle & Traffic-Related Incidents": [
+        "driving car",
+        "vehicle crash into building or stationary object",
+        "vehicle losing control",
+        "collision between vehicles",
+        "driver thrown during crash",
+        "car hood malfunction or improper interaction",
+        "person dragged by vehicle",
+        "vehicle falling off edge"
+    ],
+    "Rescue, Situational Awareness & Human Error": [
+        "lifting object off person",
+        "extinguishing fire",
+        "rescue effort",
+        "helping person down from height",
+        "searching debris for victims",
+        "signalling others about hazard",
+        "filming incident",
+        "watching incident passively",
+        "escaping from danger",
+    ],
+    "Environmental & Workplace Hazards": [
+        "equipment emitting sparks",
+        "overstacked shelves",
+        "cluttered workspace",
+        "flooded floor",
+        "platform failure"
+    ],
+    "Slips, Trips, Falls & Non-Machine Events": [
+        "person falling down",
+        "tree falling nearby",
+        "hanging from something after slip"
+    ],
+    "Security Incidents & Intentional Misconduct": [
+        "moving in a suspicious manner",
+        "physical altercation or fighting",
+        "vandalism or intentional property damage",
+        "intention of theft",
+        "police arrest",
+        "police search",
+        "firearm discharge"
+    ]
+}

@@ -1,0 +1,5550 @@
+[
+  {
+    "video_name": "_g7R05NOikU_trim_0.mp4",
+    "caption": "A person is precisely operating a yellow forklift while watching the onboard screen.",
+    "gt_actions": [
+      "operating industrial vehicle",
+      "monitoring onboard camera",
+      "looking at screen"
+    ]
+  },
+  {
+    "video_name": "_g7R05NOikU_trim_1.mp4",
+    "caption": "A person is precisely operating a yellow forklift while watching the onboard screen.",
+    "gt_actions": [
+      "operating industrial vehicle",
+      "monitoring onboard camera",
+      "looking at screen"
+    ]
+  },
+  {
+    "video_name": "_g7R05NOikU_trim_2.mp4",
+    "caption": "A person is walking past a stationary yellow forklift, as seen on its onboard screen.",
+    "gt_actions": [
+      "walking",
+      "appearing on security feed",
+      "monitoring onboard camera"
+    ]
+  },
+  {
+    "video_name": "_g7R05NOikU_trim_4.mp4",
+    "caption": "A person is lifting and moving a pallet with the forklift. Another person is standing and operating on something on the side of a van, visible in the forklift's rearview camera.",
+    "gt_actions": [
+      "operating industrial vehicle",
+      "monitoring onboard camera",
+      "picking object",
+      "loading materials",
+      "appearing on security feed",
+      "standing"
+    ]
+  },
+  {
+    "video_name": "_g7R05NOikU_trim_5.mp4",
+    "caption": "A person is operating a forklift and watching another person in a yellow vest standing, as seen on the onboard screen.",
+    "gt_actions": [
+      "operating industrial vehicle",
+      "monitoring onboard camera",
+      "looking at screen",
+      "standing"
+    ]
+  },
+  {
+    "video_name": "_g7R05NOikU_trim_7.mp4",
+    "caption": "A person is operating industrial vehicle and watching another forklift on the onboard screen.",
+    "gt_actions": [
+      "operating industrial vehicle",
+      "monitoring onboard camera",
+      "looking at screen"
+    ]
+  },
+  {
+    "video_name": "_Juow4q7js0_trim_0.mp4",
+    "caption": "A person is twisting and attaching a wire to a surveillance camera in the manufacturing area.",
+    "gt_actions": [
+      "adjusting wiring",
+      "assembling electronic components"
+    ]
+  },
+  {
+    "video_name": "_Juow4q7js0_trim_1.mp4",
+    "caption": "A person is assembling surveillance camera parts in the manufacturing area.",
+    "gt_actions": [
+      "assembling electronic components"
+    ]
+  },
+  {
+    "video_name": "_Juow4q7js0_trim_2.mp4",
+    "caption": "Two people are cleaning and assembling surveillance camera parts in the manufacturing area.",
+    "gt_actions": [
+      "cleaning object",
+      "assembling electronic components"
+    ]
+  },
+  {
+    "video_name": "_Juow4q7js0_trim_3.mp4",
+    "caption": "Two people are assembling surveillance camera circuitry in the manufacturing area.",
+    "gt_actions": [
+      "assembling electronic components"
+    ]
+  },
+  {
+    "video_name": "_Juow4q7js0_trim_4.mp4",
+    "caption": "A person is screwing surveillance camera circuitry in the manufacturing area.",
+    "gt_actions": [
+      "screwing parts",
+      "assembling electronic components"
+    ]
+  },
+  {
+    "video_name": "_Juow4q7js0_trim_5.mp4",
+    "caption": "A person is assembling surveillance camera circuitry in the manufacturing area.",
+    "gt_actions": [
+      "assembling electronic components"
+    ]
+  },
+  {
+    "video_name": "_Juow4q7js0_trim_6.mp4",
+    "caption": "Three people are screwing and assembling surveillance camera parts in the manufacturing area.",
+    "gt_actions": [
+      "screwing parts",
+      "assembling electronic components"
+    ]
+  },
+  {
+    "video_name": "_Juow4q7js0_trim_7.mp4",
+    "caption": "A group of people are assembling surveillance camera parts and checking quality by watching a screen in the manufacturing area.",
+    "gt_actions": [
+      "assembling electronic components",
+      "looking at screen",
+      "testing product functionality"
+    ]
+  },
+  {
+    "video_name": "_n8cIxEpups_trim_0.mp4",
+    "caption": "A person is crouching down and placing a yellow box on a shelf in a large warehouse.",
+    "gt_actions": [
+      "placing object",
+      "crouching"
+    ]
+  },
+  {
+    "video_name": "_n8cIxEpups_trim_2.mp4",
+    "caption": "A person is operating a blue forklift along a yellow line in a large warehouse.",
+    "gt_actions": [
+      "operating industrial vehicle"
+    ]
+  },
+  {
+    "video_name": "_n8cIxEpups_trim_3.mp4",
+    "caption": "A person is walking past the shelves and looking around in a large warehouse.",
+    "gt_actions": [
+      "walking"
+    ]
+  },
+  {
+    "video_name": "_n8cIxEpups_trim_4.mp4",
+    "caption": "A person is bowing his head to search for something on a shelf in a large warehouse.",
+    "gt_actions": [
+      "picking object",
+      "crouching"
+    ]
+  },
+  {
+    "video_name": "_n8cIxEpups_trim_6.mp4",
+    "caption": "A person is operating a blue forklift while standing inside it in a large warehouse.",
+    "gt_actions": [
+      "operating industrial vehicle",
+      "standing"
+    ]
+  },
+  {
+    "video_name": "_n8cIxEpups_trim_7.mp4",
+    "caption": "A person is operating a blue forklift while standing inside it in a large warehouse.",
+    "gt_actions": [
+      "operating industrial vehicle",
+      "standing"
+    ]
+  },
+  {
+    "video_name": "_n8cIxEpups_trim_8.mp4",
+    "caption": "A person is inspecting an item in front of a shelf and then putting it into his pocket in a large warehouse.",
+    "gt_actions": [
+      "picking object",
+      "inspecting equipment or text"
+    ]
+  },
+  {
+    "video_name": "_n8cIxEpups_trim_9.mp4",
+    "caption": "A person is tucking in his shirt and then walking past the shelves in a large warehouse.",
+    "gt_actions": [
+      "adjusting clothing",
+      "walking"
+    ]
+  },
+  {
+    "video_name": "_n8cIxEpups_trim_10.mp4",
+    "caption": "A person is walking past the shelves in a large warehouse.",
+    "gt_actions": [
+      "walking"
+    ]
+  },
+  {
+    "video_name": "_n8cIxEpups_trim_11.mp4",
+    "caption": "A person is walking past the shelves in a large warehouse.",
+    "gt_actions": [
+      "walking"
+    ]
+  },
+  {
+    "video_name": "_n8cIxEpups_trim_13.mp4",
+    "caption": "A person is bending down and placing an item on a shelf in a large warehouse.",
+    "gt_actions": [
+      "placing object",
+      "bending down"
+    ]
+  },
+  {
+    "video_name": "_n8cIxEpups_trim_14.mp4",
+    "caption": "A person is walking past the shelves in a large warehouse.",
+    "gt_actions": [
+      "walking"
+    ]
+  },
+  {
+    "video_name": "_n8cIxEpups_trim_16.mp4",
+    "caption": "A person is pulling a pallet along the floor in a large warehouse.",
+    "gt_actions": [
+      "pulling object"
+    ]
+  },
+  {
+    "video_name": "_n8cIxEpups_trim_17.mp4",
+    "caption": "A person is pulling a pallet along the floor in a large warehouse.",
+    "gt_actions": [
+      "pulling object"
+    ]
+  },
+  {
+    "video_name": "_n8cIxEpups_trim_18.mp4",
+    "caption": "A person is pulling a pallet along the floor in a large warehouse.",
+    "gt_actions": [
+      "pulling object"
+    ]
+  },
+  {
+    "video_name": "_nm1Yb8sxxY_trim_0.mp4",
+    "caption": "A person is posing for the camera in a warehouse, then trying to lift several heavy objects and showing signs of back pain.",
+    "gt_actions": [
+      "posing for camera",
+      "picking object",
+      "showing discomfort"
+    ]
+  },
+  {
+    "video_name": "_nm1Yb8sxxY_trim_1.mp4",
+    "caption": "A person is trying to lift and pull several heavy objects in a warehouse.",
+    "gt_actions": [
+      "picking object",
+      "pulling object"
+    ]
+  },
+  {
+    "video_name": "_nm1Yb8sxxY_trim_2.mp4",
+    "caption": "A person is pulling a heavy object in a warehouse. Another person is looking surprised. A third person is operating a forklift and waving at them.",
+    "gt_actions": [
+      "pulling object",
+      "operating industrial vehicle",
+      "signaling to someone"
+    ]
+  },
+  {
+    "video_name": "_pb0jbweL3w_clip0_trim_0.mp4",
+    "caption": "A person is writing on a clipboard. Another person is standing on one foot behind a van.",
+    "gt_actions": [
+      "writing notes",
+      "standing"
+    ]
+  },
+  {
+    "video_name": "_pb0jbweL3w_clip0_trim_1.mp4",
+    "caption": "A person is closing the rear door of a van.",
+    "gt_actions": [
+      "closing vehicle door"
+    ]
+  },
+  {
+    "video_name": "_pb0jbweL3w_clip0_trim_3.mp4",
+    "caption": "A person is placing their second foot and getting into a van.",
+    "gt_actions": [
+      "entering vehicle"
+    ]
+  },
+  {
+    "video_name": "0a-WuC1Xdl4_trim_0.mp4",
+    "caption": "A person is stopping a car beside a parking machine and pressing buttons on it.",
+    "gt_actions": [
+      "driving vehicle",
+      "pressing button",
+      "parking vehicle"
+    ]
+  },
+  {
+    "video_name": "0a-WuC1Xdl4_trim_1.mp4",
+    "caption": "A car is being parked in a parking spot, and two people are walking away from it.",
+    "gt_actions": [
+      "parking vehicle",
+      "exiting vehicle",
+      "walking"
+    ]
+  },
+  {
+    "video_name": "0a-WuC1Xdl4_trim_2.mp4",
+    "caption": "A car's rear hatch is opening by itself, and a person is walking towards it and then closing it.",
+    "gt_actions": [
+      "opening vehicle door",
+      "closing vehicle door",
+      "walking"
+    ]
+  },
+  {
+    "video_name": "0a-WuC1Xdl4_trim_3.mp4",
+    "caption": "A person is unlocking a car and getting into it.",
+    "gt_actions": [
+      "opening vehicle door",
+      "entering vehicle"
+    ]
+  },
+  {
+    "video_name": "0a-WuC1Xdl4_trim_4.mp4",
+    "caption": "A car is moving backward and then moving forward.",
+    "gt_actions": [
+      "backing vehicle",
+      "driving vehicle"
+    ]
+  },
+  {
+    "video_name": "0a-WuC1Xdl4_trim_5.mp4",
+    "caption": "A car is stopping and turning off its lights. Another car is driving into the parking area.",
+    "gt_actions": [
+      "driving vehicle",
+      "parking vehicle"
+    ]
+  },
+  {
+    "video_name": "0a-WuC1Xdl4_trim_6.mp4",
+    "caption": "A person is getting out of his car and walking towards another car.",
+    "gt_actions": [
+      "exiting vehicle",
+      "walking"
+    ]
+  },
+  {
+    "video_name": "0a-WuC1Xdl4_trim_7.mp4",
+    "caption": "A person wearing blue shirt is taking another person out of a car and checking his body.",
+    "gt_actions": [
+      "assisting injured coworker",
+      "exiting vehicle",
+      "arresting person"
+    ]
+  },
+  {
+    "video_name": "0a-WuC1Xdl4_trim_8.mp4",
+    "caption": "A person wearing a blue shirt is checking a person wearing a black shirt and then walking him to the car.",
+    "gt_actions": [
+      "assisting injured coworker",
+      "arresting person",
+      "walking"
+    ]
+  },
+  {
+    "video_name": "0E-P6HrYYQI_trim_0.mp4",
+    "caption": "A group of people are assembling electronic components, using tools, and operating machinery in the manufacturing area.",
+    "gt_actions": [
+      "assembling electronic components",
+      "screwing parts",
+      "operating machine"
+    ]
+  },
+  {
+    "video_name": "0E-P6HrYYQI_trim_1.mp4",
+    "caption": "A person is operating a machine and adjusting a glove in the manufacturing area.",
+    "gt_actions": [
+      "operating machine",
+      "putting on PPE"
+    ]
+  },
+  {
+    "video_name": "0jbAwaxJlCU_trim_0.mp4",
+    "caption": "Three people are lifting and stacking a heavy spiral-shaped metal object vertically.",
+    "gt_actions": [
+      "picking object",
+      "stacking objects",
+      "adjusting machine components"
+    ]
+  },
+  {
+    "video_name": "0jbAwaxJlCU_trim_1.mp4",
+    "caption": "A person is stacking multiple metal pieces on top of a heavy spiral-shaped metal object, while two others are standing beside him and watching.",
+    "gt_actions": [
+      "stacking objects",
+      "watching process",
+      "standing",
+      "adjusting machine components"
+    ]
+  },
+  {
+    "video_name": "0jbAwaxJlCU_trim_2.mp4",
+    "caption": "A person is stacking a metal piece on top of a heavy object that forms a hydraulic press.",
+    "gt_actions": [
+      "stacking objects",
+      "adjusting machine components"
+    ]
+  },
+  {
+    "video_name": "0jbAwaxJlCU_trim_3.mp4",
+    "caption": "A person is turning and adjusting a circular metal object in a hydraulic press.",
+    "gt_actions": [
+      "adjusting machine components",
+      "operating machine"
+    ]
+  },
+  {
+    "video_name": "0jbAwaxJlCU_trim_4.mp4",
+    "caption": "A group of people are looking at a hydraulic press.",
+    "gt_actions": [
+      "inspecting equipment or text",
+      "watching process"
+    ]
+  },
+  {
+    "video_name": "0jbAwaxJlCU_trim_5.mp4",
+    "caption": "Two people are loading a metallic spiral object onto a truck and laying it down horizontally.",
+    "gt_actions": [
+      "loading materials",
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "0jbAwaxJlCU_trim_6.mp4",
+    "caption": "Two people are adjusting large machine components on a truck.",
+    "gt_actions": [
+      "adjusting machine components",
+      "loading materials"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_0.mp4",
+    "caption": "Various vehicles are driving past a broken truck that was destroyed in an accident on the road.",
+    "gt_actions": [
+      "driving vehicle"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_3.mp4",
+    "caption": "Two people are adjusting the tires of a broken truck.",
+    "gt_actions": [
+      "changing tire"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_4.mp4",
+    "caption": "Various vehicles are driving past a broken truck that was destroyed in an accident on the road. A person wearing a green outfit is crouching and talking on a phone beside it, while another person wearing a black outfit is getting up and walking.",
+    "gt_actions": [
+      "crouching",
+      "walking",
+      "talking",
+      "getting up"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_5.mp4",
+    "caption": "Various vehicles are driving past a broken truck that was destroyed in an accident on the road. A person wearing a green outfit is getting up and standing while another in black is walking.",
+    "gt_actions": [
+      "driving vehicle",
+      "standing",
+      "walking",
+      "getting up"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_7.mp4",
+    "caption": "A person is getting onto an auto beside a broken truck on the road.",
+    "gt_actions": [
+      "entering vehicle"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_10.mp4",
+    "caption": "A person is taking a photo of a broken truck on the road using a phone.",
+    "gt_actions": [
+      "taking a photo"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_11.mp4",
+    "caption": "A person wearing an orange outfit is taking a photo of a broken truck on the road using a phone, while another person is standing beside him and watching.",
+    "gt_actions": [
+      "watching process",
+      "taking a photo",
+      "standing"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_12.mp4",
+    "caption": "A person is signaling an excavator unloading gravel from a broken truck.",
+    "gt_actions": [
+      "unloading materials",
+      "signaling to someone",
+      "unloading from truck"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_13.mp4",
+    "caption": "A person is signaling an excavator picking up gravel from a broken truck.",
+    "gt_actions": [
+      "unloading materials",
+      "signaling to someone",
+      "unloading from truck"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_14.mp4",
+    "caption": "A person wearing a yellow shawl is signaling an excavator picking up gravel from a broken truck while others are watching.",
+    "gt_actions": [
+      "unloading materials",
+      "signaling to someone",
+      "unloading from truck",
+      "watching process"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_15.mp4",
+    "caption": "An excavator is picking up gravel from a broken truck while a person is watching.",
+    "gt_actions": [
+      "operating industrial vehicle",
+      "unloading from truck",
+      "watching process"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_16.mp4",
+    "caption": "An excavator is picking up gravel from a broken truck and loading it onto another truck.",
+    "gt_actions": [
+      "operating industrial vehicle",
+      "loading materials",
+      "unloading materials",
+      "signaling to someone",
+      "loading to truck",
+      "unloading from truck"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_17.mp4",
+    "caption": "A person is operating an excavator, picking up gravel from a broken truck and loading it onto another truck.",
+    "gt_actions": [
+      "operating industrial vehicle",
+      "loading materials",
+      "unloading materials",
+      "signaling to someone",
+      "loading to truck",
+      "unloading from truck"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_18.mp4",
+    "caption": "A person is operating an excavator, picking up gravel from a broken truck and loading it onto another truck.",
+    "gt_actions": [
+      "operating industrial vehicle",
+      "loading materials",
+      "unloading materials",
+      "signaling to someone",
+      "loading to truck",
+      "unloading from truck"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_21.mp4",
+    "caption": "An excavator is picking up gravel from a broken truck and loading it onto another truck.",
+    "gt_actions": [
+      "operating industrial vehicle",
+      "loading materials",
+      "unloading materials",
+      "signaling to someone",
+      "loading to truck",
+      "unloading from truck"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_22.mp4",
+    "caption": "A group of people are sitting, standing, and walking beside a broken truck on the road, while one of them is taking photos.",
+    "gt_actions": [
+      "taking a photo",
+      "watching process",
+      "standing",
+      "walking",
+      "sitting"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_24.mp4",
+    "caption": "A person is operating a lifting machine while another person is picking up a heavy object from under the broken truck.",
+    "gt_actions": [
+      "picking object",
+      "operating industrial vehicle"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_25.mp4",
+    "caption": "A person is twisting a lifting machine under the broken truck.",
+    "gt_actions": [
+      "picking object",
+      "adjusting machine components"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_26.mp4",
+    "caption": "A person is twisting a bolt with a wrench and hammering another bolt under the broken truck, while another person is operating a lifting machine.",
+    "gt_actions": [
+      "picking object",
+      "hammering component",
+      "adjusting fastener with wrench"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_27.mp4",
+    "caption": "A person is hammering a bolt under the broken truck.",
+    "gt_actions": [
+      "hammering component"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_28.mp4",
+    "caption": "A person is hammering a bolt under the broken truck while another person is operating a lifting machine.",
+    "gt_actions": [
+      "picking object",
+      "hammering component"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_31.mp4",
+    "caption": "Three people are adjusting the undercarriage of a broken truck on the road.",
+    "gt_actions": [
+      "adjusting fastener with wrench",
+      "adjusting machine components"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_32.mp4",
+    "caption": "A person is twisting a wrench and adjusting a bolt in the undercarriage of a broken truck on the road.",
+    "gt_actions": [
+      "adjusting fastener with wrench",
+      "adjusting machine components"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_33.mp4",
+    "caption": "A person is twisting a bolt in the undercarriage of a broken truck.",
+    "gt_actions": [
+      "adjusting fastener with wrench",
+      "adjusting machine components"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_34.mp4",
+    "caption": "Four people are twisting nuts, adjusting parts, and hammering the undercarriage of a broken truck on the road.",
+    "gt_actions": [
+      "hammering component",
+      "adjusting fastener with wrench",
+      "adjusting machine components"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_35.mp4",
+    "caption": "Three people are adjusting the undercarriage of a broken truck on the road.",
+    "gt_actions": [
+      "adjusting fastener with wrench",
+      "adjusting machine components"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_36.mp4",
+    "caption": "Three people are adjusting the undercarriage of a broken truck on the road.",
+    "gt_actions": [
+      "adjusting fastener with wrench",
+      "adjusting machine components"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_37.mp4",
+    "caption": "A person is adjusting a nut of a broken truck with his hand.",
+    "gt_actions": [
+      "adjusting fastener with wrench",
+      "adjusting machine components"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_38.mp4",
+    "caption": "A person is twisting a nut of a broken truck with a wrench while another person is hammering a bolt.",
+    "gt_actions": [
+      "hammering component",
+      "adjusting fastener with wrench",
+      "adjusting machine components"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_50.mp4",
+    "caption": "A person is hammering the undercarriage of a broken truck on the road.",
+    "gt_actions": [
+      "hammering component",
+      "adjusting machine components"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_59.mp4",
+    "caption": "A person is creating a fire to heat a metal piece.",
+    "gt_actions": [
+      "heating metal"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_60.mp4",
+    "caption": "A person is holding a metal piece above the fire to heat it.",
+    "gt_actions": [
+      "holding object",
+      "heating metal"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_61.mp4",
+    "caption": "A person is holding a piece of metal while another person is hammering it to shape, with others watching.",
+    "gt_actions": [
+      "holding object",
+      "hammering component",
+      "bending metal sheet",
+      "watching process"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_62.mp4",
+    "caption": "A person is holding a piece of metal while another person is hammering it to shape, with others watching.",
+    "gt_actions": [
+      "holding object",
+      "hammering component",
+      "bending metal sheet",
+      "watching process"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_63.mp4",
+    "caption": "A person is hammering a metal piece and then placing it with other metal pieces.",
+    "gt_actions": [
+      "hammering component",
+      "stacking objects"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_64.mp4",
+    "caption": "A person is stacking metal pieces, placing them on top of each other.",
+    "gt_actions": [
+      "stacking objects"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_65.mp4",
+    "caption": "A person is hammering metal pieces while another person is twisting a nut on top with a wrench.",
+    "gt_actions": [
+      "hammering component",
+      "adjusting fastener with wrench",
+      "adjusting machine components"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_66.mp4",
+    "caption": "A person is hammering metal pieces while another person is twisting a nut on top with a wrench.",
+    "gt_actions": [
+      "hammering component",
+      "adjusting fastener with wrench",
+      "adjusting machine components"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_67.mp4",
+    "caption": "Two people are moving a heavy stack of metal pieces, dragging it along the ground.",
+    "gt_actions": [
+      "holding object",
+      "pulling object",
+      "walking"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_68.mp4",
+    "caption": "Two people are lifting and adjusting a heavy stack of metal pieces.",
+    "gt_actions": [
+      "picking object",
+      "stacking objects"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_69.mp4",
+    "caption": "Two people are lifting and adjusting a heavy stack of metal pieces.",
+    "gt_actions": [
+      "picking object",
+      "stacking objects"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_83.mp4",
+    "caption": "A person is holding a tire of a broken truck while another person is adjusting it by standing and pressing a lever with his foot.",
+    "gt_actions": [
+      "holding object",
+      "changing tire",
+      "standing"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_84.mp4",
+    "caption": "A person is holding a tire of a broken truck while another person is adjusting it by rotating a lever.",
+    "gt_actions": [
+      "holding object",
+      "operating machine",
+      "changing tire",
+      "adjusting fastener with wrench",
+      "adjusting machine components"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_85.mp4",
+    "caption": "A person is adjusting a nut in a tire of a broken truck while another person is rotating a lever.",
+    "gt_actions": [
+      "operating machine",
+      "changing tire",
+      "adjusting fastener with wrench",
+      "adjusting machine components"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_86.mp4",
+    "caption": "A person is adjusting a nut in a tire of a broken truck while another person is rotating a lever.",
+    "gt_actions": [
+      "operating machine",
+      "changing tire",
+      "adjusting fastener with wrench",
+      "adjusting machine components"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_87.mp4",
+    "caption": "A person is adjusting a nut in a tire of a broken truck while another person is adjusting it by standing and pressing a lever with his foot.",
+    "gt_actions": [
+      "operating machine",
+      "changing tire",
+      "adjusting fastener with wrench",
+      "adjusting machine components",
+      "standing"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_88.mp4",
+    "caption": "A person is adjusting a tire of a broken truck by standing and pressing a lever with his foot.",
+    "gt_actions": [
+      "operating machine",
+      "changing tire",
+      "adjusting fastener with wrench",
+      "adjusting machine components",
+      "standing"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_89.mp4",
+    "caption": "A person is adjusting a tire of a broken truck by rotating a lever.",
+    "gt_actions": [
+      "operating machine",
+      "changing tire",
+      "adjusting fastener with wrench",
+      "adjusting machine components"
+    ]
+  },
+  {
+    "video_name": "0kog0iuGxOc_trim_90.mp4",
+    "caption": "A person is adjusting a tire of a broken truck by inserting a lever and pressing it with his foot while standing on it.",
+    "gt_actions": [
+      "operating machine",
+      "changing tire",
+      "adjusting fastener with wrench",
+      "adjusting machine components",
+      "standing"
+    ]
+  },
+  {
+    "video_name": "0pdzT7YVVAo_trim_0.mp4",
+    "caption": "A person is stacking small black disks, placing them on top of each other in a factory machine.",
+    "gt_actions": [
+      "stacking objects"
+    ]
+  },
+  {
+    "video_name": "0piTQw83NBE_trim_0.mp4",
+    "caption": "Two people are standing and moving around wood planks in a workshop, while a person wearing a blue shirt is walking.",
+    "gt_actions": [
+      "standing",
+      "walking",
+      "moving object"
+    ]
+  },
+  {
+    "video_name": "0piTQw83NBE_trim_1.mp4",
+    "caption": "Two people are standing and moving around wood planks in a workshop, while a person wearing a blue shirt is bending.",
+    "gt_actions": [
+      "standing",
+      "moving object",
+      "bending down"
+    ]
+  },
+  {
+    "video_name": "0piTQw83NBE_trim_2.mp4",
+    "caption": "Two people are standing and moving around wood planks in a workshop, while a person wearing a blue shirt is inspecting something.",
+    "gt_actions": [
+      "inspecting equipment or text",
+      "standing",
+      "moving object"
+    ]
+  },
+  {
+    "video_name": "0piTQw83NBE_trim_3.mp4",
+    "caption": "A person is rotating wood planks in a workshop while another person wearing a blue shirt is eating.",
+    "gt_actions": [
+      "moving object",
+      "rotating wood planks",
+      "eating"
+    ]
+  },
+  {
+    "video_name": "0piTQw83NBE_trim_4.mp4",
+    "caption": "A person is rotating wood planks in a workshop while another person wearing a blue shirt is walking and eating.",
+    "gt_actions": [
+      "moving object",
+      "rotating wood planks",
+      "walking",
+      "eating"
+    ]
+  },
+  {
+    "video_name": "0qSrnbfVI4I_trim_0.mp4",
+    "caption": "A person wearing a yellow dress is walking through the factory, talking, while others wearing blue dresses are sitting and assembling parts behind.",
+    "gt_actions": [
+      "talking",
+      "walking",
+      "assembling electronic components",
+      "sitting"
+    ]
+  },
+  {
+    "video_name": "0qSrnbfVI4I_trim_1.mp4",
+    "caption": "A person wearing a yellow dress is walking through the factory, talking, while others wearing blue dresses are sitting and assembling parts behind.",
+    "gt_actions": [
+      "talking",
+      "walking",
+      "assembling electronic components",
+      "sitting"
+    ]
+  },
+  {
+    "video_name": "0qSrnbfVI4I_trim_2.mp4",
+    "caption": "A person wearing a yellow dress is walking through the factory, talking, while others wearing blue dresses are sitting and assembling parts behind.",
+    "gt_actions": [
+      "talking",
+      "walking",
+      "assembling electronic components",
+      "sitting"
+    ]
+  },
+  {
+    "video_name": "0qSrnbfVI4I_trim_3.mp4",
+    "caption": "A person wearing a yellow dress is walking through the factory, talking, while others wearing blue dresses are sitting and assembling parts behind.",
+    "gt_actions": [
+      "talking",
+      "walking",
+      "assembling electronic components",
+      "sitting"
+    ]
+  },
+  {
+    "video_name": "0qSrnbfVI4I_trim_4.mp4",
+    "caption": "A person wearing a yellow dress is walking through the factory, talking, while others wearing blue dresses are sitting and assembling parts behind.",
+    "gt_actions": [
+      "talking",
+      "walking",
+      "assembling electronic components",
+      "sitting"
+    ]
+  },
+  {
+    "video_name": "0qSrnbfVI4I_trim_5.mp4",
+    "caption": "A group of people wearing blue dresses are sitting and working on an assembly line, while two people are standing.",
+    "gt_actions": [
+      "sitting",
+      "assembling electronic components",
+      "standing"
+    ]
+  },
+  {
+    "video_name": "0XutYYk-0Uc_trim_0.mp4",
+    "caption": "A person is assembling surveillance camera parts in a manufacturing area.",
+    "gt_actions": [
+      "assembling electronic components"
+    ]
+  },
+  {
+    "video_name": "0XutYYk-0Uc_trim_1.mp4",
+    "caption": "A person is assembling and screwing surveillance camera parts in a manufacturing area.",
+    "gt_actions": [
+      "screwing parts",
+      "assembling electronic components"
+    ]
+  },
+  {
+    "video_name": "0XutYYk-0Uc_trim_2.mp4",
+    "caption": "A person is arranging surveillance camera body parts in a manufacturing area.",
+    "gt_actions": [
+      "assembling electronic components"
+    ]
+  },
+  {
+    "video_name": "0XutYYk-0Uc_trim_3.mp4",
+    "caption": "A person is adjusting surveillance camera wires using hands and pliers in a manufacturing area.",
+    "gt_actions": [
+      "adjusting wiring",
+      "assembling electronic components"
+    ]
+  },
+  {
+    "video_name": "0XutYYk-0Uc_trim_4.mp4",
+    "caption": "A person is managing surveillance camera cables using zip ties and pliers in a manufacturing area.",
+    "gt_actions": [
+      "adjusting wiring",
+      "assembling electronic components"
+    ]
+  },
+  {
+    "video_name": "0XutYYk-0Uc_trim_6.mp4",
+    "caption": "A person is adjusting wires and parts to assemble a surveillance camera in a manufacturing area.",
+    "gt_actions": [
+      "adjusting wiring",
+      "assembling electronic components"
+    ]
+  },
+  {
+    "video_name": "0XutYYk-0Uc_trim_7.mp4",
+    "caption": "A person is adjusting and arranging wires and parts to assemble a surveillance camera in a manufacturing area.",
+    "gt_actions": [
+      "adjusting wiring",
+      "assembling electronic components"
+    ]
+  },
+  {
+    "video_name": "0XutYYk-0Uc_trim_8.mp4",
+    "caption": "A person is inserting screws and screwing them using a hanging screwdriver to assemble a surveillance camera in a manufacturing area.",
+    "gt_actions": [
+      "screwing parts",
+      "inserting screws",
+      "assembling electronic components"
+    ]
+  },
+  {
+    "video_name": "0XutYYk-0Uc_trim_9.mp4",
+    "caption": "A person is inserting screws and assembling a surveillance camera in a manufacturing area.",
+    "gt_actions": [
+      "screwing parts",
+      "inserting screws",
+      "assembling electronic components"
+    ]
+  },
+  {
+    "video_name": "0XutYYk-0Uc_trim_10.mp4",
+    "caption": "A group of people are working on a surveillance camera assembly line in a manufacturing area.",
+    "gt_actions": [
+      "assembling electronic components"
+    ]
+  },
+  {
+    "video_name": "0XutYYk-0Uc_trim_11.mp4",
+    "caption": "A person is scanning a sheet of paper and looking at the screen in a manufacturing area.",
+    "gt_actions": [
+      "looking at screen",
+      "scanning label"
+    ]
+  },
+  {
+    "video_name": "0XutYYk-0Uc_trim_12.mp4",
+    "caption": "A person is placing assembled surveillance cameras into boxes in a manufacturing area.",
+    "gt_actions": [
+      "placing object"
+    ]
+  },
+  {
+    "video_name": "0XutYYk-0Uc_trim_13.mp4",
+    "caption": "A person is placing assembled surveillance cameras into boxes in a manufacturing area.",
+    "gt_actions": [
+      "placing object"
+    ]
+  },
+  {
+    "video_name": "0XutYYk-0Uc_trim_14.mp4",
+    "caption": "A person is placing assembled surveillance camera parts into boxes in a manufacturing area.",
+    "gt_actions": [
+      "placing object"
+    ]
+  },
+  {
+    "video_name": "0XutYYk-0Uc_trim_15.mp4",
+    "caption": "A person is placing assembled surveillance camera parts into boxes in a manufacturing area and then placing them on the conveyor belt.",
+    "gt_actions": [
+      "placing object"
+    ]
+  },
+  {
+    "video_name": "0XutYYk-0Uc_trim_16.mp4",
+    "caption": "A person is wrapping packages and placing them into carton boxes in a manufacturing area.",
+    "gt_actions": [
+      "sealing boxes",
+      "placing object"
+    ]
+  },
+  {
+    "video_name": "0XutYYk-0Uc_trim_17.mp4",
+    "caption": "A person is wrapping packages and placing them into carton boxes in a manufacturing area.",
+    "gt_actions": [
+      "sealing boxes",
+      "placing object"
+    ]
+  },
+  {
+    "video_name": "0XutYYk-0Uc_trim_18.mp4",
+    "caption": "A group of people are walking on a wooden bridge.",
+    "gt_actions": [
+      "walking"
+    ]
+  },
+  {
+    "video_name": "0XutYYk-0Uc_trim_19.mp4",
+    "caption": "A group of people are walking on a wooden bridge.",
+    "gt_actions": [
+      "walking"
+    ]
+  },
+  {
+    "video_name": "0zQ9fI30v1E_trim_0.mp4",
+    "caption": "A person wearing a red shirt is placing fabric on a table while a person wearing a striped shirt is stamping several sheets. Two others are also working with fabric at the table.",
+    "gt_actions": [
+      "folding fabric",
+      "stamping object"
+    ]
+  },
+  {
+    "video_name": "0zQ9fI30v1E_trim_1.mp4",
+    "caption": "A person wearing a red shirt is folding fabric while a person wearing a striped shirt is stamping several sheets. Two others are also working with fabric on the table in a textile factory.",
+    "gt_actions": [
+      "folding fabric",
+      "stamping object"
+    ]
+  },
+  {
+    "video_name": "0zQ9fI30v1E_trim_2.mp4",
+    "caption": "A person wearing a red shirt is folding fabric while a person wearing a striped shirt is stamping several sheets. Two others are also working with fabric on the table in a textile factory.",
+    "gt_actions": [
+      "folding fabric",
+      "stamping object"
+    ]
+  },
+  {
+    "video_name": "0zQ9fI30v1E_trim_3.mp4",
+    "caption": "A person wearing a red shirt is folding fabric while a person wearing a striped shirt is stamping several sheets. Two others are also working with fabric on the table in a textile factory.",
+    "gt_actions": [
+      "folding fabric",
+      "stamping object"
+    ]
+  },
+  {
+    "video_name": "0zQ9fI30v1E_trim_4.mp4",
+    "caption": "A person wearing a red shirt is folding fabric while a person wearing a striped shirt is stamping several sheets. Two others are also working with fabric on the table in a textile factory.",
+    "gt_actions": [
+      "folding fabric",
+      "stamping object"
+    ]
+  },
+  {
+    "video_name": "0zQ9fI30v1E_trim_5.mp4",
+    "caption": "A person wearing a red shirt is tying a stack of fabric while a person wearing a striped shirt is stamping several sheets. Two others are also working with fabric on the table in a textile factory.",
+    "gt_actions": [
+      "folding fabric",
+      "tying fabric",
+      "stamping object"
+    ]
+  },
+  {
+    "video_name": "0zQ9fI30v1E_trim_6.mp4",
+    "caption": "A person wearing a red shirt is tearing a piece of paper while a person wearing a striped shirt is stamping several sheets. Two others are also working with fabric on the table in a textile factory.",
+    "gt_actions": [
+      "folding fabric",
+      "stamping object",
+      "tearing something"
+    ]
+  },
+  {
+    "video_name": "0zQ9fI30v1E_trim_7.mp4",
+    "caption": "A person wearing a red shirt is tying something while a person wearing a striped shirt is stamping several sheets. Two others are also working with fabric on the table in a textile factory. A person wearing a gray shirt is walking in and crouching under the table.",
+    "gt_actions": [
+      "crouching",
+      "folding fabric",
+      "tying fabric",
+      "stamping object",
+      "walking"
+    ]
+  },
+  {
+    "video_name": "0zQ9fI30v1E_trim_8.mp4",
+    "caption": "A person wearing a red shirt is pulling a sheet of fabric while a person wearing a striped shirt is walking away. Two others are also working with fabric on the table in a textile factory. A person wearing a gray shirt is crouching under the table.",
+    "gt_actions": [
+      "crouching",
+      "folding fabric",
+      "pulling object",
+      "walking"
+    ]
+  },
+  {
+    "video_name": "0zQ9fI30v1E_trim_9.mp4",
+    "caption": "Four people are folding or placing pieces of fabric on the table in a textile factory.",
+    "gt_actions": [
+      "folding fabric"
+    ]
+  },
+  {
+    "video_name": "0zQ9fI30v1E_trim_10.mp4",
+    "caption": "Four people are folding or placing pieces of fabric on the table in a textile factory.",
+    "gt_actions": [
+      "folding fabric"
+    ]
+  },
+  {
+    "video_name": "0zQ9fI30v1E_trim_11.mp4",
+    "caption": "Four people are folding or placing pieces of fabric on the table in a textile factory.",
+    "gt_actions": [
+      "folding fabric"
+    ]
+  },
+  {
+    "video_name": "0zQ9fI30v1E_trim_12.mp4",
+    "caption": "A person wearing a red shirt is tying a stack of fabric while a person wearing a gray shirt is crouching under the table. Two others are also working with fabric on the table in a textile factory.",
+    "gt_actions": [
+      "crouching",
+      "folding fabric",
+      "tying fabric"
+    ]
+  },
+  {
+    "video_name": "0zQ9fI30v1E_trim_13.mp4",
+    "caption": "A person wearing a red shirt is tying a stack of fabric while a person wearing a gray shirt is crouching under the table and then walking. Two others are also working with fabric on the table in a textile factory.",
+    "gt_actions": [
+      "walking",
+      "crouching",
+      "folding fabric",
+      "tying fabric"
+    ]
+  },
+  {
+    "video_name": "0zQ9fI30v1E_trim_14.mp4",
+    "caption": "Four people are folding or placing pieces of fabric on the table in a textile factory.",
+    "gt_actions": [
+      "folding fabric"
+    ]
+  },
+  {
+    "video_name": "0zQ9fI30v1E_trim_15.mp4",
+    "caption": "Three people are folding or placing pieces of fabric on the table while a person wearing a gray shirt is walking in a textile factory.",
+    "gt_actions": [
+      "folding fabric",
+      "walking"
+    ]
+  },
+  {
+    "video_name": "0zQ9fI30v1E_trim_16.mp4",
+    "caption": "Three people are folding or placing pieces of fabric on the table while a person wearing a gray shirt is crouching under the table, searching for something in a textile factory.",
+    "gt_actions": [
+      "folding fabric",
+      "crouching"
+    ]
+  },
+  {
+    "video_name": "0zQ9fI30v1E_trim_17.mp4",
+    "caption": "Three people are folding or placing pieces of fabric on the table in a textile factory.",
+    "gt_actions": [
+      "folding fabric"
+    ]
+  },
+  {
+    "video_name": "0zQ9fI30v1E_trim_18.mp4",
+    "caption": "Two people are folding or placing pieces of fabric on the table while a person wearing a black shirt is walking and carrying some fabric in a textile factory.",
+    "gt_actions": [
+      "holding object",
+      "moving object",
+      "folding fabric",
+      "walking"
+    ]
+  },
+  {
+    "video_name": "0zQ9fI30v1E_trim_19.mp4",
+    "caption": "Two people are folding or placing pieces of fabric on the table while a person wearing a black shirt is walking and carrying some fabric in a textile factory.",
+    "gt_actions": [
+      "holding object",
+      "moving object",
+      "folding fabric",
+      "walking"
+    ]
+  },
+  {
+    "video_name": "0zQ9fI30v1E_trim_20.mp4",
+    "caption": "Two people are folding or placing pieces of fabric on the table in a textile factory.",
+    "gt_actions": [
+      "folding fabric"
+    ]
+  },
+  {
+    "video_name": "0zQ9fI30v1E_trim_21.mp4",
+    "caption": "A person wearing a red shirt is stacking and folding pieces of fabric on the table while a person wearing a gray shirt is getting up and walking. One other person is also working with fabric at the table in a textile factory.",
+    "gt_actions": [
+      "stacking objects",
+      "folding fabric",
+      "walking",
+      "getting up"
+    ]
+  },
+  {
+    "video_name": "0zQ9fI30v1E_trim_22.mp4",
+    "caption": "A person wearing a red shirt is stacking and folding pieces of fabric on the table while a person wearing a gray shirt is walking. One other person is also working with fabric at the table in a textile factory.",
+    "gt_actions": [
+      "stacking objects",
+      "folding fabric",
+      "walking"
+    ]
+  },
+  {
+    "video_name": "0zQ9fI30v1E_trim_23.mp4",
+    "caption": "Two people are folding or placing pieces of fabric on the table in a textile factory.",
+    "gt_actions": [
+      "folding fabric"
+    ]
+  },
+  {
+    "video_name": "0zQ9fI30v1E_trim_24.mp4",
+    "caption": "Two people are folding or placing pieces of fabric on the table in a textile factory.",
+    "gt_actions": [
+      "folding fabric"
+    ]
+  },
+  {
+    "video_name": "0zQ9fI30v1E_trim_25.mp4",
+    "caption": "Two people are folding or placing pieces of fabric on the table in a textile factory.",
+    "gt_actions": [
+      "folding fabric"
+    ]
+  },
+  {
+    "video_name": "0zQ9fI30v1E_trim_26.mp4",
+    "caption": "A person wearing a red shirt is tying a stack of fabric while a person wearing a black shirt is walking. One other person is also working with fabric on the table in a textile factory.",
+    "gt_actions": [
+      "walking",
+      "folding fabric",
+      "tying fabric"
+    ]
+  },
+  {
+    "video_name": "0zQ9fI30v1E_trim_27.mp4",
+    "caption": "A person wearing a red shirt is tying a stack of fabric while a person wearing a black shirt is walking and pushing a stack of fabric. One other person is also working with fabric on the table in a textile factory.",
+    "gt_actions": [
+      "walking",
+      "folding fabric",
+      "tying fabric",
+      "pushing object"
+    ]
+  },
+  {
+    "video_name": "0zQ9fI30v1E_trim_28.mp4",
+    "caption": "Three people are folding or placing pieces of fabric on the table in a textile factory.",
+    "gt_actions": [
+      "folding fabric"
+    ]
+  },
+  {
+    "video_name": "0zQ9fI30v1E_trim_29.mp4",
+    "caption": "Three people are folding or placing pieces of fabric on the table in a textile factory.",
+    "gt_actions": [
+      "folding fabric"
+    ]
+  },
+  {
+    "video_name": "0zQ9fI30v1E_trim_30.mp4",
+    "caption": "Three people are folding or placing pieces of fabric on the table in a textile factory.",
+    "gt_actions": [
+      "folding fabric"
+    ]
+  },
+  {
+    "video_name": "1b7bsLu74Wk_trim_1.mp4",
+    "caption": "A group of people are standing and arranging red disks on an assembly line in a manufacturing area.",
+    "gt_actions": [
+      "stacking objects",
+      "assembling electronic components",
+      "standing"
+    ]
+  },
+  {
+    "video_name": "1b7bsLu74Wk_trim_3.mp4",
+    "caption": "A group of people are sitting and assembling coils on an assembly line in a manufacturing area.",
+    "gt_actions": [
+      "sitting",
+      "assembling electronic components"
+    ]
+  },
+  {
+    "video_name": "1b7bsLu74Wk_trim_4.mp4",
+    "caption": "A group of people are sitting and working on assembling parts of medical equipment in a manufacturing area.",
+    "gt_actions": [
+      "sitting",
+      "assembling electronic components"
+    ]
+  },
+  {
+    "video_name": "1b7bsLu74Wk_trim_6.mp4",
+    "caption": "A person is sitting and looking at a screen in a manufacturing area.",
+    "gt_actions": [
+      "looking at screen",
+      "sitting"
+    ]
+  },
+  {
+    "video_name": "1SR4reJQnCM_trim_0.mp4",
+    "caption": "A person is driving a forklift through a pile of boxes in a warehouse.",
+    "gt_actions": [
+      "operating industrial vehicle"
+    ]
+  },
+  {
+    "video_name": "1SR4reJQnCM_trim_1.mp4",
+    "caption": "A person is driving a forklift through a pile of boxes in a warehouse.",
+    "gt_actions": [
+      "operating industrial vehicle"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_3.mp4",
+    "caption": "A group of people are rotating and loading a wheel cart with a piece of stone slab in a manufacturing area.",
+    "gt_actions": [
+      "loading materials"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_19.mp4",
+    "caption": "A couple of people are standing while a person wearing a black shirt is walking in a manufacturing area.",
+    "gt_actions": [
+      "walking",
+      "standing"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_20.mp4",
+    "caption": "A couple of people are standing while one person is pushing a wheel cart in a manufacturing area.",
+    "gt_actions": [
+      "pushing object",
+      "standing"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_21.mp4",
+    "caption": "A person is bending down and working on a piece of wood in a manufacturing area.",
+    "gt_actions": [
+      "bending down"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_22.mp4",
+    "caption": "A person is standing while two people are poking sheets of wood with a stick, and another person is pushing a wheel cart in a manufacturing area.",
+    "gt_actions": [
+      "pushing object",
+      "poking object",
+      "standing"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_23.mp4",
+    "caption": "A group of people are rotating and loading a wheel cart in a manufacturing area.",
+    "gt_actions": [
+      "loading materials"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_24.mp4",
+    "caption": "A group of people are rotating and loading a wheel cart in a manufacturing area.",
+    "gt_actions": [
+      "loading materials"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_25.mp4",
+    "caption": "A group of people are rotating and loading a wheel cart in a manufacturing area.",
+    "gt_actions": [
+      "loading materials"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_26.mp4",
+    "caption": "A group of people are rotating and loading a wheel cart with a piece of stone slab while a person wearing a blue shirt is watching in a manufacturing area.",
+    "gt_actions": [
+      "loading materials",
+      "watching process"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_27.mp4",
+    "caption": "Two people are rotating and loading a wheel cart with a piece of stone slab in a manufacturing area.",
+    "gt_actions": [
+      "loading materials"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_28.mp4",
+    "caption": "A group of people are pulling a wheel cart loaded with a stone slab in a manufacturing area.",
+    "gt_actions": [
+      "pulling object"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_29.mp4",
+    "caption": "A group of people are pulling and loading a wheel cart with a piece of stone slab in a manufacturing area.",
+    "gt_actions": [
+      "pulling object",
+      "loading materials"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_30.mp4",
+    "caption": "A person is standing and observing something in a manufacturing area.",
+    "gt_actions": [
+      "standing",
+      "watching process"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_31.mp4",
+    "caption": "A person is walking and observing a machine in a manufacturing area.",
+    "gt_actions": [
+      "walking",
+      "watching process",
+      "inspecting equipment or text"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_34.mp4",
+    "caption": "A person is bending and cleaning a sheet of wood in a manufacturing area.",
+    "gt_actions": [
+      "cleaning object",
+      "bending down"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_35.mp4",
+    "caption": "A person is bending and cleaning a sheet of wood in a manufacturing area.",
+    "gt_actions": [
+      "cleaning object",
+      "bending down"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_36.mp4",
+    "caption": "A person is bending and cleaning a sheet of wood in a manufacturing area.",
+    "gt_actions": [
+      "cleaning object",
+      "bending down"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_44.mp4",
+    "caption": "A person is walking and observing the machine in a manufacturing area.",
+    "gt_actions": [
+      "walking",
+      "watching process",
+      "inspecting equipment or text"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_59.mp4",
+    "caption": "A person is standing, observing the machine, and turning some knobs in a manufacturing area.",
+    "gt_actions": [
+      "watching process",
+      "inspecting equipment or text",
+      "operating machine",
+      "standing"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_60.mp4",
+    "caption": "A person is turning some knobs and then walking back from the control panel in a manufacturing area.",
+    "gt_actions": [
+      "operating machine",
+      "walking"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_70.mp4",
+    "caption": "Two people are standing and talking, then one of them starts walking in a manufacturing area.",
+    "gt_actions": [
+      "talking",
+      "walking",
+      "standing"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_71.mp4",
+    "caption": "Two people are walking in opposite directions in a manufacturing area.",
+    "gt_actions": [
+      "walking"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_87.mp4",
+    "caption": "A group of people are bending and folding metal sheets in a manufacturing area.",
+    "gt_actions": [
+      "bending metal sheet"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_88.mp4",
+    "caption": "A person is putting a metal sheet into a machine in a manufacturing area.",
+    "gt_actions": [
+      "placing object"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_94.mp4",
+    "caption": "A group of people are bending and folding metal sheets in a manufacturing area.",
+    "gt_actions": [
+      "bending metal sheet"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_95.mp4",
+    "caption": "A group of people are bending and folding metal sheets in a manufacturing area.",
+    "gt_actions": [
+      "bending metal sheet"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_96.mp4",
+    "caption": "A group of people are bending and folding metal sheets in a manufacturing area.",
+    "gt_actions": [
+      "bending metal sheet"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_97.mp4",
+    "caption": "A group of people are bending and folding metal sheets in a manufacturing area.",
+    "gt_actions": [
+      "bending metal sheet"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_98.mp4",
+    "caption": "A group of people are bending and folding metal sheets in a manufacturing area.",
+    "gt_actions": [
+      "bending metal sheet"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_99.mp4",
+    "caption": "A person is cutting a metal sheet using a machine and putting it aside in a manufacturing area.",
+    "gt_actions": [
+      "cutting with machine",
+      "placing object"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_100.mp4",
+    "caption": "A person is cutting a metal sheet using a machine and putting it aside in a manufacturing area.",
+    "gt_actions": [
+      "cutting with machine",
+      "placing object"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_101.mp4",
+    "caption": "A person is cutting a metal sheet using a machine and putting it aside in a manufacturing area.",
+    "gt_actions": [
+      "cutting with machine",
+      "placing object"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_102.mp4",
+    "caption": "A person is cutting a metal sheet using a machine and putting it aside in a manufacturing area.",
+    "gt_actions": [
+      "cutting with machine",
+      "placing object"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_103.mp4",
+    "caption": "A person is cutting a metal sheet using a machine and putting it aside in a manufacturing area.",
+    "gt_actions": [
+      "cutting with machine",
+      "placing object"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_104.mp4",
+    "caption": "A couple of people are arranging folded metal sheets in a manufacturing area.",
+    "gt_actions": [
+      "stacking objects"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_105.mp4",
+    "caption": "A couple of people are putting metal sheets in a machine and taking out rolled ones in a manufacturing area.",
+    "gt_actions": [
+      "placing object",
+      "picking object",
+      "bending metal sheet"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_106.mp4",
+    "caption": "A couple of people are putting metal sheets in a machine and taking out rolled ones in a manufacturing area.",
+    "gt_actions": [
+      "placing object",
+      "picking object",
+      "bending metal sheet"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_107.mp4",
+    "caption": "A couple of people are putting metal sheets in a machine and taking out rolled ones in a manufacturing area.",
+    "gt_actions": [
+      "placing object",
+      "picking object",
+      "bending metal sheet"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_108.mp4",
+    "caption": "A person is putting metal sheets in a machine and taking out rolled ones in a manufacturing area.",
+    "gt_actions": [
+      "placing object",
+      "picking object",
+      "bending metal sheet"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_109.mp4",
+    "caption": "A couple of people are putting metal sheets in a machine, taking out rolled ones, and putting them aside in a manufacturing area.",
+    "gt_actions": [
+      "placing object",
+      "picking object",
+      "bending metal sheet"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_110.mp4",
+    "caption": "A couple of people are putting metal sheets in a machine, taking out rolled ones, and putting them aside in a manufacturing area.",
+    "gt_actions": [
+      "placing object",
+      "picking object",
+      "bending metal sheet"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_111.mp4",
+    "caption": "A couple of people are putting metal sheets in a machine and taking out rolled ones and putting them aside in a manufacturing area.",
+    "gt_actions": [
+      "placing object",
+      "picking object",
+      "bending metal sheet"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_112.mp4",
+    "caption": "A couple of people are putting metal sheets in a machine and taking out rolled ones and putting them aside in a manufacturing area.",
+    "gt_actions": [
+      "placing object",
+      "picking object",
+      "bending metal sheet"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_113.mp4",
+    "caption": "A couple of people are putting metal sheets in a machine and taking out rolled ones and putting them aside in a manufacturing area.",
+    "gt_actions": [
+      "placing object",
+      "picking object",
+      "bending metal sheet"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_115.mp4",
+    "caption": "A couple of people are putting metal sheets in a machine and taking out rolled ones and putting them aside in a manufacturing area.",
+    "gt_actions": [
+      "placing object",
+      "picking object",
+      "bending metal sheet"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_116.mp4",
+    "caption": "A person is putting a rolled metal sheet vertically in a machine and taking it out in a manufacturing area.",
+    "gt_actions": [
+      "placing object",
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_117.mp4",
+    "caption": "A person is putting a rolled metal sheet vertically in a machine and taking it out in a manufacturing area.",
+    "gt_actions": [
+      "placing object",
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_118.mp4",
+    "caption": "A person is putting a rolled metal sheet vertically in a machine and taking it out in a manufacturing area.",
+    "gt_actions": [
+      "placing object",
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_119.mp4",
+    "caption": "A person is putting a rolled metal sheet vertically in a machine and taking it out in a manufacturing area.",
+    "gt_actions": [
+      "placing object",
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_120.mp4",
+    "caption": "A person is putting a rolled metal sheet vertically in a machine and taking it out in a manufacturing area.",
+    "gt_actions": [
+      "placing object",
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_121.mp4",
+    "caption": "Two people are putting a rolled metal sheets vertically in a machine and taking those out in a manufacturing area.",
+    "gt_actions": [
+      "placing object",
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_122.mp4",
+    "caption": "Two people are putting a rolled metal sheets vertically in a machine and taking those out in a manufacturing area.",
+    "gt_actions": [
+      "placing object",
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_123.mp4",
+    "caption": "Two people are putting a rolled metal sheets vertically in a machine and taking those out in a manufacturing area.",
+    "gt_actions": [
+      "placing object",
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_124.mp4",
+    "caption": "A person is putting a rolled metal sheet vertically in a machine and taking it out in a manufacturing area.",
+    "gt_actions": [
+      "placing object",
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_125.mp4",
+    "caption": "A person is putting a rolled metal sheet vertically in a machine and taking it out in a manufacturing area.",
+    "gt_actions": [
+      "placing object",
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_126.mp4",
+    "caption": "A person is putting a rolled metal sheet vertically in a machine and taking it out in a manufacturing area.",
+    "gt_actions": [
+      "placing object",
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_127.mp4",
+    "caption": "A person is putting a rolled metal sheet vertically in a machine and taking it out in a manufacturing area.",
+    "gt_actions": [
+      "placing object",
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_128.mp4",
+    "caption": "A person is putting a rolled metal sheet vertically in a machine and taking it out in a manufacturing area.",
+    "gt_actions": [
+      "placing object",
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_129.mp4",
+    "caption": "Two people are inserting metal sheets into a machine and taking them out in a manufacturing area.",
+    "gt_actions": [
+      "placing object",
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_130.mp4",
+    "caption": "Two people are inserting metal sheets into a machine and taking them out in a manufacturing area.",
+    "gt_actions": [
+      "placing object",
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_131.mp4",
+    "caption": "Two people are inserting metal sheets into a machine and taking them out in a manufacturing area.",
+    "gt_actions": [
+      "placing object",
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_132.mp4",
+    "caption": "Two people are inserting metal sheets into a machine and taking them out in a manufacturing area.",
+    "gt_actions": [
+      "placing object",
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_133.mp4",
+    "caption": "A person is inserting metal sheets into a machine and taking them out in a manufacturing area.",
+    "gt_actions": [
+      "placing object",
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_134.mp4",
+    "caption": "A person is inserting metal sheets into a machine and taking them out in a manufacturing area.",
+    "gt_actions": [
+      "placing object",
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_148.mp4",
+    "caption": "Two people are inserting metal sheets into a machine and taking them out in a manufacturing area.",
+    "gt_actions": [
+      "placing object",
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_149.mp4",
+    "caption": "Two people are walking and observing finished barrels in a manufacturing area.",
+    "gt_actions": [
+      "walking",
+      "inspecting equipment or text"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_150.mp4",
+    "caption": "A person is pushing barrels along a production line in a manufacturing area.",
+    "gt_actions": [
+      "pushing object"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_151.mp4",
+    "caption": "A person is pushing barrels along a production line in a manufacturing area.",
+    "gt_actions": [
+      "pushing object"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_153.mp4",
+    "caption": "A person is adjusting barrels on a production line in a manufacturing area.",
+    "gt_actions": [
+      "arranging objects"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_157.mp4",
+    "caption": "A person is rolling barrels along a production line in a manufacturing area.",
+    "gt_actions": [
+      "rolling object"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_158.mp4",
+    "caption": "A person is rolling barrels along a production line in a manufacturing area.",
+    "gt_actions": [
+      "rolling object"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_159.mp4",
+    "caption": "A person is lifting and arranging barrels in a stack in a manufacturing area.",
+    "gt_actions": [
+      "picking object",
+      "arranging objects"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_160.mp4",
+    "caption": "A person is lifting and arranging barrels in a stack in a manufacturing area.",
+    "gt_actions": [
+      "picking object",
+      "arranging objects"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_161.mp4",
+    "caption": "A person is lifting and arranging barrels in a stack in a manufacturing area.",
+    "gt_actions": [
+      "picking object",
+      "arranging objects"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_162.mp4",
+    "caption": "A person is lifting and arranging barrels in a stack in a manufacturing area.",
+    "gt_actions": [
+      "picking object",
+      "arranging objects"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_174.mp4",
+    "caption": "A person is operating a machine and walking between the conveyor belt and control panel in a manufacturing area.",
+    "gt_actions": [
+      "operating industrial vehicle",
+      "walking"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_176.mp4",
+    "caption": "A person is pressure washing stone slabs in a manufacturing area.",
+    "gt_actions": [
+      "cleaning object"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_177.mp4",
+    "caption": "A person is taking off gloves in a manufacturing area.",
+    "gt_actions": [
+      "taking off PPE"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_178.mp4",
+    "caption": "A person is observing a heavy object being moved by a crane in a manufacturing area.",
+    "gt_actions": [
+      "watching process"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_179.mp4",
+    "caption": "A person is observing a heavy object being moved by a crane in a manufacturing area.",
+    "gt_actions": [
+      "watching process"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_205.mp4",
+    "caption": "A person is observing a cart with a heavy stone being pulled in a manufacturing area.",
+    "gt_actions": [
+      "watching process"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_207.mp4",
+    "caption": "A group of people are observing a machine washing stone slabs in a manufacturing area.",
+    "gt_actions": [
+      "watching process",
+      "inspecting equipment or text",
+      "cleaning object"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_208.mp4",
+    "caption": "A group of people are observing a machine washing stone slabs and rotating it downwards in a manufacturing area.",
+    "gt_actions": [
+      "watching process",
+      "inspecting equipment or text",
+      "cleaning object",
+      "rotating object"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_209.mp4",
+    "caption": "Two people are carrying a stone slab while one person is operating a machine in a manufacturing area.",
+    "gt_actions": [
+      "holding object",
+      "operating machine",
+      "picking object",
+      "moving object"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_210.mp4",
+    "caption": "A person is operating a machine on a stone slab while two other people are standing in a manufacturing area.",
+    "gt_actions": [
+      "standing",
+      "operating machine"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_211.mp4",
+    "caption": "A person is operating a machine on a stone slab while two other people are carrying it in a manufacturing area.",
+    "gt_actions": [
+      "holding object",
+      "operating machine",
+      "picking object",
+      "moving object"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_212.mp4",
+    "caption": "A person is operating a machine on a stone slab while two other people are standing in a manufacturing area.",
+    "gt_actions": [
+      "standing",
+      "operating machine"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_213.mp4",
+    "caption": "A person is operating a machine on a stone slab while two other people are carrying it in a manufacturing area.",
+    "gt_actions": [
+      "holding object",
+      "operating machine",
+      "picking object",
+      "moving object"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_214.mp4",
+    "caption": "A person is operating a machine on a stone slab while other people are carrying those in a manufacturing area.",
+    "gt_actions": [
+      "holding object",
+      "operating machine",
+      "picking object",
+      "moving object"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_215.mp4",
+    "caption": "Two people are picking up a stone slab and putting it on a machine. Some other people are standing nearby, one of them is posing for the camera in a manufacturing area.",
+    "gt_actions": [
+      "posing for camera",
+      "picking object",
+      "placing object",
+      "standing"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_216.mp4",
+    "caption": "Two people are picking up a stone slab and putting it on a machine. Two other people are talking, smiling and walking putting arms in shoulder in a manufacturing area.",
+    "gt_actions": [
+      "talking",
+      "walking",
+      "picking object",
+      "placing object"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_217.mp4",
+    "caption": "Two other people are walking putting arms in shoulder while some other people are operating machine in a manufacturing area.",
+    "gt_actions": [
+      "operating machine",
+      "walking"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_221.mp4",
+    "caption": "A person is pressure washing a stone slab while another person is standing and observing in a manufacturing area.",
+    "gt_actions": [
+      "cleaning object",
+      "watching process",
+      "standing"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_226.mp4",
+    "caption": "A person is picking up a washed stone slab from a machine in a manufacturing area.",
+    "gt_actions": [
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_227.mp4",
+    "caption": "A person is pushing a stone slab along a conveyor belt in a manufacturing area.",
+    "gt_actions": [
+      "pushing object"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_228.mp4",
+    "caption": "A group of people are putting a stone slab along a conveyor belt in a manufacturing area.",
+    "gt_actions": [
+      "loading materials",
+      "placing object"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_229.mp4",
+    "caption": "Two people are putting a stone slab along a conveyor belt in a manufacturing area.",
+    "gt_actions": [
+      "loading materials",
+      "placing object"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_237.mp4",
+    "caption": "Two people are adjusting stone slabs on a conveyor belt in a manufacturing area.",
+    "gt_actions": [
+      "arranging objects"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_239.mp4",
+    "caption": "A person is cleaning stone slab on a conveyor belt in a manufacturing area.",
+    "gt_actions": [
+      "cleaning object"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_240.mp4",
+    "caption": "A person is cleaning stone slab on a conveyor belt in a manufacturing area.",
+    "gt_actions": [
+      "cleaning object"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_242.mp4",
+    "caption": "A person is cleaning stone slab on a conveyor belt while others are operating machines in a manufacturing area.",
+    "gt_actions": [
+      "cleaning object",
+      "operating machine"
+    ]
+  },
+  {
+    "video_name": "1tuWxs8fUOk_trim_342.mp4",
+    "caption": "A person is inserting wood planks into a machines in a manufacturing area while another person is crouching and watching him.",
+    "gt_actions": [
+      "operating machine",
+      "standing",
+      "crouching",
+      "watching process"
+    ]
+  },
+  {
+    "video_name": "1wnZH_8coRo_trim_0.mp4",
+    "caption": "A person is speaking while another person stands in front of a glass-covered room that contains a manufacturing area.",
+    "gt_actions": [
+      "talking",
+      "standing"
+    ]
+  },
+  {
+    "video_name": "1wnZH_8coRo_trim_1.mp4",
+    "caption": "Two people are talking and pointing toward a glass-covered room that contains a manufacturing area.",
+    "gt_actions": [
+      "talking",
+      "signaling to someone",
+      "pointing at something"
+    ]
+  },
+  {
+    "video_name": "1wnZH_8coRo_trim_2.mp4",
+    "caption": "A person is speaking while another person stands in front of a glass-covered room that contains a manufacturing area.",
+    "gt_actions": [
+      "talking",
+      "standing"
+    ]
+  },
+  {
+    "video_name": "2qlxTjo_FjE_trim_0.mp4",
+    "caption": "A group of people are assembling and screwing surveillance camera parts in a manufacturing area.",
+    "gt_actions": [
+      "screwing parts",
+      "assembling electronic components"
+    ]
+  },
+  {
+    "video_name": "2qlxTjo_FjE_trim_1.mp4",
+    "caption": "A group of people are assembling and screwing surveillance camera parts in a manufacturing area.",
+    "gt_actions": [
+      "screwing parts",
+      "assembling electronic components"
+    ]
+  },
+  {
+    "video_name": "2qlxTjo_FjE_trim_2.mp4",
+    "caption": "A group of people are assembling and screwing surveillance camera parts in a manufacturing area while another person wearing red and gray dress is walking.",
+    "gt_actions": [
+      "screwing parts",
+      "assembling electronic components",
+      "walking"
+    ]
+  },
+  {
+    "video_name": "2qlxTjo_FjE_trim_3.mp4",
+    "caption": "A group of people are assembling and screwing surveillance camera parts in a manufacturing area.",
+    "gt_actions": [
+      "screwing parts",
+      "assembling electronic components"
+    ]
+  },
+  {
+    "video_name": "2qlxTjo_FjE_trim_4.mp4",
+    "caption": "A group of people are assembling and screwing surveillance camera parts in a manufacturing area.",
+    "gt_actions": [
+      "screwing parts",
+      "assembling electronic components"
+    ]
+  },
+  {
+    "video_name": "2qlxTjo_FjE_trim_5.mp4",
+    "caption": "A group of people are assembling and screwing surveillance camera parts in a manufacturing area.",
+    "gt_actions": [
+      "screwing parts",
+      "assembling electronic components"
+    ]
+  },
+  {
+    "video_name": "2qlxTjo_FjE_trim_6.mp4",
+    "caption": "A group of people are assembling and screwing surveillance camera parts in a manufacturing area.",
+    "gt_actions": [
+      "screwing parts",
+      "assembling electronic components"
+    ]
+  },
+  {
+    "video_name": "2qlxTjo_FjE_trim_7.mp4",
+    "caption": "A group of people are assembling and screwing surveillance camera parts in a manufacturing area.",
+    "gt_actions": [
+      "screwing parts",
+      "assembling electronic components"
+    ]
+  },
+  {
+    "video_name": "3hOGpHBJ0e4_trim_0.mp4",
+    "caption": "Two people are carrying a tree log when one of them falls down. Another person is placing the log into a machine and cutting it.",
+    "gt_actions": [
+      "holding object",
+      "falling down",
+      "placing object"
+    ]
+  },
+  {
+    "video_name": "3UVQRVJy9g0_clip0_trim_2.mp4",
+    "caption": "A group of people are scanning and placing packages in a warehouse facility.",
+    "gt_actions": [
+      "scanning label",
+      "placing object"
+    ]
+  },
+  {
+    "video_name": "3UVQRVJy9g0_clip1_trim_0.mp4",
+    "caption": "Two people are placing packages onto a conveyor belt in a warehouse facility.",
+    "gt_actions": [
+      "placing object"
+    ]
+  },
+  {
+    "video_name": "3UVQRVJy9g0_clip1_trim_2.mp4",
+    "caption": "A group of people are taking packages off the conveyor belt and placing them into bags in a warehouse facility.",
+    "gt_actions": [
+      "picking object",
+      "placing object"
+    ]
+  },
+  {
+    "video_name": "3xr0dRq2QfM_trim_0.mp4",
+    "caption": "A group of people are operating machines in a manufacturing area.",
+    "gt_actions": [
+      "operating machine"
+    ]
+  },
+  {
+    "video_name": "4FXBhMHqW3s_trim_0.mp4",
+    "caption": "A group of people are assembling surveillance camera parts in a manufacturing area.",
+    "gt_actions": [
+      "assembling electronic components"
+    ]
+  },
+  {
+    "video_name": "4FXBhMHqW3s_trim_1.mp4",
+    "caption": "A person is looking at a computer screen in a manufacturing area.",
+    "gt_actions": [
+      "looking at screen"
+    ]
+  },
+  {
+    "video_name": "4FXBhMHqW3s_trim_2.mp4",
+    "caption": "A person is looking at a computer screen in a manufacturing area.",
+    "gt_actions": [
+      "looking at screen"
+    ]
+  },
+  {
+    "video_name": "8DiEG0vot_w_trim_0.mp4",
+    "caption": "A person is adjusting a electrical component by hammering it and then putting it on the assembly line in a manufacturing area.",
+    "gt_actions": [
+      "hammering component",
+      "assembling electronic components",
+      "placing object"
+    ]
+  },
+  {
+    "video_name": "8DiEG0vot_w_trim_1.mp4",
+    "caption": "A person is adjusting a electrical component by hammering it and then putting it on the assembly line in a manufacturing area.",
+    "gt_actions": [
+      "hammering component",
+      "assembling electronic components",
+      "placing object"
+    ]
+  },
+  {
+    "video_name": "8DiEG0vot_w_trim_2.mp4",
+    "caption": "A person is taking an electrical component from the assembly line and is adjusting it in a manufacturing area.",
+    "gt_actions": [
+      "assembling electronic components",
+      "picking object",
+      "arranging objects"
+    ]
+  },
+  {
+    "video_name": "8DiEG0vot_w_trim_3.mp4",
+    "caption": "A person is adjusting an electrical component and inserts screws inside it in a manufacturing area.",
+    "gt_actions": [
+      "arranging objects",
+      "inserting screws",
+      "assembling electronic components"
+    ]
+  },
+  {
+    "video_name": "8DiEG0vot_w_trim_4.mp4",
+    "caption": "A person is adjusting a electrical component by hammering it and then putting it on the assembly line in a manufacturing area. Then he takes another one.",
+    "gt_actions": [
+      "hammering component",
+      "assembling electronic components",
+      "arranging objects",
+      "placing object"
+    ]
+  },
+  {
+    "video_name": "8DiEG0vot_w_trim_5.mp4",
+    "caption": "A person is adjusting an electrical component and inserts screws inside it in a manufacturing area.",
+    "gt_actions": [
+      "arranging objects",
+      "inserting screws",
+      "assembling electronic components"
+    ]
+  },
+  {
+    "video_name": "34J4R6i-wuk_clip0_trim_0.mp4",
+    "caption": "A person is holding a torch is walking around a junkyard.",
+    "gt_actions": [
+      "holding object",
+      "walking",
+      "searching area with flashlight"
+    ]
+  },
+  {
+    "video_name": "34J4R6i-wuk_clip0_trim_1.mp4",
+    "caption": "A person is holding a torch is walking around a junkyard searching for something.",
+    "gt_actions": [
+      "holding object",
+      "walking",
+      "searching area with flashlight"
+    ]
+  },
+  {
+    "video_name": "34J4R6i-wuk_clip0_trim_2.mp4",
+    "caption": "Two people are holding a torch is walking around a junkyard searching for something.",
+    "gt_actions": [
+      "holding object",
+      "walking",
+      "searching area with flashlight"
+    ]
+  },
+  {
+    "video_name": "37aSzbWBuxk_trim_0.mp4",
+    "caption": "A person is talking in a warehouse filled with boxes.",
+    "gt_actions": [
+      "talking"
+    ]
+  },
+  {
+    "video_name": "37aSzbWBuxk_trim_1.mp4",
+    "caption": "A person is talking in a warehouse filled with boxes.",
+    "gt_actions": [
+      "talking"
+    ]
+  },
+  {
+    "video_name": "37aSzbWBuxk_trim_2.mp4",
+    "caption": "A person is talking in a warehouse filled with boxes.",
+    "gt_actions": [
+      "talking"
+    ]
+  },
+  {
+    "video_name": "37aSzbWBuxk_trim_3.mp4",
+    "caption": "A person wearing blue shirt is talking in a warehouse filled with boxes while a person wearing gray dress behind him is watching a screen.",
+    "gt_actions": [
+      "looking at screen",
+      "talking"
+    ]
+  },
+  {
+    "video_name": "37aSzbWBuxk_trim_4.mp4",
+    "caption": "A person is talking in a warehouse filled with boxes.",
+    "gt_actions": [
+      "talking"
+    ]
+  },
+  {
+    "video_name": "37aSzbWBuxk_trim_5.mp4",
+    "caption": "A person is talking in a warehouse filled with boxes.",
+    "gt_actions": [
+      "talking"
+    ]
+  },
+  {
+    "video_name": "37aSzbWBuxk_trim_6.mp4",
+    "caption": "A person is talking in a warehouse filled with boxes.",
+    "gt_actions": [
+      "talking"
+    ]
+  },
+  {
+    "video_name": "37aSzbWBuxk_trim_7.mp4",
+    "caption": "A person with blue shirt is talking in a warehouse filled with boxes while a person wearing gray dress behind him is walking.",
+    "gt_actions": [
+      "walking",
+      "talking"
+    ]
+  },
+  {
+    "video_name": "37aSzbWBuxk_trim_8.mp4",
+    "caption": "A person with blue shirt is talking in a warehouse filled with boxes while a couple of people behind him are walking.",
+    "gt_actions": [
+      "walking",
+      "talking"
+    ]
+  },
+  {
+    "video_name": "37aSzbWBuxk_trim_9.mp4",
+    "caption": "A person with blue shirt is talking in a warehouse filled with boxes while a couple of people behind him are walking.",
+    "gt_actions": [
+      "walking",
+      "talking"
+    ]
+  },
+  {
+    "video_name": "37aSzbWBuxk_trim_10.mp4",
+    "caption": "A person with blue shirt is talking in a warehouse filled with boxes while a person wearing pink dress behind him is walking.",
+    "gt_actions": [
+      "walking",
+      "talking"
+    ]
+  },
+  {
+    "video_name": "37aSzbWBuxk_trim_12.mp4",
+    "caption": "A person is looking at a computer screen in a warehouse.",
+    "gt_actions": [
+      "looking at screen"
+    ]
+  },
+  {
+    "video_name": "37aSzbWBuxk_trim_13.mp4",
+    "caption": "A person is talking and picking up a box in a warehouse.",
+    "gt_actions": [
+      "talking",
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "37aSzbWBuxk_trim_14.mp4",
+    "caption": "A person is holding a box and showing a bar code to the camera in a warehouse.",
+    "gt_actions": [
+      "holding object"
+    ]
+  },
+  {
+    "video_name": "37aSzbWBuxk_trim_15.mp4",
+    "caption": "A person is putting a box on the table and picking up a wrapped shirt in a warehouse.",
+    "gt_actions": [
+      "placing object",
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "37aSzbWBuxk_trim_16.mp4",
+    "caption": "A person is picking up a wrapped shirt and scanning the bar code on it in a warehouse.",
+    "gt_actions": [
+      "scanning label",
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "37aSzbWBuxk_trim_17.mp4",
+    "caption": "A person is picking up a wrapped shirt and scanning the bar code on it in a warehouse.",
+    "gt_actions": [
+      "scanning label",
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "37aSzbWBuxk_trim_18.mp4",
+    "caption": "A person is picking up a wrapped shirt, scanning the bar code, and putting it in another box in a warehouse.",
+    "gt_actions": [
+      "scanning label",
+      "placing object",
+      "picking object",
+      "holding object"
+    ]
+  },
+  {
+    "video_name": "37aSzbWBuxk_trim_19.mp4",
+    "caption": "A person is picking up a wrapped shirt, scanning the bar code, and putting it in another box in a warehouse.",
+    "gt_actions": [
+      "scanning label",
+      "placing object",
+      "picking object",
+      "holding object"
+    ]
+  },
+  {
+    "video_name": "37aSzbWBuxk_trim_20.mp4",
+    "caption": "A person is picking up a wrapped shirt, scanning the bar code, and putting it in another box in a warehouse.",
+    "gt_actions": [
+      "scanning label",
+      "placing object",
+      "picking object",
+      "holding object"
+    ]
+  },
+  {
+    "video_name": "37aSzbWBuxk_trim_21.mp4",
+    "caption": "A person is scanning the bar code on a box in a warehouse.",
+    "gt_actions": [
+      "scanning label"
+    ]
+  },
+  {
+    "video_name": "37aSzbWBuxk_trim_22.mp4",
+    "caption": "A person is putting a box on the shelf in a warehouse.",
+    "gt_actions": [
+      "placing object"
+    ]
+  },
+  {
+    "video_name": "37aSzbWBuxk_trim_23.mp4",
+    "caption": "A person is picking up a wrapped shirt, scanning the bar code, and putting it in another box in a warehouse.",
+    "gt_actions": [
+      "scanning label",
+      "placing object",
+      "picking object",
+      "holding object"
+    ]
+  },
+  {
+    "video_name": "37aSzbWBuxk_trim_24.mp4",
+    "caption": "A person is picking up a wrapped shirt, scanning the bar code, and putting it in another box in a warehouse.",
+    "gt_actions": [
+      "scanning label",
+      "placing object",
+      "picking object",
+      "holding object"
+    ]
+  },
+  {
+    "video_name": "37aSzbWBuxk_trim_29.mp4",
+    "caption": "A person is picking up a wrapped shirt, scanning the bar code, and putting it in another box in a warehouse.",
+    "gt_actions": [
+      "scanning label",
+      "placing object",
+      "picking object",
+      "holding object"
+    ]
+  },
+  {
+    "video_name": "37aSzbWBuxk_trim_30.mp4",
+    "caption": "A person is picking up a wrapped shirt, scanning the bar code, and putting it in another box in a warehouse.",
+    "gt_actions": [
+      "scanning label",
+      "placing object",
+      "picking object",
+      "holding object"
+    ]
+  },
+  {
+    "video_name": "37aSzbWBuxk_trim_35.mp4",
+    "caption": "A person is scanning a bar code on a box in a warehouse.",
+    "gt_actions": [
+      "scanning label"
+    ]
+  },
+  {
+    "video_name": "37aSzbWBuxk_trim_36.mp4",
+    "caption": "A person is putting a box on the shelf in a warehouse.",
+    "gt_actions": [
+      "placing object"
+    ]
+  },
+  {
+    "video_name": "37aSzbWBuxk_trim_38.mp4",
+    "caption": "A person is operating a tablet in a warehouse.",
+    "gt_actions": [
+      "looking at screen"
+    ]
+  },
+  {
+    "video_name": "37aSzbWBuxk_trim_40.mp4",
+    "caption": "A person is operating a tablet and showing something to the viewer in a warehouse.",
+    "gt_actions": [
+      "looking at screen",
+      "talking"
+    ]
+  },
+  {
+    "video_name": "37aSzbWBuxk_trim_43.mp4",
+    "caption": "A person is pushing a shelf in a big warehouse.",
+    "gt_actions": [
+      "pushing object"
+    ]
+  },
+  {
+    "video_name": "37aSzbWBuxk_trim_45.mp4",
+    "caption": "A person is holding a tablet and walking in a warehouse.",
+    "gt_actions": [
+      "holding object",
+      "walking",
+      "looking at screen"
+    ]
+  },
+  {
+    "video_name": "37aSzbWBuxk_trim_46.mp4",
+    "caption": "A person is showing something on the tablet and scanning a bar code in a warehouse.",
+    "gt_actions": [
+      "scanning label",
+      "looking at screen"
+    ]
+  },
+  {
+    "video_name": "37aSzbWBuxk_trim_47.mp4",
+    "caption": "A person is taking out a box from the shelf and putting another box in that spot in a warehouse.",
+    "gt_actions": [
+      "picking object",
+      "placing object"
+    ]
+  },
+  {
+    "video_name": "37aSzbWBuxk_trim_48.mp4",
+    "caption": "A person is putting a box on the shelf. Then he is showing something to the viewer on the tablet in a warehouse.",
+    "gt_actions": [
+      "placing object",
+      "looking at screen",
+      "talking"
+    ]
+  },
+  {
+    "video_name": "37aSzbWBuxk_trim_49.mp4",
+    "caption": "A person is scanning a bar code and then clicking on the tablet in a warehouse.",
+    "gt_actions": [
+      "scanning label",
+      "looking at screen"
+    ]
+  },
+  {
+    "video_name": "37aSzbWBuxk_trim_50.mp4",
+    "caption": "A person is putting the tablet on the shelf in a warehouse.",
+    "gt_actions": [
+      "placing object"
+    ]
+  },
+  {
+    "video_name": "37aSzbWBuxk_trim_52.mp4",
+    "caption": "A person is taking a box out of the shelf in a warehouse.",
+    "gt_actions": [
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "37aSzbWBuxk_trim_54.mp4",
+    "caption": "A person is putting the tablet on the shelf in a warehouse.",
+    "gt_actions": [
+      "placing object"
+    ]
+  },
+  {
+    "video_name": "62_bh4b5puY_trim_2.mp4",
+    "caption": "Two people are tying a chain around the fallen truck while others are standing and watching.",
+    "gt_actions": [
+      "watching process",
+      "attaching chain to vehicle",
+      "standing"
+    ]
+  },
+  {
+    "video_name": "62_bh4b5puY_trim_3.mp4",
+    "caption": "A person is pulling a chain from the fallen truck while others are standing and watching.",
+    "gt_actions": [
+      "pulling object",
+      "watching process",
+      "standing"
+    ]
+  },
+  {
+    "video_name": "62_bh4b5puY_trim_4.mp4",
+    "caption": "A person is pulling a chain from the fallen truck while others are standing and watching.",
+    "gt_actions": [
+      "pulling object",
+      "watching process",
+      "standing"
+    ]
+  },
+  {
+    "video_name": "62_bh4b5puY_trim_5.mp4",
+    "caption": "A person is pulling a chain from the fallen truck while others are standing and watching.",
+    "gt_actions": [
+      "pulling object",
+      "watching process",
+      "standing"
+    ]
+  },
+  {
+    "video_name": "62_bh4b5puY_trim_6.mp4",
+    "caption": "A person is pulling a chain from the fallen truck while others are standing and watching.",
+    "gt_actions": [
+      "pulling object",
+      "watching process",
+      "standing"
+    ]
+  },
+  {
+    "video_name": "62_bh4b5puY_trim_7.mp4",
+    "caption": "A person is attaching metal and screwing nuts by hand underneath the fallen truck.",
+    "gt_actions": [
+      "screwing parts",
+      "adjusting fastener with wrench",
+      "inserting screws"
+    ]
+  },
+  {
+    "video_name": "62_bh4b5puY_trim_8.mp4",
+    "caption": "A person is screwing nuts by hand on the underside of the fallen truck.",
+    "gt_actions": [
+      "screwing parts",
+      "adjusting fastener with wrench",
+      "inserting screws"
+    ]
+  },
+  {
+    "video_name": "62_bh4b5puY_trim_9.mp4",
+    "caption": "A person is adjusting a bolt with a wrench on the underside of the fallen truck.",
+    "gt_actions": [
+      "adjusting fastener with wrench"
+    ]
+  },
+  {
+    "video_name": "62_bh4b5puY_trim_10.mp4",
+    "caption": "A person is adjusting a bolt with a wrench on the underside of the fallen truck.",
+    "gt_actions": [
+      "adjusting fastener with wrench"
+    ]
+  },
+  {
+    "video_name": "62_bh4b5puY_trim_11.mp4",
+    "caption": "A person is standing on the fallen truck and pulling up a wire with another person's help.",
+    "gt_actions": [
+      "adjusting wiring",
+      "pulling object",
+      "standing"
+    ]
+  },
+  {
+    "video_name": "62_bh4b5puY_trim_12.mp4",
+    "caption": "A person is attaching a wire to the hook of a crane.",
+    "gt_actions": [
+      "adjusting wiring",
+      "attaching chain to vehicle"
+    ]
+  },
+  {
+    "video_name": "62_bh4b5puY_trim_13.mp4",
+    "caption": "A person is standing and attaching a wire to the fallen truck.",
+    "gt_actions": [
+      "adjusting wiring",
+      "attaching chain to vehicle",
+      "standing"
+    ]
+  },
+  {
+    "video_name": "62_bh4b5puY_trim_14.mp4",
+    "caption": "A person is standing on the fallen truck while it is attached to a crane with a wire.",
+    "gt_actions": [
+      "adjusting wiring",
+      "watching process",
+      "standing"
+    ]
+  },
+  {
+    "video_name": "62_bh4b5puY_trim_15.mp4",
+    "caption": "A group of people are standing on a container box while a crane is pulling the truck upright.",
+    "gt_actions": [
+      "pulling object",
+      "operating industrial vehicle",
+      "watching process",
+      "standing"
+    ]
+  },
+  {
+    "video_name": "62_bh4b5puY_trim_16.mp4",
+    "caption": "A group of people are standing on a container and observing a truck.",
+    "gt_actions": [
+      "standing",
+      "watching process"
+    ]
+  },
+  {
+    "video_name": "62_bh4b5puY_trim_18.mp4",
+    "caption": "Three people are watching as a crane is towing a truck.",
+    "gt_actions": [
+      "watching process",
+      "operating industrial vehicle",
+      "pulling object"
+    ]
+  },
+  {
+    "video_name": "62_bh4b5puY_trim_20.mp4",
+    "caption": "A person is screwing nuts on a truck tire using a machine.",
+    "gt_actions": [
+      "screwing parts",
+      "changing tire"
+    ]
+  },
+  {
+    "video_name": "62_bh4b5puY_trim_21.mp4",
+    "caption": "A person is screwing nuts on a truck tire using a machine.",
+    "gt_actions": [
+      "screwing parts",
+      "changing tire"
+    ]
+  },
+  {
+    "video_name": "62_bh4b5puY_trim_22.mp4",
+    "caption": "A person is screwing nuts on a truck tire using a machine and then walking away.",
+    "gt_actions": [
+      "screwing parts",
+      "changing tire",
+      "walking"
+    ]
+  },
+  {
+    "video_name": "62_bh4b5puY_trim_23.mp4",
+    "caption": "Two people are crouching underneath a truck. One of them is using a jack to lift it.",
+    "gt_actions": [
+      "using jack to lift vehicle",
+      "crouching"
+    ]
+  },
+  {
+    "video_name": "62_bh4b5puY_trim_24.mp4",
+    "caption": "A person is crouching underneath a truck and using a jack to lift it.",
+    "gt_actions": [
+      "using jack to lift vehicle",
+      "crouching"
+    ]
+  },
+  {
+    "video_name": "62_bh4b5puY_trim_25.mp4",
+    "caption": "A person is detaching a tire from a truck.",
+    "gt_actions": [
+      "detaching part from machinery",
+      "changing tire"
+    ]
+  },
+  {
+    "video_name": "62_bh4b5puY_trim_26.mp4",
+    "caption": "Two people are rolling tires.",
+    "gt_actions": [
+      "rolling object"
+    ]
+  },
+  {
+    "video_name": "62_bh4b5puY_trim_27.mp4",
+    "caption": "A person is sitting on or beside a tire while another person is crouching under the truck and using a wrench.",
+    "gt_actions": [
+      "adjusting fastener with wrench",
+      "crouching",
+      "sitting"
+    ]
+  },
+  {
+    "video_name": "62_bh4b5puY_trim_28.mp4",
+    "caption": "A person is crouching beside a truck and rotating a wrench to loosen a nut.",
+    "gt_actions": [
+      "crouching",
+      "adjusting fastener with wrench"
+    ]
+  },
+  {
+    "video_name": "62_bh4b5puY_trim_29.mp4",
+    "caption": "A person is hammering a bolt underneath a truck.",
+    "gt_actions": [
+      "hammering component"
+    ]
+  },
+  {
+    "video_name": "62_bh4b5puY_trim_30.mp4",
+    "caption": "A person is hammering a bolt underneath a truck.",
+    "gt_actions": [
+      "hammering component"
+    ]
+  },
+  {
+    "video_name": "62_bh4b5puY_trim_32.mp4",
+    "caption": "Two people are rotating a nut underneath a truck and detaching parts from it.",
+    "gt_actions": [
+      "detaching part from machinery",
+      "adjusting fastener with wrench"
+    ]
+  },
+  {
+    "video_name": "62_bh4b5puY_trim_33.mp4",
+    "caption": "Two people are rotating a nut underneath a truck and detaching parts from it.",
+    "gt_actions": [
+      "detaching part from machinery",
+      "adjusting fastener with wrench"
+    ]
+  },
+  {
+    "video_name": "62_bh4b5puY_trim_36.mp4",
+    "caption": "A person is rotating a wrench to adjust a bolt underneath a truck while two others are standing and watching.",
+    "gt_actions": [
+      "watching process",
+      "adjusting fastener with wrench",
+      "standing"
+    ]
+  },
+  {
+    "video_name": "62_bh4b5puY_trim_37.mp4",
+    "caption": "A person is rotating a bolt underneath a truck and detaching it. Then the person is attaching a wrench to the truck.",
+    "gt_actions": [
+      "detaching part from machinery",
+      "adjusting fastener with wrench"
+    ]
+  },
+  {
+    "video_name": "62_bh4b5puY_trim_38.mp4",
+    "caption": "A person is crouching beside a truck and rotating a wrench to loosen a nut.",
+    "gt_actions": [
+      "crouching",
+      "adjusting fastener with wrench"
+    ]
+  },
+  {
+    "video_name": "62_bh4b5puY_trim_41.mp4",
+    "caption": "A person is crouching beside a truck and rotating a wrench to loosen a nut. Then the person is hitting the truck with a hammer.",
+    "gt_actions": [
+      "hammering component",
+      "crouching",
+      "adjusting fastener with wrench"
+    ]
+  },
+  {
+    "video_name": "62_bh4b5puY_trim_42.mp4",
+    "caption": "A person is hammering and detaching a component from underneath a truck.",
+    "gt_actions": [
+      "hammering component",
+      "detaching part from machinery"
+    ]
+  },
+  {
+    "video_name": "62_bh4b5puY_trim_43.mp4",
+    "caption": "A person is hammering and detaching a component from underneath a truck.",
+    "gt_actions": [
+      "hammering component",
+      "detaching part from machinery"
+    ]
+  },
+  {
+    "video_name": "62_bh4b5puY_trim_44.mp4",
+    "caption": "A person is hammering and detaching a component from underneath a truck.",
+    "gt_actions": [
+      "hammering component",
+      "detaching part from machinery"
+    ]
+  },
+  {
+    "video_name": "62_bh4b5puY_trim_46.mp4",
+    "caption": "A person is hammering and detaching a component from underneath a truck.",
+    "gt_actions": [
+      "hammering component",
+      "detaching part from machinery"
+    ]
+  },
+  {
+    "video_name": "62_bh4b5puY_trim_47.mp4",
+    "caption": "A person is detaching a component from underneath a truck.",
+    "gt_actions": [
+      "detaching part from machinery"
+    ]
+  },
+  {
+    "video_name": "62_bh4b5puY_trim_48.mp4",
+    "caption": "A person is detaching a component from underneath a truck and placing it beside him.",
+    "gt_actions": [
+      "detaching part from machinery",
+      "placing object"
+    ]
+  },
+  {
+    "video_name": "62_bh4b5puY_trim_49.mp4",
+    "caption": "A person is rotating a nut underneath a truck and detaching it.",
+    "gt_actions": [
+      "detaching part from machinery",
+      "adjusting fastener with wrench",
+      "rotating object"
+    ]
+  },
+  {
+    "video_name": "62_bh4b5puY_trim_50.mp4",
+    "caption": "A person is rotating a nut underneath a truck and detaching it.",
+    "gt_actions": [
+      "detaching part from machinery",
+      "adjusting fastener with wrench",
+      "rotating object"
+    ]
+  },
+  {
+    "video_name": "62_bh4b5puY_trim_51.mp4",
+    "caption": "A person is placing a tool on a tire and standing up, then hitting the truck with a hammer.",
+    "gt_actions": [
+      "hammering component",
+      "standing"
+    ]
+  },
+  {
+    "video_name": "62_bh4b5puY_trim_52.mp4",
+    "caption": "A person is hitting the truck with a hammer, then screwing a nut by hand.",
+    "gt_actions": [
+      "screwing parts",
+      "hammering component",
+      "adjusting fastener with wrench"
+    ]
+  },
+  {
+    "video_name": "62_bh4b5puY_trim_53.mp4",
+    "caption": "A person is adjusting screw and pulling out metal parts from underneath a truck.",
+    "gt_actions": [
+      "screwing parts",
+      "pulling object",
+      "detaching part from machinery"
+    ]
+  },
+  {
+    "video_name": "b0DEnbTOUvg_trim_0.mp4",
+    "caption": "Two people are dancing energetically inside a warehouse.",
+    "gt_actions": [
+      "dancing"
+    ]
+  },
+  {
+    "video_name": "b0DEnbTOUvg_trim_1.mp4",
+    "caption": "Two people are dancing energetically inside a warehouse.",
+    "gt_actions": [
+      "dancing"
+    ]
+  },
+  {
+    "video_name": "b0DEnbTOUvg_trim_2.mp4",
+    "caption": "Two people are dancing energetically inside a warehouse.",
+    "gt_actions": [
+      "dancing"
+    ]
+  },
+  {
+    "video_name": "BSsxW1D063k_clip0_trim_1.mp4",
+    "caption": "A person is talking while sitting inside a car.",
+    "gt_actions": [
+      "sitting",
+      "talking"
+    ]
+  },
+  {
+    "video_name": "BSsxW1D063k_clip0_trim_2.mp4",
+    "caption": "A person is talking while sitting inside a car.",
+    "gt_actions": [
+      "sitting",
+      "talking"
+    ]
+  },
+  {
+    "video_name": "BSsxW1D063k_clip0_trim_3.mp4",
+    "caption": "A person is talking while sitting inside a car.",
+    "gt_actions": [
+      "sitting",
+      "talking"
+    ]
+  },
+  {
+    "video_name": "BSsxW1D063k_clip0_trim_4.mp4",
+    "caption": "A person is talking while sitting inside a car.",
+    "gt_actions": [
+      "sitting",
+      "talking"
+    ]
+  },
+  {
+    "video_name": "e87QDLBVjGQ_trim_2.mp4",
+    "caption": "A person is holding a hanging pipe with a lever while another person is screwing it in. A third person is watching from behind.",
+    "gt_actions": [
+      "holding object",
+      "screwing parts",
+      "connecting pipes",
+      "watching process"
+    ]
+  },
+  {
+    "video_name": "e87QDLBVjGQ_trim_3.mp4",
+    "caption": "Two people are connecting two vertical pipes together.",
+    "gt_actions": [
+      "connecting pipes"
+    ]
+  },
+  {
+    "video_name": "FE5FkEsn5as_trim_0.mp4",
+    "caption": "A person is connecting two vertical pipes.",
+    "gt_actions": [
+      "connecting pipes"
+    ]
+  },
+  {
+    "video_name": "FE5FkEsn5as_trim_1.mp4",
+    "caption": "A person is holding and connecting a vertical pipe, then wrapping a chain around it.",
+    "gt_actions": [
+      "holding object",
+      "connecting pipes",
+      "wrapping chain"
+    ]
+  },
+  {
+    "video_name": "FE5FkEsn5as_trim_2.mp4",
+    "caption": "A person is wrapping a metal chain around a vertical column.",
+    "gt_actions": [
+      "wrapping chain"
+    ]
+  },
+  {
+    "video_name": "FE5FkEsn5as_trim_3.mp4",
+    "caption": "A person is pulling out a heavy pipe using an instrument while another person is watching.",
+    "gt_actions": [
+      "pulling object",
+      "watching process"
+    ]
+  },
+  {
+    "video_name": "FE5FkEsn5as_trim_4.mp4",
+    "caption": "Two people are observing as a pipe is being inserted into a hole.",
+    "gt_actions": [
+      "watching process",
+      "connecting pipes"
+    ]
+  },
+  {
+    "video_name": "FE5FkEsn5as_trim_5.mp4",
+    "caption": "A person is watching a heavy pipe being inserted into a hole and using a device to stop it.",
+    "gt_actions": [
+      "watching process",
+      "connecting pipes"
+    ]
+  },
+  {
+    "video_name": "FF5a2dL6Sb0_trim_0.mp4",
+    "caption": "Two people are lifting a heavy object from underneath as a vertical machine moves up on an oil rig.",
+    "gt_actions": [
+      "picking object",
+      "adjusting machine components"
+    ]
+  },
+  {
+    "video_name": "FF5a2dL6Sb0_trim_2.mp4",
+    "caption": "A person is pushing down a machine while another person is moving another machine on an oil rig.",
+    "gt_actions": [
+      "adjusting machine components",
+      "pushing object",
+      "moving object"
+    ]
+  },
+  {
+    "video_name": "FF5a2dL6Sb0_trim_3.mp4",
+    "caption": "A person is pushing a machine and pressing it with his foot while another person is helping on an oil rig.",
+    "gt_actions": [
+      "pushing object",
+      "adjusting machine components"
+    ]
+  },
+  {
+    "video_name": "FF5a2dL6Sb0_trim_4.mp4",
+    "caption": "A person is looking up and detaching a rod from machinery on an oil rig.",
+    "gt_actions": [
+      "detaching part from machinery",
+      "watching process"
+    ]
+  },
+  {
+    "video_name": "FF5a2dL6Sb0_trim_5.mp4",
+    "caption": "Two people are twisting and adjusting hanging machines on an oil rig.",
+    "gt_actions": [
+      "rotating object",
+      "adjusting machine components"
+    ]
+  },
+  {
+    "video_name": "FF5a2dL6Sb0_trim_6.mp4",
+    "caption": "Two people are twisting components of a machine on an oil rig.",
+    "gt_actions": [
+      "rotating object",
+      "adjusting machine components"
+    ]
+  },
+  {
+    "video_name": "FF5a2dL6Sb0_trim_7.mp4",
+    "caption": "A person is waving his hand while watching a machine being pulled down, then detaching a rod from a machine on an oil rig.",
+    "gt_actions": [
+      "detaching part from machinery",
+      "signaling to someone",
+      "watching process"
+    ]
+  },
+  {
+    "video_name": "G8z74loJO7U_trim_0.mp4",
+    "caption": "A person is pulling a trolley and walking alongside it in a warehouse.",
+    "gt_actions": [
+      "pulling object",
+      "walking"
+    ]
+  },
+  {
+    "video_name": "G8z74loJO7U_trim_1.mp4",
+    "caption": "A person is pulling a trolley and then putting things on the table in a warehouse.",
+    "gt_actions": [
+      "pulling object",
+      "placing object"
+    ]
+  },
+  {
+    "video_name": "G8z74loJO7U_trim_2.mp4",
+    "caption": "A person is putting things on the table and then rubbing his head in a warehouse.",
+    "gt_actions": [
+      "placing object",
+      "rubbing head"
+    ]
+  },
+  {
+    "video_name": "G8z74loJO7U_trim_3.mp4",
+    "caption": "A person is walking away from a table in a warehouse.",
+    "gt_actions": [
+      "walking"
+    ]
+  },
+  {
+    "video_name": "G8z74loJO7U_trim_4.mp4",
+    "caption": "A person is picking up paper and putting it on another table in a warehouse.",
+    "gt_actions": [
+      "picking object",
+      "placing object"
+    ]
+  },
+  {
+    "video_name": "G8z74loJO7U_trim_5.mp4",
+    "caption": "A person is standing and arranging papers on the table in a warehouse.",
+    "gt_actions": [
+      "standing",
+      "arranging objects"
+    ]
+  },
+  {
+    "video_name": "G8z74loJO7U_trim_6.mp4",
+    "caption": "A person is arranging things on the table in a warehouse.",
+    "gt_actions": [
+      "arranging objects"
+    ]
+  },
+  {
+    "video_name": "G8z74loJO7U_trim_7.mp4",
+    "caption": "A person is standing and leaning against a table writing something in a warehouse.",
+    "gt_actions": [
+      "standing",
+      "writing notes"
+    ]
+  },
+  {
+    "video_name": "G8z74loJO7U_trim_8.mp4",
+    "caption": "A person is standing and leaning against a table writing something while another person is operating a forklift in a warehouse.",
+    "gt_actions": [
+      "operating industrial vehicle",
+      "writing notes",
+      "standing"
+    ]
+  },
+  {
+    "video_name": "iKJpKjnqWnw_trim_0.mp4",
+    "caption": "A couple of people are rotating a machine on an oil rig.",
+    "gt_actions": [
+      "rotating object",
+      "operating machine",
+      "adjusting machine components"
+    ]
+  },
+  {
+    "video_name": "iKJpKjnqWnw_trim_1.mp4",
+    "caption": "Two people are moving around a machine while another person is jumping on an oil rig.",
+    "gt_actions": [
+      "running",
+      "adjusting machine components",
+      "jumping"
+    ]
+  },
+  {
+    "video_name": "iKJpKjnqWnw_trim_2.mp4",
+    "caption": "Four people are rotating and operating a machine on an oil rig.",
+    "gt_actions": [
+      "rotating object",
+      "operating machine",
+      "adjusting machine components"
+    ]
+  },
+  {
+    "video_name": "iKJpKjnqWnw_trim_3.mp4",
+    "caption": "Three people are operating a machine while one of them is stepping on a suspended wire on an oil rig.",
+    "gt_actions": [
+      "operating machine",
+      "adjusting machine components",
+      "balancing on beam"
+    ]
+  },
+  {
+    "video_name": "iKJpKjnqWnw_trim_4.mp4",
+    "caption": "Three people are operating a machine on an oil rig.",
+    "gt_actions": [
+      "operating machine",
+      "adjusting machine components"
+    ]
+  },
+  {
+    "video_name": "ioHiV5hHXCQ_trim_1.mp4",
+    "caption": "A person is pointing with a pen while looking at a screen in a manufacturing area.",
+    "gt_actions": [
+      "looking at screen",
+      "pointing at something"
+    ]
+  },
+  {
+    "video_name": "ioHiV5hHXCQ_trim_2.mp4",
+    "caption": "Two people are pointing and discussing something while looking at a computer screen in a manufacturing area.",
+    "gt_actions": [
+      "talking",
+      "looking at screen",
+      "pointing at something"
+    ]
+  },
+  {
+    "video_name": "ioHiV5hHXCQ_trim_4.mp4",
+    "caption": "Two people are standing beside a machine control panel and discussing something. One of them is looking at a screen on the machine in a manufacturing area.",
+    "gt_actions": [
+      "talking",
+      "looking at screen",
+      "standing"
+    ]
+  },
+  {
+    "video_name": "ioHiV5hHXCQ_trim_5.mp4",
+    "caption": "A person is placing a panel on a machine in a manufacturing area.",
+    "gt_actions": [
+      "placing object",
+      "adjusting machine components"
+    ]
+  },
+  {
+    "video_name": "ioHiV5hHXCQ_trim_8.mp4",
+    "caption": "Two people are holding papers and discussing something in a manufacturing area.",
+    "gt_actions": [
+      "holding object",
+      "talking"
+    ]
+  },
+  {
+    "video_name": "ioHiV5hHXCQ_trim_9.mp4",
+    "caption": "Two people are discussing something in a manufacturing area while one of them is pointing and then placing a hand on the other person's shoulder.",
+    "gt_actions": [
+      "talking",
+      "pointing at something"
+    ]
+  },
+  {
+    "video_name": "K4Z5Fh_narA_trim_0.mp4",
+    "caption": "Two people are operating a machine in a manufacturing area.",
+    "gt_actions": [
+      "operating machine"
+    ]
+  },
+  {
+    "video_name": "K4Z5Fh_narA_trim_1.mp4",
+    "caption": "Two people are operating a machine in a manufacturing area.",
+    "gt_actions": [
+      "operating machine"
+    ]
+  },
+  {
+    "video_name": "MEEGwePfDgM_trim_0.mp4",
+    "caption": "A group of people are operating a machine in a boxing facility.",
+    "gt_actions": [
+      "operating machine"
+    ]
+  },
+  {
+    "video_name": "MEEGwePfDgM_trim_11.mp4",
+    "caption": "A person is rubbing his eyes and yawning in a boxing facility.",
+    "gt_actions": [
+      "rubbing eyes",
+      "yawning"
+    ]
+  },
+  {
+    "video_name": "MEEGwePfDgM_trim_12.mp4",
+    "caption": "A person is pulling a component in a machine and cutting the paper with another machine in a boxing facility.",
+    "gt_actions": [
+      "pulling object",
+      "cutting with machine"
+    ]
+  },
+  {
+    "video_name": "MEEGwePfDgM_trim_14.mp4",
+    "caption": "A person is looking towards the viewer while another person is operating a machine at the back in a boxing facility.",
+    "gt_actions": [
+      "operating machine",
+      "posing for camera"
+    ]
+  },
+  {
+    "video_name": "MEEGwePfDgM_trim_17.mp4",
+    "caption": "A person is talking in the wireless device while another person is leaning on her shoulder in a boxing facility.",
+    "gt_actions": [
+      "talking"
+    ]
+  },
+  {
+    "video_name": "MEEGwePfDgM_trim_18.mp4",
+    "caption": "A couple of people are observing an assembly line in a boxing facility.",
+    "gt_actions": [
+      "watching process"
+    ]
+  },
+  {
+    "video_name": "MEEGwePfDgM_trim_23.mp4",
+    "caption": "An injured person is sitting holding his forehead while another person talking in a wireless device comes to him and crouches in a boxing facility.",
+    "gt_actions": [
+      "holding object",
+      "talking",
+      "showing discomfort",
+      "assisting injured coworker",
+      "sitting",
+      "crouching"
+    ]
+  },
+  {
+    "video_name": "MEEGwePfDgM_trim_25.mp4",
+    "caption": "A person is sitting with one hand over his head looking sick in a boxing facility. Another person is coming, sitting and talking to him with a first-aid kit.",
+    "gt_actions": [
+      "talking",
+      "showing discomfort",
+      "assisting injured coworker",
+      "sitting"
+    ]
+  },
+  {
+    "video_name": "MEEGwePfDgM_trim_27.mp4",
+    "caption": "Two people are talking and signalling another person in a boxing facility.",
+    "gt_actions": [
+      "talking",
+      "signaling to someone"
+    ]
+  },
+  {
+    "video_name": "MEEGwePfDgM_trim_29.mp4",
+    "caption": "A person is putting down her helmet in a boxing facility. Then another person is holding one hand with another.",
+    "gt_actions": [
+      "holding object",
+      "taking off PPE",
+      "placing object"
+    ]
+  },
+  {
+    "video_name": "MEEGwePfDgM_trim_33.mp4",
+    "caption": "A person is walking in an industrial factory in a boxing facility.",
+    "gt_actions": [
+      "walking"
+    ]
+  },
+  {
+    "video_name": "MEEGwePfDgM_trim_34.mp4",
+    "caption": "A group of people are walking and discussing about machines in a boxing facility.",
+    "gt_actions": [
+      "talking",
+      "walking",
+      "inspecting equipment or text"
+    ]
+  },
+  {
+    "video_name": "MEEGwePfDgM_trim_36.mp4",
+    "caption": "A group of people are standing and discussing while one of them is pointing at something in a boxing facility.",
+    "gt_actions": [
+      "talking",
+      "pointing at something",
+      "standing"
+    ]
+  },
+  {
+    "video_name": "MEEGwePfDgM_trim_37.mp4",
+    "caption": "A person is rotating a lever in a machine in a boxing facility.",
+    "gt_actions": [
+      "operating machine",
+      "rotating object"
+    ]
+  },
+  {
+    "video_name": "MEEGwePfDgM_trim_41.mp4",
+    "caption": "A person is talking to a screen and taking off her helmet.",
+    "gt_actions": [
+      "talking",
+      "looking at screen",
+      "taking off PPE"
+    ]
+  },
+  {
+    "video_name": "MEEGwePfDgM_trim_49.mp4",
+    "caption": "A person is pressing something on a handheld device and then pressing a button on a machine in a manufacturing area.",
+    "gt_actions": [
+      "pressing button",
+      "looking at screen"
+    ]
+  },
+  {
+    "video_name": "MEEGwePfDgM_trim_51.mp4",
+    "caption": "A group of people are packing boxes while other people behind them are putting something into packets in a manufacturing area.",
+    "gt_actions": [
+      "sealing boxes",
+      "placing object"
+    ]
+  },
+  {
+    "video_name": "MEEGwePfDgM_trim_54.mp4",
+    "caption": "A person is attaching a wire to a device on an assembly line in a manufacturing area.",
+    "gt_actions": [
+      "adjusting wiring"
+    ]
+  },
+  {
+    "video_name": "MEEGwePfDgM_trim_56.mp4",
+    "caption": "Two people are talking in a manufacturing area.",
+    "gt_actions": [
+      "talking"
+    ]
+  },
+  {
+    "video_name": "MEEGwePfDgM_trim_67.mp4",
+    "caption": "A person is talking while pointing to a clipboard while two other people are listening in a manufacturing area.",
+    "gt_actions": [
+      "talking",
+      "writing notes"
+    ]
+  },
+  {
+    "video_name": "o-KUZ-FNPDM_trim_0.mp4",
+    "caption": "A person is holding two hanging handles, pulling them and also gripping with her foot while other people are watching on an oil rig.",
+    "gt_actions": [
+      "holding object",
+      "pulling object",
+      "watching process"
+    ]
+  },
+  {
+    "video_name": "o-KUZ-FNPDM_trim_1.mp4",
+    "caption": "A person is pulling a device with two hands and is successful. She is smiling as other people are cheering.",
+    "gt_actions": [
+      "pulling object"
+    ]
+  },
+  {
+    "video_name": "oeHrto1r-S4_clip0_trim_1.mp4",
+    "caption": "Two people are carrying a box in a boxing facility.",
+    "gt_actions": [
+      "holding object",
+      "picking object",
+      "walking"
+    ]
+  },
+  {
+    "video_name": "oeHrto1r-S4_clip0_trim_4.mp4",
+    "caption": "A person is talking while one person behind him is pointing at something in a boxing facility. Then the two people behind him are discussing while holding something.",
+    "gt_actions": [
+      "holding object",
+      "pointing at something",
+      "talking"
+    ]
+  },
+  {
+    "video_name": "oeHrto1r-S4_clip0_trim_5.mp4",
+    "caption": "A person is signaling and two people are walking towards her in a boxing facility.",
+    "gt_actions": [
+      "signaling to someone",
+      "walking"
+    ]
+  },
+  {
+    "video_name": "oeHrto1r-S4_clip0_trim_7.mp4",
+    "caption": "A person is lifting a box in a boxing facility.",
+    "gt_actions": [
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "oeHrto1r-S4_clip0_trim_8.mp4",
+    "caption": "A person is calling another person to help him lift a box in a boxing facility.",
+    "gt_actions": [
+      "calling for help",
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "oeHrto1r-S4_clip0_trim_10.mp4",
+    "caption": "A person is inspecting a clipboard then checking a box in a boxing facility.",
+    "gt_actions": [
+      "inspecting equipment or text",
+      "writing notes"
+    ]
+  },
+  {
+    "video_name": "oeHrto1r-S4_clip0_trim_11.mp4",
+    "caption": "A person is inspecting a box then writing on a clipboard in a boxing facility.",
+    "gt_actions": [
+      "inspecting equipment or text",
+      "writing notes"
+    ]
+  },
+  {
+    "video_name": "oeHrto1r-S4_clip0_trim_12.mp4",
+    "caption": "A person is inspecting the text on a box and then pulling a paper in a boxing facility.",
+    "gt_actions": [
+      "pulling object",
+      "inspecting equipment or text"
+    ]
+  },
+  {
+    "video_name": "oeHrto1r-S4_clip0_trim_14.mp4",
+    "caption": "A person is talking to another person and handing him some boxes to carry in a boxing facility.",
+    "gt_actions": [
+      "talking",
+      "holding object"
+    ]
+  },
+  {
+    "video_name": "oeHrto1r-S4_clip0_trim_17.mp4",
+    "caption": "A person is carrying some boxes and talking while a forklift is moving forward in a boxing facility.",
+    "gt_actions": [
+      "holding object",
+      "talking",
+      "operating industrial vehicle",
+      "walking"
+    ]
+  },
+  {
+    "video_name": "oeHrto1r-S4_clip0_trim_18.mp4",
+    "caption": "A person is carrying some boxes, talking and walking in a boxing facility.",
+    "gt_actions": [
+      "holding object",
+      "talking",
+      "walking"
+    ]
+  },
+  {
+    "video_name": "oeHrto1r-S4_clip0_trim_21.mp4",
+    "caption": "A person is looking and measuring with a tape in a boxing facility.",
+    "gt_actions": [
+      "measuring with tape"
+    ]
+  },
+  {
+    "video_name": "oeHrto1r-S4_clip0_trim_23.mp4",
+    "caption": "A person is pushing a large trolley in a boxing facility.",
+    "gt_actions": [
+      "pushing object"
+    ]
+  },
+  {
+    "video_name": "oeHrto1r-S4_clip0_trim_26.mp4",
+    "caption": "A person is putting on a helmet and pushing a trolley with an oil barrel while another person is talking to him and showing him the way in a boxing facility.",
+    "gt_actions": [
+      "pushing object",
+      "talking",
+      "putting on PPE"
+    ]
+  },
+  {
+    "video_name": "oeHrto1r-S4_clip0_trim_28.mp4",
+    "caption": "A person is putting on gloves and pushing a trolley with an oil barrel in a boxing facility.",
+    "gt_actions": [
+      "pushing object",
+      "putting on PPE",
+      "rolling object"
+    ]
+  },
+  {
+    "video_name": "oeHrto1r-S4_clip0_trim_29.mp4",
+    "caption": "A person is talking in a boxing facility.",
+    "gt_actions": [
+      "talking"
+    ]
+  },
+  {
+    "video_name": "oeHrto1r-S4_clip0_trim_30.mp4",
+    "caption": "A person is talking in a boxing facility.",
+    "gt_actions": [
+      "talking"
+    ]
+  },
+  {
+    "video_name": "oeHrto1r-S4_clip0_trim_31.mp4",
+    "caption": "A person is talking in a boxing facility.",
+    "gt_actions": [
+      "talking"
+    ]
+  },
+  {
+    "video_name": "oeHrto1r-S4_clip0_trim_32.mp4",
+    "caption": "A person is lifting an electrical component in a boxing facility.",
+    "gt_actions": [
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "oeHrto1r-S4_clip0_trim_33.mp4",
+    "caption": "A person is lifting and carrying an object in a boxing facility.",
+    "gt_actions": [
+      "picking object",
+      "holding object",
+      "walking"
+    ]
+  },
+  {
+    "video_name": "oeHrto1r-S4_clip0_trim_35.mp4",
+    "caption": "A person is picking up a box in a boxing facility.",
+    "gt_actions": [
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "oeHrto1r-S4_clip0_trim_36.mp4",
+    "caption": "A person is picking up a box in a boxing facility.",
+    "gt_actions": [
+      "holding object",
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "oeHrto1r-S4_clip0_trim_37.mp4",
+    "caption": "A person is crouching and picking up a box in a boxing facility.",
+    "gt_actions": [
+      "crouching",
+      "holding object",
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "oeHrto1r-S4_clip0_trim_38.mp4",
+    "caption": "A person is bending and picking up a box in a boxing facility.",
+    "gt_actions": [
+      "holding object",
+      "bending down",
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "oeHrto1r-S4_clip0_trim_40.mp4",
+    "caption": "A person is crouching and picking up a box in a boxing facility.",
+    "gt_actions": [
+      "crouching",
+      "holding object",
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "oeHrto1r-S4_clip0_trim_41.mp4",
+    "caption": "A person is crouching, picking up a box and walking in a boxing facility.",
+    "gt_actions": [
+      "crouching",
+      "holding object",
+      "picking object",
+      "walking"
+    ]
+  },
+  {
+    "video_name": "oeHrto1r-S4_clip0_trim_44.mp4",
+    "caption": "A person is crouching and picking up a box in a boxing facility.",
+    "gt_actions": [
+      "crouching",
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "oeHrto1r-S4_clip0_trim_45.mp4",
+    "caption": "A person is crouching and picking up a box in a boxing facility.",
+    "gt_actions": [
+      "crouching",
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "oeHrto1r-S4_clip0_trim_47.mp4",
+    "caption": "A person is lifting a box in a boxing facility.",
+    "gt_actions": [
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "oeHrto1r-S4_clip0_trim_48.mp4",
+    "caption": "A person is placing a box in a boxing facility and showing signs of back pain.",
+    "gt_actions": [
+      "showing discomfort",
+      "placing object"
+    ]
+  },
+  {
+    "video_name": "oeHrto1r-S4_clip0_trim_49.mp4",
+    "caption": "A person is lifting a box in a boxing facility.",
+    "gt_actions": [
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "oKDlfJKZfBc_trim_0.mp4",
+    "caption": "A person is cleaning a machine in a boxing facility.",
+    "gt_actions": [
+      "cleaning object"
+    ]
+  },
+  {
+    "video_name": "oyRnP9p0KIs_trim_8.mp4",
+    "caption": "A person is picking up an object and operating a forklift in a boxing facility.",
+    "gt_actions": [
+      "operating industrial vehicle",
+      "holding object",
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "oyRnP9p0KIs_trim_12.mp4",
+    "caption": "Two people are walking and one of them is talking to the other in a boxing facility.",
+    "gt_actions": [
+      "walking",
+      "talking"
+    ]
+  },
+  {
+    "video_name": "oyRnP9p0KIs_trim_16.mp4",
+    "caption": "A person is driving a minivan and parking it.",
+    "gt_actions": [
+      "driving vehicle",
+      "parking vehicle"
+    ]
+  },
+  {
+    "video_name": "oyRnP9p0KIs_trim_17.mp4",
+    "caption": "A person is sitting in a minivan and picking up gloves.",
+    "gt_actions": [
+      "putting on PPE",
+      "sitting"
+    ]
+  },
+  {
+    "video_name": "oyRnP9p0KIs_trim_22.mp4",
+    "caption": "A person is taking clothes from a locker and putting them on.",
+    "gt_actions": [
+      "picking object",
+      "putting on PPE"
+    ]
+  },
+  {
+    "video_name": "oyRnP9p0KIs_trim_26.mp4",
+    "caption": "A person is crouching holding a book. Then he is inspecting a drum and checking the book in a boxing facility.",
+    "gt_actions": [
+      "holding object",
+      "inspecting equipment or text",
+      "crouching"
+    ]
+  },
+  {
+    "video_name": "oyRnP9p0KIs_trim_28.mp4",
+    "caption": "Two people are talking and looking up towards something in a boxing facility.",
+    "gt_actions": [
+      "talking",
+      "watching process"
+    ]
+  },
+  {
+    "video_name": "oyRnP9p0KIs_trim_29.mp4",
+    "caption": "A person is entering a room and turning on the lights in a boxing facility.",
+    "gt_actions": [
+      "pressing button",
+      "entering doorway"
+    ]
+  },
+  {
+    "video_name": "oyRnP9p0KIs_trim_31.mp4",
+    "caption": "A person is operating a forklift and backing up.",
+    "gt_actions": [
+      "operating industrial vehicle",
+      "backing vehicle"
+    ]
+  },
+  {
+    "video_name": "oyRnP9p0KIs_trim_37.mp4",
+    "caption": "A person is picking up a box and putting it on a shelf in a boxing facility.",
+    "gt_actions": [
+      "placing object",
+      "holding object",
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "oyRnP9p0KIs_trim_41.mp4",
+    "caption": "A person is attempting to put a box on a shelf but does not proceed with it in a boxing facility.",
+    "gt_actions": [
+      "placing object"
+    ]
+  },
+  {
+    "video_name": "oyRnP9p0KIs_trim_43.mp4",
+    "caption": "A person is picking up an object and carrying it in a boxing facility.",
+    "gt_actions": [
+      "holding object",
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "oyRnP9p0KIs_trim_44.mp4",
+    "caption": "A person is carrying a cloth and it falls from his hands in a manufacturing area.",
+    "gt_actions": [
+      "holding object",
+      "falling down"
+    ]
+  },
+  {
+    "video_name": "oyRnP9p0KIs_trim_48.mp4",
+    "caption": "A person is looking exhausted. Then another person is walking with a trolley towards him in a boxing facility.",
+    "gt_actions": [
+      "pushing object",
+      "showing discomfort",
+      "walking"
+    ]
+  },
+  {
+    "video_name": "oyRnP9p0KIs_trim_50.mp4",
+    "caption": "A person is placing books in a box in a boxing facility.",
+    "gt_actions": [
+      "placing object"
+    ]
+  },
+  {
+    "video_name": "oyRnP9p0KIs_trim_51.mp4",
+    "caption": "A person is closing a box in a boxing facility. Then he is checking his wrist.",
+    "gt_actions": [
+      "sealing boxes",
+      "checking self"
+    ]
+  },
+  {
+    "video_name": "oyRnP9p0KIs_trim_52.mp4",
+    "caption": "A person is checking his wrist in a boxing facility.",
+    "gt_actions": [
+      "checking self",
+      "showing discomfort"
+    ]
+  },
+  {
+    "video_name": "oyRnP9p0KIs_trim_54.mp4",
+    "caption": "Two people are talking while one of them is holding a stick in a boxing facility.",
+    "gt_actions": [
+      "holding object",
+      "talking"
+    ]
+  },
+  {
+    "video_name": "oyRnP9p0KIs_trim_62.mp4",
+    "caption": "A person is calling another person in a manufacturing area.",
+    "gt_actions": [
+      "calling for help"
+    ]
+  },
+  {
+    "video_name": "oyRnP9p0KIs_trim_63.mp4",
+    "caption": "Two people are lifting up a pipe and walking in a manufacturing area.",
+    "gt_actions": [
+      "picking object",
+      "walking",
+      "holding object"
+    ]
+  },
+  {
+    "video_name": "oyRnP9p0KIs_trim_64.mp4",
+    "caption": "A person is picking up a box in a boxing facility.",
+    "gt_actions": [
+      "holding object",
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "oyRnP9p0KIs_trim_65.mp4",
+    "caption": "A person is crouching and trying to pick up a box in a boxing facility.",
+    "gt_actions": [
+      "crouching",
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "oyRnP9p0KIs_trim_66.mp4",
+    "caption": "A person is picking up a box in a boxing facility.",
+    "gt_actions": [
+      "holding object",
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "oyRnP9p0KIs_trim_67.mp4",
+    "caption": "A person is picking up an object and walking in a boxing facility.",
+    "gt_actions": [
+      "holding object",
+      "picking object",
+      "walking"
+    ]
+  },
+  {
+    "video_name": "oyRnP9p0KIs_trim_68.mp4",
+    "caption": "A person is picking up an object and walking in a manufacturing area.",
+    "gt_actions": [
+      "walking",
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "oyRnP9p0KIs_trim_69.mp4",
+    "caption": "A person is carrying a box and walking in a boxing facility.",
+    "gt_actions": [
+      "holding object",
+      "walking"
+    ]
+  },
+  {
+    "video_name": "oyRnP9p0KIs_trim_70.mp4",
+    "caption": "A person is carrying a box and walking in a boxing facility.",
+    "gt_actions": [
+      "holding object",
+      "walking"
+    ]
+  },
+  {
+    "video_name": "oyRnP9p0KIs_trim_71.mp4",
+    "caption": "A person is carrying a box and walking in a boxing facility.",
+    "gt_actions": [
+      "holding object",
+      "walking"
+    ]
+  },
+  {
+    "video_name": "oyRnP9p0KIs_trim_72.mp4",
+    "caption": "A person is carrying a box and putting it down in a boxing facility.",
+    "gt_actions": [
+      "holding object",
+      "placing object"
+    ]
+  },
+  {
+    "video_name": "oyRnP9p0KIs_trim_74.mp4",
+    "caption": "Two people are talking and then picking up a box in a boxing facility.",
+    "gt_actions": [
+      "holding object",
+      "picking object",
+      "talking"
+    ]
+  },
+  {
+    "video_name": "pvS5gJmA1Fc_trim_1.mp4",
+    "caption": "A person is standing and sewing with a machine in a textile factory.",
+    "gt_actions": [
+      "sewing",
+      "standing"
+    ]
+  },
+  {
+    "video_name": "sFw-O7lha4I_trim_0.mp4",
+    "caption": "A group of people are watching a pipe go down in a manufacturing area.",
+    "gt_actions": [
+      "watching process"
+    ]
+  },
+  {
+    "video_name": "sFw-O7lha4I_trim_1.mp4",
+    "caption": "A person is observing and holding a pipe while other people are watching on an oil rig.",
+    "gt_actions": [
+      "holding object",
+      "watching process",
+      "connecting pipes"
+    ]
+  },
+  {
+    "video_name": "sFw-O7lha4I_trim_2.mp4",
+    "caption": "A group of people are walking and observing a pipe on an oil rig.",
+    "gt_actions": [
+      "watching process",
+      "walking",
+      "inspecting equipment or text"
+    ]
+  },
+  {
+    "video_name": "sFw-O7lha4I_trim_3.mp4",
+    "caption": "A group of people are walking and observing a pipe on an oil rig.",
+    "gt_actions": [
+      "watching process",
+      "walking",
+      "inspecting equipment or text"
+    ]
+  },
+  {
+    "video_name": "tb17mf0Njbs_trim_0.mp4",
+    "caption": "A person is balancing his foot on a beam at a construction site and pulling a pipe.",
+    "gt_actions": [
+      "balancing on beam",
+      "pulling object"
+    ]
+  },
+  {
+    "video_name": "tb17mf0Njbs_trim_1.mp4",
+    "caption": "A person is pulling a pipe at a construction site.",
+    "gt_actions": [
+      "pulling object"
+    ]
+  },
+  {
+    "video_name": "tb17mf0Njbs_trim_2.mp4",
+    "caption": "A person is attaching a pipe to a pulley very quickly at a construction site.",
+    "gt_actions": [
+      "connecting pipes"
+    ]
+  },
+  {
+    "video_name": "un9ettmXIzU_trim_0.mp4",
+    "caption": "Two people are getting on an elevated base and adjusting a pipe on an oil rig.",
+    "gt_actions": [
+      "connecting pipes"
+    ]
+  },
+  {
+    "video_name": "un9ettmXIzU_trim_1.mp4",
+    "caption": "Two people are adjusting a pipe and getting down from an elevated base on an oil rig.",
+    "gt_actions": [
+      "connecting pipes"
+    ]
+  },
+  {
+    "video_name": "un9ettmXIzU_trim_2.mp4",
+    "caption": "A person is pulling and adjusting a pipe while another person is signaling a crane on an oil rig.",
+    "gt_actions": [
+      "connecting pipes",
+      "pulling object",
+      "signaling to someone"
+    ]
+  },
+  {
+    "video_name": "un9ettmXIzU_trim_3.mp4",
+    "caption": "A person is suspending a clamp around a pipe on an oil rig while other people are watching.",
+    "gt_actions": [
+      "connecting pipes",
+      "watching process"
+    ]
+  },
+  {
+    "video_name": "un9ettmXIzU_trim_5.mp4",
+    "caption": "A group of people are rotating the joint heads of two pipes on an oil rig.",
+    "gt_actions": [
+      "rotating object",
+      "connecting pipes"
+    ]
+  },
+  {
+    "video_name": "un9ettmXIzU_trim_6.mp4",
+    "caption": "A person is detaching a wire from a pipe and then handing it to another person who inserts a green ring into it on an oil rig.",
+    "gt_actions": [
+      "adjusting wiring",
+      "detaching part from machinery",
+      "connecting pipes"
+    ]
+  },
+  {
+    "video_name": "vOySf5EIjRA_clip0_trim_1.mp4",
+    "caption": "A group of people are unrolling a large spool of cable at a construction site. Some people are sitting or standing and observing the process.",
+    "gt_actions": [
+      "rolling object",
+      "pulling object",
+      "watching process",
+      "standing",
+      "sitting"
+    ]
+  },
+  {
+    "video_name": "vOySf5EIjRA_clip0_trim_5.mp4",
+    "caption": "A group of people are holding and signaling a crane to lift a large spool of cable at a construction site.",
+    "gt_actions": [
+      "holding object",
+      "signaling to someone",
+      "operating industrial vehicle",
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "vOySf5EIjRA_clip0_trim_7.mp4",
+    "caption": "A person is writing something on a large spool of wire while many other people are standing and observing at a construction site.",
+    "gt_actions": [
+      "adjusting wiring",
+      "writing notes",
+      "watching process",
+      "standing"
+    ]
+  },
+  {
+    "video_name": "vOySf5EIjRA_clip0_trim_9.mp4",
+    "caption": "A group of people are standing, smiling and posing for the camera at a construction site.",
+    "gt_actions": [
+      "posing for camera",
+      "standing"
+    ]
+  },
+  {
+    "video_name": "Wdy23-dg7LE_trim_0.mp4",
+    "caption": "A person is detaching a pipe joint as liquid comes out on an oil rig while another person is helping him. A third person is holding something and observing.",
+    "gt_actions": [
+      "holding object",
+      "detaching part from machinery",
+      "watching process"
+    ]
+  },
+  {
+    "video_name": "Wdy23-dg7LE_trim_1.mp4",
+    "caption": "A person is wiping his mouth with his shirt and then clamping a metal to a pipe on an oil rig while another person is helping him. Another person is holding something and observing him.",
+    "gt_actions": [
+      "holding object",
+      "connecting pipes",
+      "watching process"
+    ]
+  },
+  {
+    "video_name": "Wdy23-dg7LE_trim_2.mp4",
+    "caption": "A person is clamping a metal to a pipe and then putting on gloves on an oil rig while another person is observing.",
+    "gt_actions": [
+      "connecting pipes",
+      "putting on PPE",
+      "watching process"
+    ]
+  },
+  {
+    "video_name": "XwlyOcZ09Uw_trim_0.mp4",
+    "caption": "A person is installing a black conveyor belt in an outdoor industrial area while another person is crouching and observing.",
+    "gt_actions": [
+      "adjusting machine components",
+      "crouching",
+      "watching process"
+    ]
+  },
+  {
+    "video_name": "YE7VTtHbtQA_trim_0.mp4",
+    "caption": "A person is detaching a clamp and inserting a pipe on an oil rig.",
+    "gt_actions": [
+      "detaching part from machinery",
+      "connecting pipes"
+    ]
+  },
+  {
+    "video_name": "YE7VTtHbtQA_trim_1.mp4",
+    "caption": "A person is attaching a clamp around a big pipe on an oil rig.",
+    "gt_actions": [
+      "connecting pipes"
+    ]
+  },
+  {
+    "video_name": "YE7VTtHbtQA_trim_3.mp4",
+    "caption": "A person is pulling and attaching a clamp around a big pipe on an oil rig.",
+    "gt_actions": [
+      "connecting pipes",
+      "pulling object"
+    ]
+  },
+  {
+    "video_name": "YE7VTtHbtQA_trim_4.mp4",
+    "caption": "A person is attaching a clamp around a big pipe on an oil rig.",
+    "gt_actions": [
+      "connecting pipes"
+    ]
+  },
+  {
+    "video_name": "YE7VTtHbtQA_trim_5.mp4",
+    "caption": "A person is attaching a clamp around a big pipe on an oil rig.",
+    "gt_actions": [
+      "connecting pipes"
+    ]
+  },
+  {
+    "video_name": "YW5XdwOgcnU_clip0_trim_5.mp4",
+    "caption": "A person is observing a heavy metal component being lowered in a manufacturing area.",
+    "gt_actions": [
+      "watching process"
+    ]
+  },
+  {
+    "video_name": "YW5XdwOgcnU_clip0_trim_7.mp4",
+    "caption": "A group of people are walking and handling machinery in a manufacturing area.",
+    "gt_actions": [
+      "walking",
+      "adjusting machine components"
+    ]
+  },
+  {
+    "video_name": "YW5XdwOgcnU_clip0_trim_8.mp4",
+    "caption": "A group of people are walking in a manufacturing area.",
+    "gt_actions": [
+      "walking"
+    ]
+  },
+  {
+    "video_name": "YyacR3Zd_jY_trim_0.mp4",
+    "caption": "A group of people are assembling surveillance cameras in a manufacturing area.",
+    "gt_actions": [
+      "assembling electronic components"
+    ]
+  },
+  {
+    "video_name": "YyacR3Zd_jY_trim_1.mp4",
+    "caption": "A group of people are assembling surveillance cameras in a manufacturing area.",
+    "gt_actions": [
+      "assembling electronic components"
+    ]
+  },
+  {
+    "video_name": "yyFJnKMK2LI_trim_0.mp4",
+    "caption": "A person is walking in an office building holding a circuit board and then talking with three other people wearing police uniforms.",
+    "gt_actions": [
+      "holding object",
+      "talking",
+      "walking",
+      "talking"
+    ]
+  },
+  {
+    "video_name": "yyFJnKMK2LI_trim_1.mp4",
+    "caption": "A person wearing a blue dress is talking with three other people wearing police uniforms in an office entrance.",
+    "gt_actions": [
+      "talking"
+    ]
+  },
+  {
+    "video_name": "yyFJnKMK2LI_trim_2.mp4",
+    "caption": "A person wearing a blue dress is walking out of the building with three other people wearing police uniforms.",
+    "gt_actions": [
+      "exiting doorway"
+    ]
+  },
+  {
+    "video_name": "Z2YK2X8x7fo_clip0_trim_1.mp4",
+    "caption": "A person is walking carrying some papers while another person is organizing something near the machine in a manufacturing area.",
+    "gt_actions": [
+      "holding object",
+      "walking"
+    ]
+  },
+  {
+    "video_name": "Z2YK2X8x7fo_clip0_trim_2.mp4",
+    "caption": "A person is walking carrying some papers while another person is organizing something near the machine in a manufacturing area.",
+    "gt_actions": [
+      "holding object",
+      "walking"
+    ]
+  },
+  {
+    "video_name": "Z2YK2X8x7fo_clip0_trim_9.mp4",
+    "caption": "A group of people are standing near an assembly line in a manufacturing area and sealing boxes.",
+    "gt_actions": [
+      "sealing boxes",
+      "standing"
+    ]
+  },
+  {
+    "video_name": "Z2YK2X8x7fo_clip0_trim_10.mp4",
+    "caption": "A group of people are standing near an assembly line in a manufacturing area and sealing boxes.",
+    "gt_actions": [
+      "sealing boxes",
+      "standing"
+    ]
+  },
+  {
+    "video_name": "Z2YK2X8x7fo_clip0_trim_15.mp4",
+    "caption": "A person is picking up tubes with a scoop and putting them inside a box in a manufacturing area while another person is walking and a third is bending down.",
+    "gt_actions": [
+      "picking object",
+      "placing object",
+      "holding object",
+      "walking",
+      "bending down"
+    ]
+  },
+  {
+    "video_name": "Z8qKH1k8Wck_trim_0.mp4",
+    "caption": "A person is pouring something in a food processing plant.",
+    "gt_actions": [
+      "pouring something"
+    ]
+  },
+  {
+    "video_name": "Z8qKH1k8Wck_trim_1.mp4",
+    "caption": "A person is pouring something in a food processing plant while looking at the camera. Suddenly something falls and he is putting the bucket down and taking a look. Then he is walking towards the door.",
+    "gt_actions": [
+      "pouring something",
+      "walking",
+      "exiting doorway"
+    ]
+  },
+  {
+    "video_name": "Z8qKH1k8Wck_trim_2.mp4",
+    "caption": "A person is walking towards the door in a food processing plant. Then two people are walking inside the room and one of them is showing something to the other and both of them are discussing.",
+    "gt_actions": [
+      "talking",
+      "exiting doorway",
+      "entering doorway",
+      "walking"
+    ]
+  },
+  {
+    "video_name": "Z8qKH1k8Wck_trim_3.mp4",
+    "caption": "Two people are talking and seem to be arguing while gesturing with their hands in a food processing plant. Then both of them are walking towards the door.",
+    "gt_actions": [
+      "talking",
+      "arguing",
+      "exiting doorway",
+      "walking"
+    ]
+  },
+  {
+    "video_name": "Z8qKH1k8Wck_trim_4.mp4",
+    "caption": "Two people are walking towards the door. Then another person is entering the room holding cleaning equipment.",
+    "gt_actions": [
+      "holding object",
+      "exiting doorway",
+      "entering doorway",
+      "cleaning object",
+      "walking"
+    ]
+  },
+  {
+    "video_name": "Z8qKH1k8Wck_trim_5.mp4",
+    "caption": "A person is walking towards a mess with cleaning equipment in a food processing plant. Then he is starting to clean the mess with a mop.",
+    "gt_actions": [
+      "cleaning object",
+      "walking"
+    ]
+  },
+  {
+    "video_name": "Ze9cIOgB1Sw_clip0_trim_0.mp4",
+    "caption": "A person is running towards a door and trying to open it at an airport.",
+    "gt_actions": [
+      "running",
+      "opening vehicle door"
+    ]
+  },
+  {
+    "video_name": "Ze9cIOgB1Sw_clip0_trim_1.mp4",
+    "caption": "A person is falling down at an airport. Then he is knocking on a glass window and throwing something at it.",
+    "gt_actions": [
+      "falling down",
+      "knocking on window"
+    ]
+  },
+  {
+    "video_name": "zijZ9paskPM_clip0_trim_1.mp4",
+    "caption": "A person is walking in an industrial area.",
+    "gt_actions": [
+      "walking"
+    ]
+  },
+  {
+    "video_name": "zijZ9paskPM_clip0_trim_2.mp4",
+    "caption": "A person is walking in an industrial area.",
+    "gt_actions": [
+      "walking"
+    ]
+  },
+  {
+    "video_name": "zijZ9paskPM_clip0_trim_3.mp4",
+    "caption": "A person is walking in an industrial area.",
+    "gt_actions": [
+      "walking"
+    ]
+  },
+  {
+    "video_name": "zijZ9paskPM_clip0_trim_4.mp4",
+    "caption": "A person is coming out from below a boom barrier and walking towards a car in an industrial area. Then he is getting into the car.",
+    "gt_actions": [
+      "entering vehicle",
+      "walking"
+    ]
+  },
+  {
+    "video_name": "zijZ9paskPM_clip0_trim_5.mp4",
+    "caption": "A car is backing up in an industrial area.",
+    "gt_actions": [
+      "backing vehicle"
+    ]
+  },
+  {
+    "video_name": "ZKn7Ja4ojbY_clip0_trim_1.mp4",
+    "caption": "A person is pressing a button in a machine in a manufacturing area. Two other people are observing and talking.",
+    "gt_actions": [
+      "pressing button",
+      "watching process",
+      "talking"
+    ]
+  },
+  {
+    "video_name": "ZKn7Ja4ojbY_clip0_trim_2.mp4",
+    "caption": "A couple of people are observing a machine in a manufacturing area. One of them is pointing at the machine.",
+    "gt_actions": [
+      "pointing at something",
+      "watching process",
+      "inspecting equipment or text"
+    ]
+  },
+  {
+    "video_name": "ZKn7Ja4ojbY_clip0_trim_5.mp4",
+    "caption": "A person is standing beside a machine in a manufacturing area and looking at a phone.",
+    "gt_actions": [
+      "standing",
+      "looking at screen"
+    ]
+  },
+  {
+    "video_name": "ZKn7Ja4ojbY_clip0_trim_7.mp4",
+    "caption": "A person is taking a picture of a machine with his phone in a manufacturing area.",
+    "gt_actions": [
+      "taking a photo"
+    ]
+  },
+  {
+    "video_name": "ZKn7Ja4ojbY_clip0_trim_11.mp4",
+    "caption": "A person is walking and taking a picture of a machine with his phone in a manufacturing area.",
+    "gt_actions": [
+      "walking",
+      "taking a photo"
+    ]
+  },
+  {
+    "video_name": "ZKn7Ja4ojbY_clip0_trim_14.mp4",
+    "caption": "A person is looking at a screen and moving his hands in a manufacturing area while another person is observing a machine and moving his hands.",
+    "gt_actions": [
+      "looking at screen",
+      "watching process",
+      "inspecting equipment or text"
+    ]
+  },
+  {
+    "video_name": "ZKn7Ja4ojbY_clip0_trim_16.mp4",
+    "caption": "A person is taking a picture of a machine with his phone in a manufacturing area.",
+    "gt_actions": [
+      "taking a photo"
+    ]
+  },
+  {
+    "video_name": "0JyepVxTNTg_trim_0.mp4",
+    "caption": "A person is holding a barrel in a factory.",
+    "gt_actions": [
+      "holding object"
+    ]
+  },
+  {
+    "video_name": "0JyepVxTNTg_trim_1.mp4",
+    "caption": "A person is holding a barrel in a factory.",
+    "gt_actions": [
+      "holding object"
+    ]
+  },
+  {
+    "video_name": "0JyepVxTNTg_trim_2.mp4",
+    "caption": "A person is taking the top of a barrel in a factory.",
+    "gt_actions": [
+      "picking object",
+      "opening panel cover"
+    ]
+  },
+  {
+    "video_name": "3iwe_dM0pc0_trim_13.mp4",
+    "caption": "A person is crawling inside a narrow pipe.",
+    "gt_actions": [
+      "crawling"
+    ]
+  },
+  {
+    "video_name": "3iwe_dM0pc0_trim_14.mp4",
+    "caption": "A person is crawling inside a narrow pipe.",
+    "gt_actions": [
+      "crawling"
+    ]
+  },
+  {
+    "video_name": "3iwe_dM0pc0_trim_15.mp4",
+    "caption": "A person is crawling inside a narrow pipe.",
+    "gt_actions": [
+      "crawling"
+    ]
+  },
+  {
+    "video_name": "3iwe_dM0pc0_trim_16.mp4",
+    "caption": "A person is crawling inside a narrow pipe.",
+    "gt_actions": [
+      "crawling"
+    ]
+  },
+  {
+    "video_name": "3iwe_dM0pc0_trim_17.mp4",
+    "caption": "A person is crawling inside a narrow pipe.",
+    "gt_actions": [
+      "crawling"
+    ]
+  },
+  {
+    "video_name": "3iwe_dM0pc0_trim_18.mp4",
+    "caption": "A person is crawling inside a narrow pipe.",
+    "gt_actions": [
+      "crawling"
+    ]
+  },
+  {
+    "video_name": "3iwe_dM0pc0_trim_19.mp4",
+    "caption": "A person is crawling inside a narrow pipe.",
+    "gt_actions": [
+      "crawling"
+    ]
+  },
+  {
+    "video_name": "3iwe_dM0pc0_trim_20.mp4",
+    "caption": "A person is crawling inside a narrow pipe.",
+    "gt_actions": [
+      "crawling"
+    ]
+  },
+  {
+    "video_name": "bxENbC-SPCw_trim_0.mp4",
+    "caption": "A person is smoking and holding an angle grinder in front of a garage.",
+    "gt_actions": [
+      "holding object"
+    ]
+  },
+  {
+    "video_name": "bxENbC-SPCw_trim_1.mp4",
+    "caption": "A person is smoking and holding an angle grinder in front of a garage. Then he is beating on a barrel with his hand and then holding a hammer.",
+    "gt_actions": [
+      "holding object",
+      "hammering component"
+    ]
+  },
+  {
+    "video_name": "bxENbC-SPCw_trim_2.mp4",
+    "caption": "A person is smoking and holding an angle grinder in front of a garage. Then he is putting it down on a barrel and taking out protective glasses.",
+    "gt_actions": [
+      "holding object",
+      "placing object",
+      "putting on PPE"
+    ]
+  },
+  {
+    "video_name": "bxENbC-SPCw_trim_3.mp4",
+    "caption": "A person is smoking and putting on protective glasses in front of a garage. Then he is holding an angle grinder and cutting the barrel.",
+    "gt_actions": [
+      "putting on PPE",
+      "holding object",
+      "cutting with machine"
+    ]
+  },
+  {
+    "video_name": "bxENbC-SPCw_trim_4.mp4",
+    "caption": "A person is smoking and cutting a barrel with an angle grinder in front of a garage.",
+    "gt_actions": [
+      "cutting with machine"
+    ]
+  },
+  {
+    "video_name": "bxENbC-SPCw_trim_5.mp4",
+    "caption": "A person is smoking and cutting a barrel with an angle grinder in front of a garage.",
+    "gt_actions": [
+      "cutting with machine"
+    ]
+  },
+  {
+    "video_name": "bxENbC-SPCw_trim_6.mp4",
+    "caption": "A person is smoking and cutting a barrel with an angle grinder in front of a garage. Then he is beating the barrel with a hammer.",
+    "gt_actions": [
+      "cutting with machine",
+      "hammering component"
+    ]
+  },
+  {
+    "video_name": "bxENbC-SPCw_trim_7.mp4",
+    "caption": "A person is smoking and cutting a barrel with an angle grinder in front of a garage.",
+    "gt_actions": [
+      "cutting with machine"
+    ]
+  },
+  {
+    "video_name": "bxENbC-SPCw_trim_8.mp4",
+    "caption": "A person is smoking and cutting a barrel with an angle grinder in front of a garage. Then he is beating the barrel with a hammer.",
+    "gt_actions": [
+      "cutting with machine",
+      "hammering component"
+    ]
+  },
+  {
+    "video_name": "bxENbC-SPCw_trim_9.mp4",
+    "caption": "A person is smoking and cutting a barrel with an angle grinder in front of a garage. Then he is beating the barrel with a hammer.",
+    "gt_actions": [
+      "cutting with machine",
+      "hammering component"
+    ]
+  },
+  {
+    "video_name": "bxENbC-SPCw_trim_10.mp4",
+    "caption": "A person is smoking and cutting a barrel with an angle grinder in front of a garage.",
+    "gt_actions": [
+      "cutting with machine"
+    ]
+  },
+  {
+    "video_name": "bxENbC-SPCw_trim_11.mp4",
+    "caption": "A person is placing an angle grinder in a container and beating a barrel with a hammer in front of a garage.",
+    "gt_actions": [
+      "placing object",
+      "hammering component"
+    ]
+  },
+  {
+    "video_name": "bxENbC-SPCw_trim_12.mp4",
+    "caption": "A person is holding a hammer and taking off the lid of a barrel in front of a garage.",
+    "gt_actions": [
+      "holding object",
+      "opening panel cover",
+      "detaching part from machinery"
+    ]
+  },
+  {
+    "video_name": "bxENbC-SPCw_trim_13.mp4",
+    "caption": "A person is holding a hammer and the lid of a barrel in front of a garage. Then he is putting down the lid on the ground.",
+    "gt_actions": [
+      "holding object",
+      "placing object"
+    ]
+  },
+  {
+    "video_name": "C3mB000mXUU_trim_0.mp4",
+    "caption": "A person is scanning a label and taking out a folded box from a shelf in a boxing facility.",
+    "gt_actions": [
+      "scanning label",
+      "picking object"
+    ]
+  },
+  {
+    "video_name": "C3mB000mXUU_trim_1.mp4",
+    "caption": "A person is attaching a label on a box and placing an object inside it in a boxing facility.",
+    "gt_actions": [
+      "attaching label",
+      "placing object"
+    ]
+  },
+  {
+    "video_name": "C3mB000mXUU_trim_2.mp4",
+    "caption": "A person is packing a box and attaching a label on it in a boxing facility.",
+    "gt_actions": [
+      "placing object",
+      "attaching label"
+    ]
+  },
+  {
+    "video_name": "C3mB000mXUU_trim_3.mp4",
+    "caption": "A person is placing a box in a conveyor belt and then scanning item in a boxing facility.",
+    "gt_actions": [
+      "placing object",
+      "scanning label"
+    ]
+  },
+  {
+    "video_name": "C3mB000mXUU_trim_4.mp4",
+    "caption": "A person is putting a box over an object and then attaching a label on the box in a boxing facility.",
+    "gt_actions": [
+      "placing object",
+      "attaching label"
+    ]
+  },
+  {
+    "video_name": "C3mB000mXUU_trim_5.mp4",
+    "caption": "A person is packing a box and attaching a label on it in a boxing facility.",
+    "gt_actions": [
+      "placing object",
+      "attaching label"
+    ]
+  },
+  {
+    "video_name": "C3mB000mXUU_trim_6.mp4",
+    "caption": "A person is attaching a label on a box in a boxing facility.",
+    "gt_actions": [
+      "attaching label"
+    ]
+  },
+  {
+    "video_name": "C3mB000mXUU_trim_7.mp4",
+    "caption": "A person is placing a box in a conveyor belt and then she is scanning a book in a boxing facility.",
+    "gt_actions": [
+      "placing object",
+      "scanning label"
+    ]
+  },
+  {
+    "video_name": "C3mB000mXUU_trim_8.mp4",
+    "caption": "A person is packing a box and attaching a label on it in a boxing facility. Then she is putting a box inside it.",
+    "gt_actions": [
+      "placing object",
+      "attaching label"
+    ]
+  },
+  {
+    "video_name": "C3mB000mXUU_trim_9.mp4",
+    "caption": "A person is packing a box and attaching a label on it in a boxing facility.",
+    "gt_actions": [
+      "placing object",
+      "attaching label"
+    ]
+  },
+  {
+    "video_name": "C3mB000mXUU_trim_10.mp4",
+    "caption": "A person is placing a box in a conveyor belt and then scanning item in a boxing facility.",
+    "gt_actions": [
+      "placing object",
+      "scanning label"
+    ]
+  },
+  {
+    "video_name": "C3mB000mXUU_trim_11.mp4",
+    "caption": "A person is taking out a folded box from a shelf and then attaching a label on it in a boxing facility.",
+    "gt_actions": [
+      "picking object",
+      "attaching label"
+    ]
+  },
+  {
+    "video_name": "C3mB000mXUU_trim_12.mp4",
+    "caption": "A person is putting an item in a box, closing it and then attaching a label on it in a boxing facility.",
+    "gt_actions": [
+      "placing object",
+      "sealing boxes",
+      "attaching label"
+    ]
+  },
+  {
+    "video_name": "EVrHAHIvpZ8_trim_0.mp4",
+    "caption": "A person is shaking a hand with another person in a construction site.",
+    "gt_actions": [
+      "shaking hands"
+    ]
+  },
+  {
+    "video_name": "FY2qGPLaK9E_trim_2.mp4",
+    "caption": "A person is talking and opening a panel in a boxing facility.",
+    "gt_actions": [
+      "talking",
+      "opening panel cover"
+    ]
+  },
+  {
+    "video_name": "FY2qGPLaK9E_trim_3.mp4",
+    "caption": "A person is talking and holding the lid of a panel in a boxing facility.",
+    "gt_actions": [
+      "talking",
+      "holding object"
+    ]
+  },
+  {
+    "video_name": "FY2qGPLaK9E_trim_4.mp4",
+    "caption": "A person is talking and holding the lid of a panel in a boxing facility.",
+    "gt_actions": [
+      "talking",
+      "holding object"
+    ]
+  },
+  {
+    "video_name": "FY2qGPLaK9E_trim_5.mp4",
+    "caption": "A person is talking and holding the lid of a panel in a boxing facility.",
+    "gt_actions": [
+      "talking",
+      "holding object"
+    ]
+  },
+  {
+    "video_name": "FY2qGPLaK9E_trim_6.mp4",
+    "caption": "A person is talking and holding the lid of a panel in a boxing facility.",
+    "gt_actions": [
+      "talking",
+      "holding object"
+    ]
+  },
+  {
+    "video_name": "FY2qGPLaK9E_trim_7.mp4",
+    "caption": "A person is talking and holding a screw driver and closing the lid of a panel in a boxing facility.",
+    "gt_actions": [
+      "talking",
+      "holding object",
+      "closing panel cover"
+    ]
+  },
+  {
+    "video_name": "FY2qGPLaK9E_trim_11.mp4",
+    "caption": "A person is talking and screwing a panel in a boxing facility.",
+    "gt_actions": [
+      "talking",
+      "screwing parts"
+    ]
+  },
+  {
+    "video_name": "FY2qGPLaK9E_trim_12.mp4",
+    "caption": "A person is talking and screwing a panel in a boxing facility.",
+    "gt_actions": [
+      "talking",
+      "screwing parts"
+    ]
+  },
+  {
+    "video_name": "FY2qGPLaK9E_trim_13.mp4",
+    "caption": "A person is talking and screwing a panel in a boxing facility.",
+    "gt_actions": [
+      "talking",
+      "screwing parts"
+    ]
+  },
+  {
+    "video_name": "FY2qGPLaK9E_trim_14.mp4",
+    "caption": "A person is talking and screwing a panel in a boxing facility.",
+    "gt_actions": [
+      "talking",
+      "screwing parts"
+    ]
+  },
+  {
+    "video_name": "Hl4Lnl4erek_trim_0.mp4",
+    "caption": "A person is digging hole in a garden.",
+    "gt_actions": [
+      "digging"
+    ]
+  },
+  {
+    "video_name": "mB1nOTOb6dU_trim_0.mp4",
+    "caption": "A person is looking at a paper and then shaking hands with another person in a construction site.",
+    "gt_actions": [
+      "inspecting equipment or text",
+      "shaking hands"
+    ]
+  },
+  {
+    "video_name": "mB1nOTOb6dU_trim_1.mp4",
+    "caption": "A person is shaking hands with another person in a construction site and then both of them are looking at a paper.",
+    "gt_actions": [
+      "shaking hands",
+      "inspecting equipment or text"
+    ]
+  },
+  {
+    "video_name": "mB1nOTOb6dU_trim_2.mp4",
+    "caption": "Two persons are looking a paper in a construction site.",
+    "gt_actions": [
+      "inspecting equipment or text"
+    ]
+  },
+  {
+    "video_name": "o8B3cm42mnI_trim_0.mp4",
+    "caption": "A person is talking while holding a screwdriver infront of a panel on the wall.",
+    "gt_actions": [
+      "talking",
+      "holding object"
+    ]
+  },
+  {
+    "video_name": "o8B3cm42mnI_trim_1.mp4",
+    "caption": "A person is talking while holding a screwdriver infront of a panel on the wall.",
+    "gt_actions": [
+      "talking",
+      "holding object"
+    ]
+  },
+  {
+    "video_name": "o8B3cm42mnI_trim_23.mp4",
+    "caption": "A person is screwing a panel on the wall.",
+    "gt_actions": [
+      "screwing parts"
+    ]
+  },
+  {
+    "video_name": "o8B3cm42mnI_trim_27.mp4",
+    "caption": "A person is taking off the lid of a panel on the wall.",
+    "gt_actions": [
+      "opening panel cover",
+      "detaching part from machinery"
+    ]
+  },
+  {
+    "video_name": "o8B3cm42mnI_trim_28.mp4",
+    "caption": "A person is holding and putting down the lid of a panel on the wall.",
+    "gt_actions": [
+      "holding object",
+      "placing object"
+    ]
+  },
+  {
+    "video_name": "o9FuFIY-OKA_trim_0.mp4",
+    "caption": "A person is standing, talking and holding a shovel in a garden.",
+    "gt_actions": [
+      "standing",
+      "talking",
+      "holding object"
+    ]
+  },
+  {
+    "video_name": "o9FuFIY-OKA_trim_1.mp4",
+    "caption": "A person is standing, talking and holding a shovel in a garden.",
+    "gt_actions": [
+      "standing",
+      "talking",
+      "holding object"
+    ]
+  },
+  {
+    "video_name": "o9FuFIY-OKA_trim_3.mp4",
+    "caption": "A person is talking and crouching while holding a shovel in a garden.",
+    "gt_actions": [
+      "talking",
+      "crouching",
+      "holding object"
+    ]
+  },
+  {
+    "video_name": "o9FuFIY-OKA_trim_5.mp4",
+    "caption": "A person is talking and digging soil in a garden.",
+    "gt_actions": [
+      "talking",
+      "digging"
+    ]
+  },
+  {
+    "video_name": "o9FuFIY-OKA_trim_6.mp4",
+    "caption": "A person is talking and digging soil in a garden.",
+    "gt_actions": [
+      "talking",
+      "digging"
+    ]
+  },
+  {
+    "video_name": "o9FuFIY-OKA_trim_7.mp4",
+    "caption": "A person is talking and digging soil in a garden.",
+    "gt_actions": [
+      "talking",
+      "digging"
+    ]
+  },
+  {
+    "video_name": "o9FuFIY-OKA_trim_8.mp4",
+    "caption": "A person is talking and digging soil in a garden.",
+    "gt_actions": [
+      "talking",
+      "digging"
+    ]
+  },
+  {
+    "video_name": "o9FuFIY-OKA_trim_9.mp4",
+    "caption": "A person is talking and digging soil in a garden.",
+    "gt_actions": [
+      "talking",
+      "digging"
+    ]
+  },
+  {
+    "video_name": "o9FuFIY-OKA_trim_10.mp4",
+    "caption": "A person is standing, talking and digging soil in a garden.",
+    "gt_actions": [
+      "standing",
+      "talking",
+      "digging"
+    ]
+  },
+  {
+    "video_name": "o9FuFIY-OKA_trim_11.mp4",
+    "caption": "A person is standing, talking and holding a shovel in a garden.",
+    "gt_actions": [
+      "standing",
+      "talking",
+      "holding object"
+    ]
+  },
+  {
+    "video_name": "o9FuFIY-OKA_trim_12.mp4",
+    "caption": "A person is standing, talking and holding a shovel in a garden.",
+    "gt_actions": [
+      "standing",
+      "talking",
+      "holding object"
+    ]
+  },
+  {
+    "video_name": "o9FuFIY-OKA_trim_13.mp4",
+    "caption": "A person is talking and digging soil in a garden.",
+    "gt_actions": [
+      "talking",
+      "digging"
+    ]
+  },
+  {
+    "video_name": "o9FuFIY-OKA_trim_14.mp4",
+    "caption": "A person is talking and digging soil in a garden.",
+    "gt_actions": [
+      "talking",
+      "digging"
+    ]
+  },
+  {
+    "video_name": "o9FuFIY-OKA_trim_15.mp4",
+    "caption": "A person is talking and digging soil in a garden.",
+    "gt_actions": [
+      "talking",
+      "digging"
+    ]
+  },
+  {
+    "video_name": "o9FuFIY-OKA_trim_16.mp4",
+    "caption": "A person is talking and digging soil in a garden.",
+    "gt_actions": [
+      "talking",
+      "digging"
+    ]
+  },
+  {
+    "video_name": "o9FuFIY-OKA_trim_17.mp4",
+    "caption": "A person is talking and digging soil in a garden.",
+    "gt_actions": [
+      "talking",
+      "digging"
+    ]
+  },
+  {
+    "video_name": "o9FuFIY-OKA_trim_18.mp4",
+    "caption": "A person is talking and digging soil in a garden.",
+    "gt_actions": [
+      "talking",
+      "digging"
+    ]
+  },
+  {
+    "video_name": "o9FuFIY-OKA_trim_19.mp4",
+    "caption": "A person is talking and digging soil in a garden.",
+    "gt_actions": [
+      "talking",
+      "digging"
+    ]
+  },
+  {
+    "video_name": "o9FuFIY-OKA_trim_20.mp4",
+    "caption": "A person is digging soil in a garden.",
+    "gt_actions": [
+      "digging"
+    ]
+  },
+  {
+    "video_name": "o9FuFIY-OKA_trim_21.mp4",
+    "caption": "A person is digging soil in a garden.",
+    "gt_actions": [
+      "digging"
+    ]
+  },
+  {
+    "video_name": "o9FuFIY-OKA_trim_22.mp4",
+    "caption": "A person is digging soil in a garden.",
+    "gt_actions": [
+      "digging"
+    ]
+  },
+  {
+    "video_name": "o9FuFIY-OKA_trim_23.mp4",
+    "caption": "A person is digging soil in a garden.",
+    "gt_actions": [
+      "digging"
+    ]
+  },
+  {
+    "video_name": "o9FuFIY-OKA_trim_24.mp4",
+    "caption": "A person is talking and digging soil in a garden.",
+    "gt_actions": [
+      "talking",
+      "digging"
+    ]
+  },
+  {
+    "video_name": "o9FuFIY-OKA_trim_25.mp4",
+    "caption": "A person is talking and digging soil in a garden.",
+    "gt_actions": [
+      "talking",
+      "digging"
+    ]
+  },
+  {
+    "video_name": "UtvCEMvWtVk_trim_0.mp4",
+    "caption": "A person is attaching a label on a box in a boxing facility.",
+    "gt_actions": [
+      "attaching label"
+    ]
+  },
+  {
+    "video_name": "VFCTDVt5B8_trim_7.mp4",
+    "caption": "A person is packing a box in a shop.",
+    "gt_actions": [
+      "placing object",
+      "sealing boxes"
+    ]
+  },
+  {
+    "video_name": "X9F1GALAAcE_trim_0.mp4",
+    "caption": "A person is crawling inside a narrow pipe.",
+    "gt_actions": [
+      "crawling"
+    ]
+  },
+  {
+    "video_name": "X9F1GALAAcE_trim_1.mp4",
+    "caption": "A person is crawling inside a narrow pipe.",
+    "gt_actions": [
+      "crawling"
+    ]
+  },
+  {
+    "video_name": "X9F1GALAAcE_trim_2.mp4",
+    "caption": "A person is crawling inside a narrow pipe.",
+    "gt_actions": [
+      "crawling"
+    ]
+  },
+  {
+    "video_name": "X9F1GALAAcE_trim_3.mp4",
+    "caption": "A person is crawling inside a narrow pipe.",
+    "gt_actions": [
+      "crawling"
+    ]
+  },
+  {
+    "video_name": "X9F1GALAAcE_trim_4.mp4",
+    "caption": "A person is crawling inside a narrow pipe.",
+    "gt_actions": [
+      "crawling"
+    ]
+  },
+  {
+    "video_name": "X9F1GALAAcE_trim_5.mp4",
+    "caption": "A person is crawling outside of a narrow pipe.",
+    "gt_actions": [
+      "crawling",
+      "exiting doorway"
+    ]
+  },
+  {
+    "video_name": "zMt5qF1mMiU_trim_0.mp4",
+    "caption": "A person is placing rods inside a machine in a factory.",
+    "gt_actions": [
+      "placing object",
+      "loading materials"
+    ]
+  },
+  {
+    "video_name": "ZN5J4GYVAcc_trim_0.mp4",
+    "caption": "A person wearing red shirt is standing while another person wearing gray shirt is sitting and assembling a surveillance camera in a factory. A person wearing white shirt is small componennts in a box.",
+    "gt_actions": [
+      "standing",
+      "sitting",
+      "assembling electronic components",
+      "placing object",
+      "arranging objects"
+    ]
+  },
+  {
+    "video_name": "ZN5J4GYVAcc_trim_1.mp4",
+    "caption": "A person wearing red shirt is standing and talking while another person wearing gray shirt is sitting and assembling a surveillance camera in a factory. A person wearing white shirt is small componennts in a box.",
+    "gt_actions": [
+      "standing",
+      "talking",
+      "sitting",
+      "assembling electronic components",
+      "placing object",
+      "arranging objects"
+    ]
+  },
+  {
+    "video_name": "ZN5J4GYVAcc_trim_9.mp4",
+    "caption": "A person is holding a camera component in a factory.",
+    "gt_actions": [
+      "holding object"
+    ]
+  },
+  {
+    "video_name": "ZN5J4GYVAcc_trim_11.mp4",
+    "caption": "A person is adjusting camera component in a box and talking in a factory.",
+    "gt_actions": [
+      "adjusting machine components",
+      "placing object",
+      "talking"
+    ]
+  },
+  {
+    "video_name": "ZQVQZdOgDlQ_trim_0.mp4",
+    "caption": "Two people are standing and a person is walking in a factory.",
+    "gt_actions": [
+      "standing",
+      "walking"
+    ]
+  },
+  {
+    "video_name": "ZQVQZdOgDlQ_trim_1.mp4",
+    "caption": "Two people are standing and some people are walking in a factory.",
+    "gt_actions": [
+      "standing",
+      "walking"
+    ]
+  },
+  {
+    "video_name": "ZrnWnmhGpQY_clip0_trim_3.mp4",
+    "caption": "A person is walking in a construction site.",
+    "gt_actions": [
+      "walking"
+    ]
+  },
+  {
+    "video_name": "ZrnWnmhGpQY_clip0_trim_4.mp4",
+    "caption": "A person is digging soil in a construction site.",
+    "gt_actions": [
+      "digging"
+    ]
+  },
+  {
+    "video_name": "ZrnWnmhGpQY_clip0_trim_23.mp4",
+    "caption": "A person is walking in a construction site.",
+    "gt_actions": [
+      "walking"
+    ]
+  },
+  {
+    "video_name": "ZrnWnmhGpQY_clip0_trim_24.mp4",
+    "caption": "A person is walking in a construction site.",
+    "gt_actions": [
+      "walking"
+    ]
+  },
+  {
+    "video_name": "ZrnWnmhGpQY_clip0_trim_27.mp4",
+    "caption": "A person is climbing a ladder while another person is holding it in a construction site.",
+    "gt_actions": [
+      "holding object"
+    ]
+  },
+  {
+    "video_name": "zzefjysopTs_trim_0.mp4",
+    "caption": "A person is placing an old cylinder on a crusher machine in a factory.",
+    "gt_actions": [
+      "placing object",
+      "operating machine"
+    ]
+  },
+  {
+    "video_name": "zzefjysopTs_trim_1.mp4",
+    "caption": "A person is watching an old cylinder on a crusher machine in a factory.",
+    "gt_actions": [
+      "watching process",
+      "operating machine"
+    ]
+  },
+  {
+    "video_name": "zzefjysopTs_trim_2.mp4",
+    "caption": "A person is adjusting an old cylinder on a crusher machine in a factory.",
+    "gt_actions": [
+      "adjusting machine components",
+      "operating machine"
+    ]
+  },
+  {
+    "video_name": "zzefjysopTs_trim_3.mp4",
+    "caption": "A person is picking up an old cylinder from a crusher machine in a factory.",
+    "gt_actions": [
+      "picking object",
+      "operating machine"
+    ]
+  },
+  {
+    "video_name": "zzefjysopTs_trim_4.mp4",
+    "caption": "A person is holding an old cylinder from a crusher machine in a factory.",
+    "gt_actions": [
+      "holding object",
+      "operating machine"
+    ]
+  },
+  {
+    "video_name": "zzefjysopTs_trim_5.mp4",
+    "caption": "A person is placing an old cylinder on a crusher machine in a factory.",
+    "gt_actions": [
+      "placing object",
+      "operating machine"
+    ]
+  },
+  {
+    "video_name": "zzefjysopTs_trim_6.mp4",
+    "caption": "A person is watching an old cylinder on a crusher machine in a factory. Then he is getting down.",
+    "gt_actions": [
+      "watching process",
+      "operating machine",
+      "getting up"
+    ]
+  }
+]

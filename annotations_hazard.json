@@ -1,0 +1,3410 @@
+[
+  {
+    "video_name": "-0zRCAh9_N4_trim_0.mp4",
+    "caption": "A group of people are working on the roof of a building under construction when it starts collapsing.",
+    "gt_actions": [
+      "structural collapse"
+    ]
+  },
+  {
+    "video_name": "-0zRCAh9_N4_trim_1.mp4",
+    "caption": "A group of people are working on the roof of a building under construction when it starts collapsing.",
+    "gt_actions": [
+      "structural collapse"
+    ]
+  },
+  {
+    "video_name": "-0zRCAh9_N4_trim_2.mp4",
+    "caption": "A group of people are walking and running around a collapsed building under construction, trying to rescue trapped people.",
+    "gt_actions": [
+      "rescue effort",
+      "searching debris for victims",
+      "structural collapse"
+    ]
+  },
+  {
+    "video_name": "-0zRCAh9_N4_trim_3.mp4",
+    "caption": "A group of people are walking and running around a collapsed building under construction, trying to rescue trapped people.",
+    "gt_actions": [
+      "rescue effort",
+      "searching debris for victims",
+      "structural collapse"
+    ]
+  },
+  {
+    "video_name": "-BzGMvclD88_trim_1.mp4",
+    "caption": "A person is picking up a crate on an elevated platform, then she missteps and falls to the ground. Another person is rushing to help her while a child is watching.",
+    "gt_actions": [
+      "carrying object and slipping",
+      "person falling down",
+      "rescue effort",
+      "watching incident passively",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "-BzGMvclD88_trim_2.mp4",
+    "caption": "A person is picking another person up who has suffered a head injury. A child beside them is watching.",
+    "gt_actions": [
+      "rescue effort",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "-BzGMvclD88_trim_5.mp4",
+    "caption": "A person is watching a crane lowering a load that tears and detaches from the crane. The person is quickly backing away from the falling load. Some other people are watching from a distance.",
+    "gt_actions": [
+      "falling load",
+      "escaping from danger",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "-BzGMvclD88_trim_9.mp4",
+    "caption": "A person is picking up something when a heavy load falls on him from above. Another person is quickly backing away from the falling load.",
+    "gt_actions": [
+      "falling load",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "-BzGMvclD88_trim_13.mp4",
+    "caption": "Two people are trying to push a heavy load into a lift, but the supporting trolley breaks. Both of them are rushing to pull out the panels from the load.",
+    "gt_actions": [
+      "break under load",
+      "pushing heavy load"
+    ]
+  },
+  {
+    "video_name": "-NF8DZCdcUQ_trim_1.mp4",
+    "caption": "A person is operating a forklift but the load causes nearby shelves to collapse in a warehouse. The person quickly moves away from the falling shelves.",
+    "gt_actions": [
+      "operating forklift",
+      "warehouse shelves toppling",
+      "falling load",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "-NF8DZCdcUQ_trim_2.mp4",
+    "caption": "A person is quickly running away as shelves collapse in a warehouse.",
+    "gt_actions": [
+      "warehouse shelves toppling",
+      "falling load",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "_2tSBxyAwLs_trim_7.mp4",
+    "caption": "A person is falling while trying to open a car door.",
+    "gt_actions": [
+      "person falling down"
+    ]
+  },
+  {
+    "video_name": "_2tSBxyAwLs_trim_8.mp4",
+    "caption": "Two people are pulling crates from a van when the stack falls on them. Another person is standing at the back and watching.",
+    "gt_actions": [
+      "unloading truck load fall",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "_2tSBxyAwLs_trim_9.mp4",
+    "caption": "Two people are looking at fallen crates from a van.",
+    "gt_actions": [
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "_2tSBxyAwLs_trim_10.mp4",
+    "caption": "A person is being dragged across the road by a heavy boat trailer.",
+    "gt_actions": [
+      "person dragged by vehicle"
+    ]
+  },
+  {
+    "video_name": "_2tSBxyAwLs_trim_13.mp4",
+    "caption": "A person is walking when a large tree falls over, barely missing her.",
+    "gt_actions": [
+      "tree falling nearby"
+    ]
+  },
+  {
+    "video_name": "_2tSBxyAwLs_trim_16.mp4",
+    "caption": "A person is walking and slipping on a doormat.",
+    "gt_actions": [
+      "person falling down"
+    ]
+  },
+  {
+    "video_name": "_2tSBxyAwLs_trim_18.mp4",
+    "caption": "A person riding a bicycle is being sprayed by water from a pipe that possibly activates to deter theft.",
+    "gt_actions": [
+      "person falling down"
+    ]
+  },
+  {
+    "video_name": "_2tSBxyAwLs_trim_22.mp4",
+    "caption": "A car is crashing into a shop and wrecking the shelves.",
+    "gt_actions": [
+      "vehicle crash into building or stationary object"
+    ]
+  },
+  {
+    "video_name": "_2tSBxyAwLs_trim_25.mp4",
+    "caption": "Two people are jumping out of their seats because of a fire. One of them is trying to put out the fire with his foot.",
+    "gt_actions": [
+      "extinguishing fire",
+      "fire incident",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "_2tSBxyAwLs_trim_52.mp4",
+    "caption": "A person is operating a forklift pulling a boat when the forklift blade detaches. The person is getting down from the forklift as the boat slips away. The forklift is slipping in the opposite direction and crashing.",
+    "gt_actions": [
+      "operating forklift",
+      "forklift blade detaching"
+    ]
+  },
+  {
+    "video_name": "_2tSBxyAwLs_trim_55.mp4",
+    "caption": "A huge wooden structure is falling on a person as another person is walking nearby.",
+    "gt_actions": [
+      "falling load",
+      "structural collapse"
+    ]
+  },
+  {
+    "video_name": "_2tSBxyAwLs_trim_56.mp4",
+    "caption": "A person is lifting a huge wooden structure as another person is coming out from underneath it.",
+    "gt_actions": [
+      "lifting object off person",
+      "rescue effort"
+    ]
+  },
+  {
+    "video_name": "_2tSBxyAwLs_trim_57.mp4",
+    "caption": "A person is lifting a huge wooden structure as another person is coming out from underneath it.",
+    "gt_actions": [
+      "lifting object off person",
+      "rescue effort"
+    ]
+  },
+  {
+    "video_name": "_2tSBxyAwLs_trim_58.mp4",
+    "caption": "A car is crashing into a vehicle showroom, hitting bicycles and other cars.",
+    "gt_actions": [
+      "vehicle crash into building or stationary object",
+      "collision between vehicles"
+    ]
+  },
+  {
+    "video_name": "_2tSBxyAwLs_trim_77.mp4",
+    "caption": "A group of people are looking at computers when the ceiling collapses. They are staring at the broken ceiling in surprise.",
+    "gt_actions": [
+      "structural collapse",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "_2tSBxyAwLs_trim_78.mp4",
+    "caption": "A person is falling through a ceiling while others are helping him down safely.",
+    "gt_actions": [
+      "person falling down",
+      "helping person down from height",
+      "rescue effort"
+    ]
+  },
+  {
+    "video_name": "_2tSBxyAwLs_trim_81.mp4",
+    "caption": "A person is trying to detach an upside-down bicycle and it falls to the ground.",
+    "gt_actions": [
+      "heavy object slipping",
+      "falling load"
+    ]
+  },
+  {
+    "video_name": "_2tSBxyAwLs_trim_88.mp4",
+    "caption": "A person is spilling coffee and slipping down beside a car.",
+    "gt_actions": [
+      "person falling down"
+    ]
+  },
+  {
+    "video_name": "_4GgKoR0OOw_trim_1.mp4",
+    "caption": "A person is rotating a machine lever by hand and stumbling as his foot gets stuck in the machine.",
+    "gt_actions": [
+      "rotating machine lever",
+      "foot stuck in conveyor"
+    ]
+  },
+  {
+    "video_name": "_4GgKoR0OOw_trim_3.mp4",
+    "caption": "A person is sitting beside a forklift when the forklift fork falls on him.",
+    "gt_actions": [
+      "forklift blade detaching",
+      "falling load"
+    ]
+  },
+  {
+    "video_name": "_4GgKoR0OOw_trim_9.mp4",
+    "caption": "A person is standing on concrete as a roller comes toward him, threatening to crush him.",
+    "gt_actions": [
+      "operating heavy equipment dangerously"
+    ]
+  },
+  {
+    "video_name": "_4GgKoR0OOw_trim_17.mp4",
+    "caption": "A person is moving furniture in a factory when a robotic arm accidentally moves a structure over him.",
+    "gt_actions": [
+      "robotic arm misoperation",
+      "falling load"
+    ]
+  },
+  {
+    "video_name": "_4GgKoR0OOw_trim_18.mp4",
+    "caption": "A person is trapped as a robotic arm moves a structure over him. Other people are trying to rescue him.",
+    "gt_actions": [
+      "rescue effort",
+      "robotic arm misoperation"
+    ]
+  },
+  {
+    "video_name": "_4GgKoR0OOw_trim_21.mp4",
+    "caption": "A person is trapped as a robotic arm moves a structure over him. Other people are trying to rescue him.",
+    "gt_actions": [
+      "rescue effort",
+      "robotic arm misoperation"
+    ]
+  },
+  {
+    "video_name": "_4GgKoR0OOw_trim_22.mp4",
+    "caption": "A person is trapped as a robotic arm moves a structure over him. Other people are trying to rescue him.",
+    "gt_actions": [
+      "rescue effort",
+      "robotic arm misoperation"
+    ]
+  },
+  {
+    "video_name": "_4GgKoR0OOw_trim_28.mp4",
+    "caption": "A person is trying to release his stuck foot from a machine.",
+    "gt_actions": [
+      "foot stuck in conveyor",
+      "rescue effort"
+    ]
+  },
+  {
+    "video_name": "_4GgKoR0OOw_trim_29.mp4",
+    "caption": "A person is rotating a machine lever by hand and stumbling his foot on the machine.",
+    "gt_actions": [
+      "rotating machine lever",
+      "foot stuck in conveyor"
+    ]
+  },
+  {
+    "video_name": "_4GgKoR0OOw_trim_30.mp4",
+    "caption": "A person is trying to rescue another person whose foot is stuck in a machine.",
+    "gt_actions": [
+      "foot stuck in conveyor",
+      "rescue effort"
+    ]
+  },
+  {
+    "video_name": "_4GgKoR0OOw_trim_32.mp4",
+    "caption": "A person is trying to rescue another person whose foot is stuck in a machine.",
+    "gt_actions": [
+      "foot stuck in conveyor",
+      "rescue effort"
+    ]
+  },
+  {
+    "video_name": "_4GgKoR0OOw_trim_61.mp4",
+    "caption": "A person is hanging onto a beam as the ground beneath him collapses.",
+    "gt_actions": [
+      "structural collapse",
+      "hanging from something after slip"
+    ]
+  },
+  {
+    "video_name": "_4GgKoR0OOw_trim_63.mp4",
+    "caption": "A person is standing in a hole as others pass him a ladder to climb up.",
+    "gt_actions": [
+      "helping person down from height",
+      "rescue effort"
+    ]
+  },
+  {
+    "video_name": "_4GgKoR0OOw_trim_69.mp4",
+    "caption": "Two people are trying to hold a large heavy spool of wire, but it slips from their control and rolls down the stairs.",
+    "gt_actions": [
+      "heavy object slipping"
+    ]
+  },
+  {
+    "video_name": "_4GgKoR0OOw_trim_70.mp4",
+    "caption": "Two people are getting up and watching as a large spool breaks through the glass door of the building.",
+    "gt_actions": [
+      "glass shattering on impact",
+      "heavy object slipping",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "_4GgKoR0OOw_trim_73.mp4",
+    "caption": "Two people are trying to hold a large heavy spool of wire, but it slips from their control and rolls down the stairs.",
+    "gt_actions": [
+      "heavy object slipping"
+    ]
+  },
+  {
+    "video_name": "_4GgKoR0OOw_trim_78.mp4",
+    "caption": "A person is trying to control a forklift that has lost control while another person is trying to escape from it.",
+    "gt_actions": [
+      "operating forklift",
+      "vehicle losing control",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "_4GgKoR0OOw_trim_79.mp4",
+    "caption": "A person is trying to control a forklift that has lost control while another person is trying to escape from it.",
+    "gt_actions": [
+      "operating forklift",
+      "vehicle losing control",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "_4GgKoR0OOw_trim_95.mp4",
+    "caption": "A group of people are watching water come towards them and then running away.",
+    "gt_actions": [
+      "flooded floor",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "_4GgKoR0OOw_trim_97.mp4",
+    "caption": "A group of people are watching water come towards them and then running away.",
+    "gt_actions": [
+      "flooded floor",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "_4GgKoR0OOw_trim_98.mp4",
+    "caption": "A group of people are watching water come towards them and then running away.",
+    "gt_actions": [
+      "flooded floor",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "_4GgKoR0OOw_trim_104.mp4",
+    "caption": "A person is taking off glasses that contain a broken metal disc inside.",
+    "gt_actions": [
+      "machine part flying off"
+    ]
+  },
+  {
+    "video_name": "_4GgKoR0OOw_trim_130.mp4",
+    "caption": "A person is sitting beside a forklift when the forklift fork falls on him.",
+    "gt_actions": [
+      "forklift blade detaching",
+      "falling load"
+    ]
+  },
+  {
+    "video_name": "_4GgKoR0OOw_trim_132.mp4",
+    "caption": "A person is sitting beside a forklift when the forklift fork falls on him.",
+    "gt_actions": [
+      "forklift blade detaching",
+      "falling load"
+    ]
+  },
+  {
+    "video_name": "_4GgKoR0OOw_trim_138.mp4",
+    "caption": "Two people are pushing a panel inside a truck, but the panel slips and falls down.",
+    "gt_actions": [
+      "heavy object slipping",
+      "pushing heavy load"
+    ]
+  },
+  {
+    "video_name": "_4GgKoR0OOw_trim_139.mp4",
+    "caption": "Two people are backing away as a panel falls down and breaks behind a van.",
+    "gt_actions": [
+      "heavy object slipping",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "_4GgKoR0OOw_trim_147.mp4",
+    "caption": "A person is operating a machine when his shirt gets stuck and the machine rips it off.",
+    "gt_actions": [
+      "shirt caught in machine"
+    ]
+  },
+  {
+    "video_name": "_4GgKoR0OOw_trim_150.mp4",
+    "caption": "A person is operating a machine when his shirt gets stuck and the machine rips it off.",
+    "gt_actions": [
+      "shirt caught in machine"
+    ]
+  },
+  {
+    "video_name": "_a46_s5WViY_trim_0.mp4",
+    "caption": "A person is operating a machine in a manufacturing area and two sides of the machine are closing in, threatening to injure him.",
+    "gt_actions": [
+      "trapped between closing machine sides"
+    ]
+  },
+  {
+    "video_name": "_a46_s5WViY_trim_1.mp4",
+    "caption": "A person is operating a machine in a manufacturing area and two sides of the machine are closing in, threatening to injure him.",
+    "gt_actions": [
+      "trapped between closing machine sides"
+    ]
+  },
+  {
+    "video_name": "_a46_s5WViY_trim_2.mp4",
+    "caption": "A person is stuck between two sides of the machine in a manufacturing area and is trying to get out.",
+    "gt_actions": [
+      "trapped between closing machine sides",
+      "rescue effort"
+    ]
+  },
+  {
+    "video_name": "_XXq1kmmBYY_trim_6.mp4",
+    "caption": "A forklift is rushing in and hits a hanging object suspended from a bar, causing it to fall.",
+    "gt_actions": [
+      "vehicle crash into building or stationary object",
+      "falling load"
+    ]
+  },
+  {
+    "video_name": "0QHQ2nmdE78_clip0_trim_2.mp4",
+    "caption": "A person is trying to adjust a running rolling machine.",
+    "gt_actions": [
+      "adjusting machine while running",
+      "operating rolling machine"
+    ]
+  },
+  {
+    "video_name": "0QHQ2nmdE78_clip0_trim_4.mp4",
+    "caption": "A person is sliding a hand over a running rolling machine.",
+    "gt_actions": [
+      "adjusting machine while running",
+      "operating rolling machine"
+    ]
+  },
+  {
+    "video_name": "0QHQ2nmdE78_clip0_trim_7.mp4",
+    "caption": "A person is putting a hand in a running rolling machine.",
+    "gt_actions": [
+      "adjusting machine while running",
+      "operating rolling machine"
+    ]
+  },
+  {
+    "video_name": "0QHQ2nmdE78_clip0_trim_8.mp4",
+    "caption": "A person is putting a hand in a running rolling machine and the machine pulls her in, rolling her body with it.",
+    "gt_actions": [
+      "body pulled into machine"
+    ]
+  },
+  {
+    "video_name": "0QHQ2nmdE78_clip0_trim_9.mp4",
+    "caption": "A person is pulled by a rolling machine and her body is rolling with it.",
+    "gt_actions": [
+      "body pulled into machine"
+    ]
+  },
+  {
+    "video_name": "0QHQ2nmdE78_clip0_trim_10.mp4",
+    "caption": "A person is stuck unconscious in a rolling machine.",
+    "gt_actions": [
+      "body pulled into machine"
+    ]
+  },
+  {
+    "video_name": "0RcFgtZFhgg_clip0_trim_0.mp4",
+    "caption": "A group of people are arguing and fighting behind a glass partition while others are watching.",
+    "gt_actions": [
+      "physical altercation or fighting",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "0RcFgtZFhgg_clip0_trim_1.mp4",
+    "caption": "A group of people are looking through a glass partition.",
+    "gt_actions": [
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "0RcFgtZFhgg_clip0_trim_2.mp4",
+    "caption": "A group of people are arguing and fighting behind a glass partition while others are watching.",
+    "gt_actions": [
+      "physical altercation or fighting",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "0RcFgtZFhgg_clip0_trim_3.mp4",
+    "caption": "A group of people are lifting the body of another person while others are watching.",
+    "gt_actions": [
+      "rescue effort",
+      "lifting object off person",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "0RcFgtZFhgg_clip0_trim_4.mp4",
+    "caption": "A group of people are lifting the body of another person while others are watching.",
+    "gt_actions": [
+      "rescue effort",
+      "lifting object off person",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "0W6vtPakFt8_trim_1.mp4",
+    "caption": "A person is losing control of a bus and crashing into trees. Then he is falling to the side from his driving seat.",
+    "gt_actions": [
+      "vehicle losing control",
+      "driver thrown during crash",
+      "vehicle crash into building or stationary object"
+    ]
+  },
+  {
+    "video_name": "0W6vtPakFt8_trim_2.mp4",
+    "caption": "A person is lying on the bus and violently shaking due to losing control as the bus crashes into trees.",
+    "gt_actions": [
+      "driver thrown during crash",
+      "vehicle losing control"
+    ]
+  },
+  {
+    "video_name": "1b1NOLpwCz8_trim_3.mp4",
+    "caption": "A person on top of a lifting platform is trying to bring down a heavy box.",
+    "gt_actions": [
+      "misusing lift platform",
+      "carrying heavy load"
+    ]
+  },
+  {
+    "video_name": "1b1NOLpwCz8_trim_4.mp4",
+    "caption": "A person on top of a lifting platform is trying to bring down a heavy box.",
+    "gt_actions": [
+      "misusing lift platform",
+      "carrying heavy load"
+    ]
+  },
+  {
+    "video_name": "1b1NOLpwCz8_trim_5.mp4",
+    "caption": "A person on top of a lifting platform is trying to bring down a heavy box.",
+    "gt_actions": [
+      "misusing lift platform",
+      "carrying heavy load"
+    ]
+  },
+  {
+    "video_name": "1b1NOLpwCz8_trim_6.mp4",
+    "caption": "A person on top of a lifting platform is holding a heavy box as the platform is being lowered.",
+    "gt_actions": [
+      "misusing lift platform",
+      "carrying heavy load"
+    ]
+  },
+  {
+    "video_name": "1b1NOLpwCz8_trim_7.mp4",
+    "caption": "A person on top of a lifting platform is stuck holding a heavy box as the platform is being lowered.",
+    "gt_actions": [
+      "misusing lift platform",
+      "carrying heavy load"
+    ]
+  },
+  {
+    "video_name": "1b1NOLpwCz8_trim_8.mp4",
+    "caption": "A person on top of a lifting platform is stuck holding a heavy box as the platform is being lowered.",
+    "gt_actions": [
+      "misusing lift platform",
+      "carrying heavy load"
+    ]
+  },
+  {
+    "video_name": "1b1NOLpwCz8_trim_9.mp4",
+    "caption": "A person on top of a lifting platform is stuck holding a heavy box as the platform is being lowered.",
+    "gt_actions": [
+      "misusing lift platform",
+      "carrying heavy load"
+    ]
+  },
+  {
+    "video_name": "1b1NOLpwCz8_trim_10.mp4",
+    "caption": "A person on top of a lifting platform is stuck holding a heavy box as the platform is being lowered and another person is observing.",
+    "gt_actions": [
+      "misusing lift platform",
+      "carrying heavy load",
+      "platform failure",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "1b1NOLpwCz8_trim_11.mp4",
+    "caption": "A person on top of a lifting platform is stuck holding a heavy box as the platform is being lowered and another person is observing.",
+    "gt_actions": [
+      "misusing lift platform",
+      "carrying heavy load",
+      "platform failure",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "1b1NOLpwCz8_trim_12.mp4",
+    "caption": "A person on top of a lifting platform is stuck holding a heavy box as the platform is being lowered and another person is observing.",
+    "gt_actions": [
+      "misusing lift platform",
+      "carrying heavy load",
+      "platform failure",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "1b1NOLpwCz8_trim_13.mp4",
+    "caption": "A person on top of a lifting platform is stuck holding a heavy box as the platform is being lowered and another person is observing.",
+    "gt_actions": [
+      "misusing lift platform",
+      "carrying heavy load",
+      "platform failure",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "1b1NOLpwCz8_trim_14.mp4",
+    "caption": "A person on top of a lifting platform is stuck holding a heavy box as the platform is being lowered and another person is observing.",
+    "gt_actions": [
+      "misusing lift platform",
+      "carrying heavy load",
+      "platform failure",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "1b1NOLpwCz8_trim_15.mp4",
+    "caption": "A person on top of a lifting platform is stuck holding a heavy box as the platform is being lowered and another person is observing.",
+    "gt_actions": [
+      "misusing lift platform",
+      "carrying heavy load",
+      "platform failure",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "1b1NOLpwCz8_trim_16.mp4",
+    "caption": "A person on top of a lifting platform is stuck holding a heavy box as the platform is being lowered and another person is observing.",
+    "gt_actions": [
+      "misusing lift platform",
+      "carrying heavy load",
+      "platform failure",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "1b1NOLpwCz8_trim_17.mp4",
+    "caption": "A person on top of a lifting platform is stuck holding a heavy box.",
+    "gt_actions": [
+      "misusing lift platform",
+      "carrying heavy load",
+      "platform failure"
+    ]
+  },
+  {
+    "video_name": "1b1NOLpwCz8_trim_18.mp4",
+    "caption": "A person on top of a lifting platform is stuck holding a heavy box.",
+    "gt_actions": [
+      "misusing lift platform",
+      "carrying heavy load",
+      "platform failure"
+    ]
+  },
+  {
+    "video_name": "1b1NOLpwCz8_trim_19.mp4",
+    "caption": "A person on top of a lifting platform is stuck holding a heavy box.",
+    "gt_actions": [
+      "misusing lift platform",
+      "carrying heavy load",
+      "platform failure"
+    ]
+  },
+  {
+    "video_name": "1dr3eJH813o_trim_1.mp4",
+    "caption": "A person is running as a stack of boxes and shelf parts are collapsing on the ground.",
+    "gt_actions": [
+      "warehouse shelves toppling",
+      "falling load",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "1dr3eJH813o_trim_2.mp4",
+    "caption": "A person is running as a stack of boxes and shelf parts are collapsing on the ground.",
+    "gt_actions": [
+      "warehouse shelves toppling",
+      "falling load",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "1gx7OURLLBs_trim_0.mp4",
+    "caption": "A person is walking hastily in a parking lot.",
+    "gt_actions": [
+      "moving in a suspicious manner"
+    ]
+  },
+  {
+    "video_name": "1gx7OURLLBs_trim_1.mp4",
+    "caption": "A person is walking hastily in a parking lot while another person is opening the door of a van.",
+    "gt_actions": [
+      "moving in a suspicious manner",
+      "intention of theft"
+    ]
+  },
+  {
+    "video_name": "1gx7OURLLBs_trim_2.mp4",
+    "caption": "A person is walking hastily in a parking lot and opening a dumpster.",
+    "gt_actions": [
+      "moving in a suspicious manner",
+      "intention of theft"
+    ]
+  },
+  {
+    "video_name": "1gx7OURLLBs_trim_3.mp4",
+    "caption": "A person is walking hastily in a parking lot and checking the locks of a minivan door.",
+    "gt_actions": [
+      "moving in a suspicious manner",
+      "intention of theft"
+    ]
+  },
+  {
+    "video_name": "1gx7OURLLBs_trim_4.mp4",
+    "caption": "A person is opening the door of a minivan in a parking lot and getting inside. This might be a case of robbery.",
+    "gt_actions": [
+      "moving in a suspicious manner",
+      "intention of theft"
+    ]
+  },
+  {
+    "video_name": "1gx7OURLLBs_trim_5.mp4",
+    "caption": "A person is walking hastily in a parking lot.",
+    "gt_actions": [
+      "moving in a suspicious manner"
+    ]
+  },
+  {
+    "video_name": "1gx7OURLLBs_trim_6.mp4",
+    "caption": "Two people are getting out of a police car in a parking lot, holding flashlights and looking inside the minivan.",
+    "gt_actions": [
+      "police search"
+    ]
+  },
+  {
+    "video_name": "1gx7OURLLBs_trim_7.mp4",
+    "caption": "Two people holding flashlights are opening the door of a minivan in a parking lot and looking inside. They are also searching around the minivan.",
+    "gt_actions": [
+      "police search"
+    ]
+  },
+  {
+    "video_name": "1gx7OURLLBs_trim_8.mp4",
+    "caption": "Two people are turning off their flashlights and walking toward their car in a parking lot.",
+    "gt_actions": [
+      "police search"
+    ]
+  },
+  {
+    "video_name": "1s2Tcqr3Rgg_trim_15.mp4",
+    "caption": "A person is running behind a truck carrying a very heavy load that has lost control and is going sideways.",
+    "gt_actions": [
+      "vehicle losing control",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "1s2Tcqr3Rgg_trim_16.mp4",
+    "caption": "A person is running away from a truck carrying a very heavy load that is falling over.",
+    "gt_actions": [
+      "vehicle losing control",
+      "falling load",
+      "escaping from danger",
+      "vehicle losing control"
+    ]
+  },
+  {
+    "video_name": "1s2Tcqr3Rgg_trim_17.mp4",
+    "caption": "A person is getting on a truck which is behind another fallen truck carrying a very heavy load.",
+    "gt_actions": [
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "1s2Tcqr3Rgg_trim_18.mp4",
+    "caption": "A person is getting on a truck which is behind another fallen truck carrying a very heavy load while two other people are running from behind.",
+    "gt_actions": [
+      "watching incident passively",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "1s2Tcqr3Rgg_trim_19.mp4",
+    "caption": "A person is observing machines turning red, signaling danger.",
+    "gt_actions": [
+      "fire incident",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "1s2Tcqr3Rgg_trim_84.mp4",
+    "caption": "A person is observing something heavy falling down and quickly moving away.",
+    "gt_actions": [
+      "falling load",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "1s2Tcqr3Rgg_trim_87.mp4",
+    "caption": "A group of people are observing the explosion of a large industrial storage tank.",
+    "gt_actions": [
+      "pressurized vessel explosion",
+      "fire incident",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "1s2Tcqr3Rgg_trim_88.mp4",
+    "caption": "A group of people are observing the explosion of a large industrial storage tank.",
+    "gt_actions": [
+      "pressurized vessel explosion",
+      "fire incident",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "1s2Tcqr3Rgg_trim_89.mp4",
+    "caption": "A group of people are observing the explosion of a large industrial storage tank.",
+    "gt_actions": [
+      "pressurized vessel explosion",
+      "fire incident",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "1s2Tcqr3Rgg_trim_94.mp4",
+    "caption": "A truck is exploding and emitting smoke.",
+    "gt_actions": [
+      "fire incident"
+    ]
+  },
+  {
+    "video_name": "1s2Tcqr3Rgg_trim_95.mp4",
+    "caption": "A truck is exploding and emitting smoke.",
+    "gt_actions": [
+      "fire incident"
+    ]
+  },
+  {
+    "video_name": "1s2Tcqr3Rgg_trim_111.mp4",
+    "caption": "A group of people are observing a heavy object suspended in air falling down.",
+    "gt_actions": [
+      "falling load",
+      "crane imbalance with suspended load",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "1s2Tcqr3Rgg_trim_117.mp4",
+    "caption": "A person is standing at the corner and saving himself from the collapse of heavy machinery.",
+    "gt_actions": [
+      "falling load",
+      "structural collapse",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "1s2Tcqr3Rgg_trim_124.mp4",
+    "caption": "A person is quickly jumping from a crane that is losing balance while carrying a heavy load.",
+    "gt_actions": [
+      "crane imbalance with suspended load",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "1s2Tcqr3Rgg_trim_125.mp4",
+    "caption": "A person is standing and observing a crane losing balance while carrying a heavy load.",
+    "gt_actions": [
+      "crane imbalance with suspended load",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "1s2Tcqr3Rgg_trim_126.mp4",
+    "caption": "A person is standing and observing a crane losing balance while carrying a heavy load.",
+    "gt_actions": [
+      "crane imbalance with suspended load",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "1s2Tcqr3Rgg_trim_133.mp4",
+    "caption": "A person is backing away as he observes a heavy truck in front of him collapsing the ground beneath and falling over.",
+    "gt_actions": [
+      "structural collapse",
+      "escaping from danger",
+      "vehicle losing control"
+    ]
+  },
+  {
+    "video_name": "1s2Tcqr3Rgg_trim_152.mp4",
+    "caption": "A person is walking towards a machinery room bursting with flames and smoke.",
+    "gt_actions": [
+      "fire incident"
+    ]
+  },
+  {
+    "video_name": "1s2Tcqr3Rgg_trim_160.mp4",
+    "caption": "Two people are standing and watching as a huge structure is falling down.",
+    "gt_actions": [
+      "falling load",
+      "structural collapse",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "1s2Tcqr3Rgg_trim_161.mp4",
+    "caption": "Two people are standing and watching as a huge structure is falling down.",
+    "gt_actions": [
+      "falling load",
+      "structural collapse",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "1s2Tcqr3Rgg_trim_171.mp4",
+    "caption": "A person is walking as a crane carrying a heavy tree trunk is losing balance and falling over.",
+    "gt_actions": [
+      "crane imbalance with suspended load"
+    ]
+  },
+  {
+    "video_name": "1s2Tcqr3Rgg_trim_176.mp4",
+    "caption": "A group of people are backing down and running away as a crane carrying a heavy load is losing balance and falling over.",
+    "gt_actions": [
+      "crane imbalance with suspended load",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "1s2Tcqr3Rgg_trim_186.mp4",
+    "caption": "Two people are standing and observing as a crane carrying a huge structure is falling down with the structure. One of the persons is filming the incident.",
+    "gt_actions": [
+      "crane imbalance with suspended load",
+      "filming incident",
+      "structural collapse"
+    ]
+  },
+  {
+    "video_name": "1s2Tcqr3Rgg_trim_187.mp4",
+    "caption": "A person is watching and another person is filming as a crane carrying a heavy load is losing balance and falling over along with the structure.",
+    "gt_actions": [
+      "crane imbalance with suspended load",
+      "filming incident",
+      "structural collapse"
+    ]
+  },
+  {
+    "video_name": "1s2Tcqr3Rgg_trim_206.mp4",
+    "caption": "A person is backing down and watching as a huge construction vehicle is on fire.",
+    "gt_actions": [
+      "fire incident",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "1s2Tcqr3Rgg_trim_207.mp4",
+    "caption": "A person is standing and watching as a huge construction vehicle is on fire.",
+    "gt_actions": [
+      "fire incident",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "1s2Tcqr3Rgg_trim_214.mp4",
+    "caption": "An excavator is pulling another excavator submerged in the water. A person is walking along holding a pipe.",
+    "gt_actions": [
+      "rescue effort"
+    ]
+  },
+  {
+    "video_name": "1s2Tcqr3Rgg_trim_222.mp4",
+    "caption": "A group of people are standing and watching as a huge structure is falling down. Some of them are backing away.",
+    "gt_actions": [
+      "falling load",
+      "structural collapse",
+      "watching incident passively",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "1s2Tcqr3Rgg_trim_224.mp4",
+    "caption": "A group of people are standing and watching as a train broke down.",
+    "gt_actions": [
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "2HrxaCu8fFY_clip0_trim_2.mp4",
+    "caption": "Two people wearing masks are hastily running away, seemingly after stealing something from a restaurant.",
+    "gt_actions": [
+      "intention of theft",
+      "moving in a suspicious manner"
+    ]
+  },
+  {
+    "video_name": "2HrxaCu8fFY_clip0_trim_4.mp4",
+    "caption": "Two people wearing masks are hastily running away, seemingly after stealing something from a restaurant.",
+    "gt_actions": [
+      "intention of theft",
+      "moving in a suspicious manner"
+    ]
+  },
+  {
+    "video_name": "2HrxaCu8fFY_clip0_trim_7.mp4",
+    "caption": "A person wearing a mask is standing in a restaurant kitchen.",
+    "gt_actions": [
+      "intention of theft",
+      "moving in a suspicious manner"
+    ]
+  },
+  {
+    "video_name": "2JYfsZA8GV0_trim_0.mp4",
+    "caption": "A person is hastily walking in a parking lot.",
+    "gt_actions": [
+      "intention of theft",
+      "moving in a suspicious manner"
+    ]
+  },
+  {
+    "video_name": "2JYfsZA8GV0_trim_1.mp4",
+    "caption": "A person is hastily walking in a parking lot.",
+    "gt_actions": [
+      "intention of theft",
+      "moving in a suspicious manner"
+    ]
+  },
+  {
+    "video_name": "2JYfsZA8GV0_trim_4.mp4",
+    "caption": "Two people are hastily walking away from a building in a parking lot.",
+    "gt_actions": [
+      "moving in a suspicious manner",
+      "intention of theft"
+    ]
+  },
+  {
+    "video_name": "2JYfsZA8GV0_trim_5.mp4",
+    "caption": "A person is carrying a chair and hastily walking away from a building in a parking lot, suggesting a possible robbery.",
+    "gt_actions": [
+      "intention of theft",
+      "moving in a suspicious manner"
+    ]
+  },
+  {
+    "video_name": "2JYfsZA8GV0_trim_7.mp4",
+    "caption": "A police car arrives in a parking lot and an officer gets out, walking toward the building while holding a flashlight.",
+    "gt_actions": [
+      "police search"
+    ]
+  },
+  {
+    "video_name": "2JYfsZA8GV0_trim_8.mp4",
+    "caption": "A person wearing a uniform arrests another person wearing a yellow dress in a parking lot, and they both walk toward the police car.",
+    "gt_actions": [
+      "police arrest"
+    ]
+  },
+  {
+    "video_name": "2JYfsZA8GV0_trim_9.mp4",
+    "caption": "A person wearing a uniform places another person in a yellow dress into a police car in a parking lot. One of the three police cars drives away.",
+    "gt_actions": [
+      "police arrest"
+    ]
+  },
+  {
+    "video_name": "2QhPWUck0cI_clip0_trim_0.mp4",
+    "caption": "Two people are fighting in a parking lot.",
+    "gt_actions": [
+      "physical altercation or fighting"
+    ]
+  },
+  {
+    "video_name": "2QhPWUck0cI_clip0_trim_1.mp4",
+    "caption": "Two people are fighting in a parking lot.",
+    "gt_actions": [
+      "physical altercation or fighting"
+    ]
+  },
+  {
+    "video_name": "2Y6MBNQaFQA_trim_0.mp4",
+    "caption": "A person is riding a tractor which has lost control, while people around are running to escape from it.",
+    "gt_actions": [
+      "vehicle losing control",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "2Y6MBNQaFQA_trim_1.mp4",
+    "caption": "A person is riding a tractor which has lost control, while people around are running to escape from it.",
+    "gt_actions": [
+      "vehicle losing control",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "2Z2PVoOIPHU_trim_0.mp4",
+    "caption": "Three people are standing and watching as a machine turns red, signaling danger. One of them is crouching and backing up slightly.",
+    "gt_actions": [
+      "escaping from danger",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "2Z2PVoOIPHU_trim_1.mp4",
+    "caption": "Three people are turning and running away as a machine explodes.",
+    "gt_actions": [
+      "machine explosion",
+      "fire incident",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "3-zGsp26zgw_trim_5.mp4",
+    "caption": "A person operating a forklift is carrying a heavy load when the forklift loses balance and falls forward.",
+    "gt_actions": [
+      "operating forklift",
+      "operating heavy equipment dangerously"
+    ]
+  },
+  {
+    "video_name": "3AFgNQQMRzw_trim_1.mp4",
+    "caption": "A person operating a forklift is placing a load into a red-hot furnace.",
+    "gt_actions": [
+      "operating forklift"
+    ]
+  },
+  {
+    "video_name": "3AFgNQQMRzw_trim_2.mp4",
+    "caption": "A person operating a forklift is backing down as flames erupt from the furnace.",
+    "gt_actions": [
+      "operating forklift",
+      "fire incident"
+    ]
+  },
+  {
+    "video_name": "3AFgNQQMRzw_trim_3.mp4",
+    "caption": "A person operating a forklift is backing down as flames erupt from the furnace.",
+    "gt_actions": [
+      "operating forklift",
+      "fire incident"
+    ]
+  },
+  {
+    "video_name": "3AFgNQQMRzw_trim_4.mp4",
+    "caption": "A person operating a forklift is moving forward as fire bursts from a nearby furnace.",
+    "gt_actions": [
+      "operating forklift",
+      "fire incident"
+    ]
+  },
+  {
+    "video_name": "3AFgNQQMRzw_trim_5.mp4",
+    "caption": "A person operating a forklift is moving forward as fire bursts from a nearby furnace.",
+    "gt_actions": [
+      "operating forklift",
+      "fire incident"
+    ]
+  },
+  {
+    "video_name": "3Dn2annu7U4_trim_2.mp4",
+    "caption": "A person is walking as a load hanging from above begins to fall.",
+    "gt_actions": [
+      "falling load"
+    ]
+  },
+  {
+    "video_name": "3Dn2annu7U4_trim_3.mp4",
+    "caption": "A person is walking as a load hanging from above begins to fall.",
+    "gt_actions": [
+      "falling load"
+    ]
+  },
+  {
+    "video_name": "4BFbmfMUZ3E_trim_0.mp4",
+    "caption": "Two people are backing away from a malfunctioning humanoid robot that threatens to strike them.",
+    "gt_actions": [
+      "robotic arm misoperation",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "4BFbmfMUZ3E_trim_1.mp4",
+    "caption": "A person is backing away from a malfunctioning humanoid robot that threatens to strike him.",
+    "gt_actions": [
+      "robotic arm misoperation",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "4BFbmfMUZ3E_trim_2.mp4",
+    "caption": "A person is trying to avoid a humanoid robot's attack while cautiously approaching it.",
+    "gt_actions": [
+      "robotic arm misoperation",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "4nQuQnaZjy8_trim_3.mp4",
+    "caption": "A person is carrying a box and walking over other boxes when she slips and falls.",
+    "gt_actions": [
+      "carrying object and slipping",
+      "person falling down"
+    ]
+  },
+  {
+    "video_name": "4nQuQnaZjy8_trim_4.mp4",
+    "caption": "A person is lying on the floor injured after slipping and falling.",
+    "gt_actions": [
+      "rescue effort"
+    ]
+  },
+  {
+    "video_name": "4zjuYM_NGEY_clip0_trim_1.mp4",
+    "caption": "A group of people are running and trying to unload crates as an explosion with smoke occurs nearby.",
+    "gt_actions": [
+      "fire incident",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "4zjuYM_NGEY_clip0_trim_2.mp4",
+    "caption": "A person is backing away while attempting to extinguish fire and smoke.",
+    "gt_actions": [
+      "extinguishing fire",
+      "fire incident"
+    ]
+  },
+  {
+    "video_name": "4zjuYM_NGEY_clip0_trim_3.mp4",
+    "caption": "Two people are backing away as one of them attempts to extinguish the fire and smoke.",
+    "gt_actions": [
+      "extinguishing fire",
+      "fire incident"
+    ]
+  },
+  {
+    "video_name": "4zjuYM_NGEY_clip0_trim_7.mp4",
+    "caption": "A group of firefighters are attempting to rescue someone amid heavy smoke.",
+    "gt_actions": [
+      "rescue effort",
+      "fire incident",
+      "extinguishing fire"
+    ]
+  },
+  {
+    "video_name": "6fhnKhZQE4o_trim_3.mp4",
+    "caption": "Two people are backing away as a machine starts malfunctioning with smoke. One of them is falling down.",
+    "gt_actions": [
+      "fire incident",
+      "escaping from danger",
+      "person falling down"
+    ]
+  },
+  {
+    "video_name": "6fhnKhZQE4o_trim_4.mp4",
+    "caption": "A person is getting up as machine starts malfunctioning with smoke. Two people are standing and observing.",
+    "gt_actions": [
+      "fire incident",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "6fhnKhZQE4o_trim_5.mp4",
+    "caption": "Two people are discussing about smoke coming out of a machine.",
+    "gt_actions": [
+      "fire incident",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "6iUd46DAP9w_trim_0.mp4",
+    "caption": "A person is operating a forklift. Another person is running and narrowly avoids a falling load.",
+    "gt_actions": [
+      "operating forklift",
+      "falling load",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "7QFdUqCdML8_trim_0.mp4",
+    "caption": "A person is being pulled by a machine while another person tries to pull him out in the opposite direction.",
+    "gt_actions": [
+      "body pulled into machine",
+      "rescue effort"
+    ]
+  },
+  {
+    "video_name": "7QFdUqCdML8_trim_1.mp4",
+    "caption": "Two people are being pulled into a machine as a third person runs to rescue them.",
+    "gt_actions": [
+      "body pulled into machine",
+      "rescue effort"
+    ]
+  },
+  {
+    "video_name": "7QFdUqCdML8_trim_2.mp4",
+    "caption": "Two people pull back another person who is being pulled by a machine.",
+    "gt_actions": [
+      "rescue effort",
+      "body pulled into machine"
+    ]
+  },
+  {
+    "video_name": "8vXGXTSf5ak_trim_0.mp4",
+    "caption": "A person is placing an object in front of a large robotic arm as it threatens to strike him.",
+    "gt_actions": [
+      "robotic arm misoperation"
+    ]
+  },
+  {
+    "video_name": "8vXGXTSf5ak_trim_1.mp4",
+    "caption": "A person is observing a robotic arm from a safe distance.",
+    "gt_actions": [
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "9XXineiOxSo_trim_2.mp4",
+    "caption": "A person is walking on a conveyor belt when one of his feet gets stuck in the machine.",
+    "gt_actions": [
+      "walking on moving conveyor",
+      "foot stuck in conveyor"
+    ]
+  },
+  {
+    "video_name": "9XXineiOxSo_trim_3.mp4",
+    "caption": "A person is walking on a conveyor belt when one of his feet gets stuck in the machine.",
+    "gt_actions": [
+      "walking on moving conveyor",
+      "foot stuck in conveyor"
+    ]
+  },
+  {
+    "video_name": "9XXineiOxSo_trim_4.mp4",
+    "caption": "A person is lying on a conveyor belt with his foot stuck as others rush to help him.",
+    "gt_actions": [
+      "foot stuck in conveyor",
+      "rescue effort"
+    ]
+  },
+  {
+    "video_name": "9XXineiOxSo_trim_5.mp4",
+    "caption": "A person is lying on a conveyor belt with his foot stuck as others rush to help him.",
+    "gt_actions": [
+      "foot stuck in conveyor",
+      "rescue effort"
+    ]
+  },
+  {
+    "video_name": "9XXineiOxSo_trim_6.mp4",
+    "caption": "A person is lying on a conveyor belt with his foot stuck while others try to help him.",
+    "gt_actions": [
+      "foot stuck in conveyor",
+      "rescue effort"
+    ]
+  },
+  {
+    "video_name": "9XXineiOxSo_trim_7.mp4",
+    "caption": "A person is lying on a conveyor belt with his foot stuck while others try to help him.",
+    "gt_actions": [
+      "foot stuck in conveyor",
+      "rescue effort"
+    ]
+  },
+  {
+    "video_name": "9XXineiOxSo_trim_8.mp4",
+    "caption": "A person is lying on a conveyor belt with his foot stuck while others try to help him.",
+    "gt_actions": [
+      "foot stuck in conveyor",
+      "rescue effort"
+    ]
+  },
+  {
+    "video_name": "9XXineiOxSo_trim_9.mp4",
+    "caption": "A person is lying on a conveyor belt with his foot stuck while others try to help him.",
+    "gt_actions": [
+      "foot stuck in conveyor",
+      "rescue effort"
+    ]
+  },
+  {
+    "video_name": "91OaD3ixCyA_trim_1.mp4",
+    "caption": "An excavator is pulling a structure, which collapses and falls onto the excavator.",
+    "gt_actions": [
+      "structural collapse",
+      "operating heavy equipment dangerously"
+    ]
+  },
+  {
+    "video_name": "91OaD3ixCyA_trim_36.mp4",
+    "caption": "A group of people are watching as a bulldozer wrecks a building. The building crushes part of the bulldozer.",
+    "gt_actions": [
+      "operating heavy equipment dangerously",
+      "structural collapse",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "91OaD3ixCyA_trim_37.mp4",
+    "caption": "A person is observing a beam pulled down from a high platform. Then the person is falling down as the beam falls on the ground.",
+    "gt_actions": [
+      "falling load",
+      "person falling down"
+    ]
+  },
+  {
+    "video_name": "aTW27C3AG-o_trim_0.mp4",
+    "caption": "A person is backing away as an excavator demolishes a building. Another person is running.",
+    "gt_actions": [
+      "operating heavy equipment dangerously",
+      "structural collapse",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "aTW27C3AG-o_trim_3.mp4",
+    "caption": "Two people are unloading a truck when the load accidentally falls to the ground.",
+    "gt_actions": [
+      "unloading truck load fall"
+    ]
+  },
+  {
+    "video_name": "aTW27C3AG-o_trim_4.mp4",
+    "caption": "A person is pushing a load down a ramp, and the items fall off.",
+    "gt_actions": [
+      "heavy object slipping",
+      "pushing heavy load"
+    ]
+  },
+  {
+    "video_name": "aTW27C3AG-o_trim_9.mp4",
+    "caption": "A person attempts to jump across a ditch at a construction site but falls in.",
+    "gt_actions": [
+      "person falling down"
+    ]
+  },
+  {
+    "video_name": "aTW27C3AG-o_trim_23.mp4",
+    "caption": "A person tries to control a water hose but falls due to its force. Then he gives hose to another person and gets up.",
+    "gt_actions": [
+      "person falling down"
+    ]
+  },
+  {
+    "video_name": "aTW27C3AG-o_trim_32.mp4",
+    "caption": "A person is trying to load something onto an excavator, but it slips and falls, breaking on impact.",
+    "gt_actions": [
+      "heavy object slipping",
+      "operating heavy equipment dangerously"
+    ]
+  },
+  {
+    "video_name": "aTW27C3AG-o_trim_38.mp4",
+    "caption": "An excavator is demolishing a structure, which collapses to the ground.",
+    "gt_actions": [
+      "structural collapse",
+      "operating heavy equipment dangerously"
+    ]
+  },
+  {
+    "video_name": "aTW27C3AG-o_trim_39.mp4",
+    "caption": "An excavator is demolishing a structure, which collapses onto the excavator.",
+    "gt_actions": [
+      "structural collapse",
+      "operating heavy equipment dangerously"
+    ]
+  },
+  {
+    "video_name": "BWZSWUVBOuw_trim_5.mp4",
+    "caption": "A person is trying to fix a machine when a rod from behind strikes him, causing him to fall and hang from the platform.",
+    "gt_actions": [
+      "machine part flying off",
+      "person falling down"
+    ]
+  },
+  {
+    "video_name": "BWZSWUVBOuw_trim_6.mp4",
+    "caption": "A person is hanging from a platform and trying to climb back up.",
+    "gt_actions": [
+      "hanging from something after slip",
+      "rescue effort"
+    ]
+  },
+  {
+    "video_name": "BWZSWUVBOuw_trim_7.mp4",
+    "caption": "A person is hanging from a platform and trying to climb back up.",
+    "gt_actions": [
+      "hanging from something after slip",
+      "rescue effort"
+    ]
+  },
+  {
+    "video_name": "ELLtmRhxG0Q_trim_0.mp4",
+    "caption": "A person is pushing an electrical machine while one of its panels rotate and fall on his head. Two other people are standing and preparing food.",
+    "gt_actions": [
+      "machine part flying off",
+      "heavy object slipping",
+      "falling load"
+    ]
+  },
+  {
+    "video_name": "ELLtmRhxG0Q_trim_1.mp4",
+    "caption": "A person is injured in the head and is holding it while walking. Then he is slipping and falling to the ground. Another person is checking on him. A third person is opening a cabinet and putting things into it.",
+    "gt_actions": [
+      "rescue effort",
+      "person falling down"
+    ]
+  },
+  {
+    "video_name": "ELLtmRhxG0Q_trim_2.mp4",
+    "caption": "An injured person is holding his head and getting up while another person is checking a appliance near him. A third person is rotating his hand closing a container.",
+    "gt_actions": [
+      "watching incident passively",
+      "rescue effort"
+    ]
+  },
+  {
+    "video_name": "fgm48K5v6EU_trim_2.mp4",
+    "caption": "A person is pulling the wires of a machine but it suddenly falls down. Another person standing near it crouches down and almost hit by a beam.",
+    "gt_actions": [
+      "falling load",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "FIViayQg5iA_trim_1.mp4",
+    "caption": "A person is pulling a stacked vertical cart when one of the wheels gets detached and the cart falls. Then she is trying to hold the cart but falls along with it.",
+    "gt_actions": [
+      "break under load",
+      "pulling heavy load",
+      "person falling down"
+    ]
+  },
+  {
+    "video_name": "FIViayQg5iA_trim_2.mp4",
+    "caption": "A person is falling to the ground due to the impact of a fallen stacked vertical cart.",
+    "gt_actions": [
+      "break under load",
+      "person falling down"
+    ]
+  },
+  {
+    "video_name": "fs0TzsV5NgU_trim_0.mp4",
+    "caption": "A group of people are sitting and lowering their heads as a steel press machine above them is falling down but stops just before hitting them.",
+    "gt_actions": [
+      "operating hydraulic press",
+      "falling load"
+    ]
+  },
+  {
+    "video_name": "fs0TzsV5NgU_trim_1.mp4",
+    "caption": "A group of people are sitting and lowering their heads as a steel press machine above them is falling down but stops just before hitting them.",
+    "gt_actions": [
+      "operating hydraulic press",
+      "falling load"
+    ]
+  },
+  {
+    "video_name": "fs0TzsV5NgU_trim_2.mp4",
+    "caption": "A group of people are sitting and lowering their heads as a steel press machine above them is falling down but stops just before hitting them.",
+    "gt_actions": [
+      "operating hydraulic press",
+      "falling load"
+    ]
+  },
+  {
+    "video_name": "fs0TzsV5NgU_trim_4.mp4",
+    "caption": "A group of people are sitting and lowering their heads as a steel press machine above them is falling down but stops just before hitting them.",
+    "gt_actions": [
+      "operating hydraulic press",
+      "falling load"
+    ]
+  },
+  {
+    "video_name": "fs0TzsV5NgU_trim_5.mp4",
+    "caption": "A group of people are sitting and lowering their heads as a steel press machine above them is falling down but stops just before hitting them.",
+    "gt_actions": [
+      "operating hydraulic press",
+      "falling load"
+    ]
+  },
+  {
+    "video_name": "fs0TzsV5NgU_trim_6.mp4",
+    "caption": "A group of people are sitting and lowering their heads as a steel press machine above them is falling down but stops just before hitting them.",
+    "gt_actions": [
+      "operating hydraulic press",
+      "falling load"
+    ]
+  },
+  {
+    "video_name": "gLyAp3F9PLE_trim_1.mp4",
+    "caption": "A person is standing as the top part of a machine flies off. He is quickly backing up and moving away from the machine.",
+    "gt_actions": [
+      "machine part flying off",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "H4sC0QCkG7I_trim_299.mp4",
+    "caption": "A person is rushing with a pipe as fire is visible through the gap in the ceiling.",
+    "gt_actions": [
+      "fire incident",
+      "extinguishing fire"
+    ]
+  },
+  {
+    "video_name": "H4sC0QCkG7I_trim_300.mp4",
+    "caption": "A person is rushing and adjusting a pipe as fire is visible through the gap in the ceiling.",
+    "gt_actions": [
+      "fire incident",
+      "extinguishing fire"
+    ]
+  },
+  {
+    "video_name": "H4sC0QCkG7I_trim_301.mp4",
+    "caption": "A person is adjusting a pipe as fire is visible through the gap in the ceiling.",
+    "gt_actions": [
+      "fire incident",
+      "extinguishing fire"
+    ]
+  },
+  {
+    "video_name": "H4sC0QCkG7I_trim_302.mp4",
+    "caption": "A person wearing a yellow dress is holding a pipe as fire is being seen through the gap in the ceiling while another person wearing a white dress runs towards him.",
+    "gt_actions": [
+      "fire incident",
+      "extinguishing fire"
+    ]
+  },
+  {
+    "video_name": "H4sC0QCkG7I_trim_304.mp4",
+    "caption": "A person wearing a white dress is holding a pipe as fire is being seen through the gap in the ceiling while another person wearing a yellow dress is walking away.",
+    "gt_actions": [
+      "fire incident",
+      "extinguishing fire"
+    ]
+  },
+  {
+    "video_name": "H4sC0QCkG7I_trim_305.mp4",
+    "caption": "A person wearing a yellow dress is walking towards another person wearing a white dress holding a pipe as fire is visible through the gap in the ceiling. Then he is looking back and signaling someone to come.",
+    "gt_actions": [
+      "fire incident",
+      "extinguishing fire",
+      "signalling others about hazard"
+    ]
+  },
+  {
+    "video_name": "H4sC0QCkG7I_trim_306.mp4",
+    "caption": "A person wearing a yellow dress is walking towards another person wearing a white dress holding a pipe as fire is visible through the gap in the ceiling. Then he is looking back and signaling someone to come.",
+    "gt_actions": [
+      "fire incident",
+      "extinguishing fire",
+      "signalling others about hazard"
+    ]
+  },
+  {
+    "video_name": "H4sC0QCkG7I_trim_311.mp4",
+    "caption": "A person wearing a white dress is holding a pipe as fire is visible through the gap in the ceiling. Another person wearing a yellow dress is walking.",
+    "gt_actions": [
+      "fire incident",
+      "extinguishing fire"
+    ]
+  },
+  {
+    "video_name": "H4sC0QCkG7I_trim_312.mp4",
+    "caption": "A person is standing and holding a pipe as fire is visible through the gap in the ceiling.",
+    "gt_actions": [
+      "fire incident",
+      "extinguishing fire"
+    ]
+  },
+  {
+    "video_name": "H4sC0QCkG7I_trim_313.mp4",
+    "caption": "A person is holding a pipe and walking as fire is visible through the gap in the ceiling. Then he releases the pip and walks away.",
+    "gt_actions": [
+      "fire incident",
+      "extinguishing fire"
+    ]
+  },
+  {
+    "video_name": "H4sC0QCkG7I_trim_314.mp4",
+    "caption": "A person is rushing and picking up a pipe as fire is visible through the gap in the ceiling.",
+    "gt_actions": [
+      "fire incident",
+      "extinguishing fire"
+    ]
+  },
+  {
+    "video_name": "H4sC0QCkG7I_trim_315.mp4",
+    "caption": "A person is holding and adjusting a pipe as fire is visible through the gap in the ceiling. Then he is looking behind waiting for someone.",
+    "gt_actions": [
+      "fire incident",
+      "extinguishing fire"
+    ]
+  },
+  {
+    "video_name": "H4sC0QCkG7I_trim_316.mp4",
+    "caption": "A person is holding and adjusting a pipe as fire is visible through the gap in the ceiling. Then he is walking behind and releases the pipe.",
+    "gt_actions": [
+      "fire incident",
+      "extinguishing fire"
+    ]
+  },
+  {
+    "video_name": "H4sC0QCkG7I_trim_317.mp4",
+    "caption": "A person is walking as fire is visible through the gap in the ceiling.",
+    "gt_actions": [
+      "fire incident"
+    ]
+  },
+  {
+    "video_name": "H4sC0QCkG7I_trim_321.mp4",
+    "caption": "A person wearing a white dress is holding a pipe as fire is visible through the gap in the ceiling. Two other people are rushing towards him.",
+    "gt_actions": [
+      "fire incident",
+      "extinguishing fire"
+    ]
+  },
+  {
+    "video_name": "H4sC0QCkG7I_trim_322.mp4",
+    "caption": "A person wearing a white dress is holding a pipe as fire is visible through the gap in the ceiling. Two other people are walking towards him. One of them is picking up the middle of the pipe.",
+    "gt_actions": [
+      "fire incident",
+      "extinguishing fire"
+    ]
+  },
+  {
+    "video_name": "H4sC0QCkG7I_trim_323.mp4",
+    "caption": "Three people are standing and holding a pipe as fire is visible through the gap in the ceiling.",
+    "gt_actions": [
+      "fire incident",
+      "extinguishing fire"
+    ]
+  },
+  {
+    "video_name": "iFbIfo_vBfA_trim_0.mp4",
+    "caption": "A person is spinning a forklift in a warehouse.",
+    "gt_actions": [
+      "operating forklift",
+      "operating heavy equipment dangerously"
+    ]
+  },
+  {
+    "video_name": "iFbIfo_vBfA_trim_1.mp4",
+    "caption": "A person is spinning a forklift in a warehouse.",
+    "gt_actions": [
+      "operating forklift",
+      "operating heavy equipment dangerously"
+    ]
+  },
+  {
+    "video_name": "J9WlxhcRAPo_trim_2.mp4",
+    "caption": "A person is placing a beam in an upright position when it suddenly falls down on another person's foot.",
+    "gt_actions": [
+      "falling load"
+    ]
+  },
+  {
+    "video_name": "J9WlxhcRAPo_trim_3.mp4",
+    "caption": "A person is holding his foot in pain as another person is checking on him.",
+    "gt_actions": [
+      "rescue effort"
+    ]
+  },
+  {
+    "video_name": "J9WlxhcRAPo_trim_4.mp4",
+    "caption": "A person is holding his foot in pain as another person is bending to pick up a beam.",
+    "gt_actions": [
+      "rescue effort"
+    ]
+  },
+  {
+    "video_name": "J9WlxhcRAPo_trim_5.mp4",
+    "caption": "A person is picking up a beam as another person is taking off socks from his injured foot.",
+    "gt_actions": [
+      "rescue effort"
+    ]
+  },
+  {
+    "video_name": "J9WlxhcRAPo_trim_6.mp4",
+    "caption": "A person is placing a beam in an upright position as another person is holding his injured foot. A third person is walking.",
+    "gt_actions": [
+      "watching incident passively",
+      "rescue effort"
+    ]
+  },
+  {
+    "video_name": "J9WlxhcRAPo_trim_7.mp4",
+    "caption": "A person is bending down when a beam falls on his head. Another person quickly removes the beam and checks on him. A third person is walking towards them.",
+    "gt_actions": [
+      "falling load",
+      "rescue effort",
+      "lifting object off person"
+    ]
+  },
+  {
+    "video_name": "JNH-RPABpdA_trim_1.mp4",
+    "caption": "Two people are pulling out crates from a van when the crates fall down on them in a car repair shop. A third person is standing and watching them.",
+    "gt_actions": [
+      "unloading truck load fall",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "JNH-RPABpdA_trim_2.mp4",
+    "caption": "Three people are backing up as a stack of crates is falling down from a van in a car repair shop.",
+    "gt_actions": [
+      "unloading truck load fall",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "LY2-Rma6D8Y_trim_4.mp4",
+    "caption": "A person is lowering a car adjusting a tire when the machine fails and the car falls down in a car repair shop. He is trying to hold the car but is lifted up with it. Then the car falls down on him.",
+    "gt_actions": [
+      "platform failure",
+      "crushed under overturned vehicle",
+      "vehicle falling off edge"
+    ]
+  },
+  {
+    "video_name": "LY2-Rma6D8Y_trim_5.mp4",
+    "caption": "A group of people are trying to lift a car to rescue a person who is trapped under it in a car repair shop.",
+    "gt_actions": [
+      "rescue effort",
+      "lifting object off person"
+    ]
+  },
+  {
+    "video_name": "LY2-Rma6D8Y_trim_6.mp4",
+    "caption": "A group of people are trying to lift a car to rescue a person who is trapped under it in a car repair shop.",
+    "gt_actions": [
+      "rescue effort",
+      "lifting object off person"
+    ]
+  },
+  {
+    "video_name": "nP0dUSw2OeI_trim_0.mp4",
+    "caption": "A person is running in a parking lot checking locks on cars possibly trying to steal them. Then he is opening a car.",
+    "gt_actions": [
+      "intention of theft",
+      "moving in a suspicious manner"
+    ]
+  },
+  {
+    "video_name": "nP0dUSw2OeI_trim_1.mp4",
+    "caption": "A person is checking something in a car and then closing the door trying to steal it in a parking lot. Then he is running to the other side of the car.",
+    "gt_actions": [
+      "intention of theft",
+      "moving in a suspicious manner"
+    ]
+  },
+  {
+    "video_name": "nP0dUSw2OeI_trim_2.mp4",
+    "caption": "A person is getting into a car trying to steal it in a parking lot.",
+    "gt_actions": [
+      "intention of theft",
+      "moving in a suspicious manner"
+    ]
+  },
+  {
+    "video_name": "nP0dUSw2OeI_trim_3.mp4",
+    "caption": "A car is backing up in a parking lot.",
+    "gt_actions": [
+      "driving car"
+    ]
+  },
+  {
+    "video_name": "nP0dUSw2OeI_trim_4.mp4",
+    "caption": "A car is backing up in a parking lot onto the road.",
+    "gt_actions": [
+      "driving car"
+    ]
+  },
+  {
+    "video_name": "NWbw7-phE24_trim_4.mp4",
+    "caption": "A person is opening the lid of a large tanker truck when a large amount of white steam is coming out from its top.",
+    "gt_actions": [
+      "gas burst",
+      "pressurized vessel explosion"
+    ]
+  },
+  {
+    "video_name": "NWbw7-phE24_trim_5.mp4",
+    "caption": "A person is on top of a large tanker truck when a burst of white steam pushes him off the tank.",
+    "gt_actions": [
+      "gas burst",
+      "pressurized vessel explosion",
+      "person falling down"
+    ]
+  },
+  {
+    "video_name": "qJLf_5RJFG8_trim_2.mp4",
+    "caption": "A person is pulling some cylinders when one of them begins to fall in a car repair shop. Another person is helping him hold the ropes. A third person is walking.",
+    "gt_actions": [
+      "falling load",
+      "pulling heavy load",
+      "heavy object slipping"
+    ]
+  },
+  {
+    "video_name": "qJLf_5RJFG8_trim_3.mp4",
+    "caption": "Four people are in a car repair shop when a cylinder falls, leaks and frantically exhausts gas. The people are backing up and running away.",
+    "gt_actions": [
+      "gas burst",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "qpAT8pt58VI_trim_0.mp4",
+    "caption": "Two people are shooting at a car as it drives away in a dark neighbourhood. Some other people are standing and watching them.",
+    "gt_actions": [
+      "vandalism or intentional property damage",
+      "watching incident passively",
+      "firearm discharge"
+    ]
+  },
+  {
+    "video_name": "R4pN50yYI5k_trim_2.mp4",
+    "caption": "A forklift rushes into a shelf in a warehouse, causing many boxes to fall.",
+    "gt_actions": [
+      "operating forklift",
+      "vehicle crash into building or stationary object",
+      "warehouse shelves toppling",
+      "falling load"
+    ]
+  },
+  {
+    "video_name": "R4pN50yYI5k_trim_5.mp4",
+    "caption": "A person is walking on a stack of fallen boxes in a warehouse searching to see if anyone is under those.",
+    "gt_actions": [
+      "searching debris for victims",
+      "cluttered workspace"
+    ]
+  },
+  {
+    "video_name": "R4pN50yYI5k_trim_6.mp4",
+    "caption": "A person is walking on a stack of fallen boxes in a warehouse searching to see if anyone is under those.",
+    "gt_actions": [
+      "searching debris for victims",
+      "cluttered workspace"
+    ]
+  },
+  {
+    "video_name": "R4pN50yYI5k_trim_7.mp4",
+    "caption": "A group of people are walking and moving on a stack of fallen boxes in a warehouse searching to see if anyone is under those.",
+    "gt_actions": [
+      "searching debris for victims",
+      "cluttered workspace"
+    ]
+  },
+  {
+    "video_name": "R4pN50yYI5k_trim_8.mp4",
+    "caption": "A group of people are walking and moving on a stack of fallen boxes in a warehouse searching to see if anyone is under those.",
+    "gt_actions": [
+      "searching debris for victims",
+      "cluttered workspace"
+    ]
+  },
+  {
+    "video_name": "R4pN50yYI5k_trim_9.mp4",
+    "caption": "A group of people are walking and moving on a stack of fallen boxes in a warehouse searching to see if anyone is under those.",
+    "gt_actions": [
+      "searching debris for victims",
+      "cluttered workspace"
+    ]
+  },
+  {
+    "video_name": "R4pN50yYI5k_trim_10.mp4",
+    "caption": "A group of people are searching under a stack of fallen boxes in a warehouse to see if anyone is under those.",
+    "gt_actions": [
+      "searching debris for victims",
+      "cluttered workspace"
+    ]
+  },
+  {
+    "video_name": "Ru2okot9dww_trim_0.mp4",
+    "caption": "Two people are standing as a crane is lowering a large metal sheet when it bends and bounces back.",
+    "gt_actions": [
+      "crane imbalance with suspended load",
+      "heavy object slipping"
+    ]
+  },
+  {
+    "video_name": "Ru2okot9dww_trim_1.mp4",
+    "caption": "One person is backing up while another person is falling as a large metal sheet bounces towards them.",
+    "gt_actions": [
+      "falling load",
+      "heavy object slipping",
+      "person falling down",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "RWkLiBXSJIk_trim_0.mp4",
+    "caption": "A group of people are standing near a burning metal coil as a press machine is lowering towards it. The metal coil falls off due to the impact of the machine and hits one of the people causing him to roll and fall.",
+    "gt_actions": [
+      "operating hydraulic press",
+      "falling load",
+      "person falling down"
+    ]
+  },
+  {
+    "video_name": "U5lAqk0_5bE_trim_0.mp4",
+    "caption": "A forklift is operating in a warehouse when a large pallet falls and breaks near it.",
+    "gt_actions": [
+      "operating forklift",
+      "falling load"
+    ]
+  },
+  {
+    "video_name": "UCn0LBrLJKk_clip0_trim_3.mp4",
+    "caption": "A group of people are rescuing a person who is trapped under fallen shelves and boxes in a warehouse.",
+    "gt_actions": [
+      "rescue effort",
+      "lifting object off person"
+    ]
+  },
+  {
+    "video_name": "UCn0LBrLJKk_clip0_trim_4.mp4",
+    "caption": "A group of people are rescuing a person who is trapped under fallen shelves and boxes in a warehouse.",
+    "gt_actions": [
+      "rescue effort",
+      "lifting object off person"
+    ]
+  },
+  {
+    "video_name": "uOAJL-g4Y_w_trim_0.mp4",
+    "caption": "A person is falling down from a beam as it detaches. Then he is hanging from a rope as other people are trying to help him get down.",
+    "gt_actions": [
+      "falling load",
+      "hanging from something after slip",
+      "person falling down",
+      "rescue effort",
+      "helping person down from height"
+    ]
+  },
+  {
+    "video_name": "uOAJL-g4Y_w_trim_1.mp4",
+    "caption": "A person is hanging from a rope as other people are trying to help him get down.",
+    "gt_actions": [
+      "hanging from something after slip",
+      "helping person down from height",
+      "rescue effort"
+    ]
+  },
+  {
+    "video_name": "uOAJL-g4Y_w_trim_2.mp4",
+    "caption": "A person is hanging from a rope as other people are trying to help him get down.",
+    "gt_actions": [
+      "hanging from something after slip",
+      "helping person down from height",
+      "rescue effort"
+    ]
+  },
+  {
+    "video_name": "uqpP8Zcn02s_trim_0.mp4",
+    "caption": "A person is walking while another person is operating a flamethrower in a manufacturing area. Suddenly a machine malfunctions, sparks erupt, and the two persons are backing away and running.",
+    "gt_actions": [
+      "improper use of flamethrower",
+      "equipment emitting sparks",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "uqpP8Zcn02s_trim_1.mp4",
+    "caption": "A person is running while another person is holding a pipe and observing as fire erupts from a machine in a manufacturing area.",
+    "gt_actions": [
+      "fire incident",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "uqpP8Zcn02s_trim_2.mp4",
+    "caption": "Two people are running away as fire erupts from a machine in a manufacturing area.",
+    "gt_actions": [
+      "fire incident",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "uqpP8Zcn02s_trim_3.mp4",
+    "caption": "Two people are running away as fire erupts from a machine in a manufacturing area and it begins to explode.",
+    "gt_actions": [
+      "machine explosion",
+      "fire incident",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "VAL3rSbPzXs_trim_0.mp4",
+    "caption": "A group of firefighters are extinguishing fire on a plane.",
+    "gt_actions": [
+      "extinguishing fire",
+      "fire incident"
+    ]
+  },
+  {
+    "video_name": "VAL3rSbPzXs_trim_1.mp4",
+    "caption": "A group of firefighters are extinguishing fire on a plane.",
+    "gt_actions": [
+      "extinguishing fire",
+      "fire incident"
+    ]
+  },
+  {
+    "video_name": "VAL3rSbPzXs_trim_2.mp4",
+    "caption": "A group of firefighters are extinguishing fire on a plane.",
+    "gt_actions": [
+      "extinguishing fire",
+      "fire incident"
+    ]
+  },
+  {
+    "video_name": "VAL3rSbPzXs_trim_3.mp4",
+    "caption": "A group of firefighters are extinguishing fire on a plane.",
+    "gt_actions": [
+      "extinguishing fire",
+      "fire incident"
+    ]
+  },
+  {
+    "video_name": "VTc91caMAR8_trim_2.mp4",
+    "caption": "A person operating a forklift is backing down when the vehicle the forklift is in starts moving. Then the forklift falls down in an upside-down position. Another person rushes towards it to help the person operating it.",
+    "gt_actions": [
+      "operating forklift",
+      "crushed under overturned vehicle",
+      "rescue effort"
+    ]
+  },
+  {
+    "video_name": "VTc91caMAR8_trim_3.mp4",
+    "caption": "A person is rescuing another person from beneath a falling forklift.",
+    "gt_actions": [
+      "rescue effort",
+      "crushed under overturned vehicle",
+      "lifting object off person"
+    ]
+  },
+  {
+    "video_name": "wqyNqyYszk0_trim_0.mp4",
+    "caption": "A person is running between two trucks when one of them explodes.",
+    "gt_actions": [
+      "machine explosion",
+      "fire incident"
+    ]
+  },
+  {
+    "video_name": "YQWegt3HWIM_trim_0.mp4",
+    "caption": "A child is climbing down from the outdoor AC unit on a narrow building ledge which is a very dangerous position.",
+    "gt_actions": [
+      "hanging from something after slip"
+    ]
+  },
+  {
+    "video_name": "YQWegt3HWIM_trim_1.mp4",
+    "caption": "A child is hanging from a narrow building ledge which is a very dangerous position.",
+    "gt_actions": [
+      "hanging from something after slip"
+    ]
+  },
+  {
+    "video_name": "YQWegt3HWIM_trim_2.mp4",
+    "caption": "A child is falling down from a narrow building ledge which is a very dangerous position. He is caught by one of the people standing below.",
+    "gt_actions": [
+      "helping person down from height",
+      "person falling down",
+      "rescue effort"
+    ]
+  },
+  {
+    "video_name": "Ytan3MRulVg_trim_1.mp4",
+    "caption": "A person is standing and is hit by a forklift.",
+    "gt_actions": [
+      "operating forklift"
+    ]
+  },
+  {
+    "video_name": "Ytan3MRulVg_trim_2.mp4",
+    "caption": "A person is hit by a forklift and dragged forward. Then he is getting up.",
+    "gt_actions": [
+      "person dragged by vehicle"
+    ]
+  },
+  {
+    "video_name": "YVHcrItJwXA_trim_3.mp4",
+    "caption": "A heavy metal object suspended by a crane is falling and the people around it are backing away.",
+    "gt_actions": [
+      "falling load",
+      "crane imbalance with suspended load",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "YVHcrItJwXA_trim_4.mp4",
+    "caption": "A heavy metal object is rolling and a person is looking at it.",
+    "gt_actions": [
+      "heavy object slipping",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "YzLYJ9YqSaE_trim_0.mp4",
+    "caption": "Two forklifts are moving towards a common point without seeing each other and they collide.",
+    "gt_actions": [
+      "operating forklift",
+      "collision between vehicles"
+    ]
+  },
+  {
+    "video_name": "zaV3OjWE834_trim_1.mp4",
+    "caption": "A person's hair is stuck in a kitchen machine and she is trying to pull it out.",
+    "gt_actions": [
+      "hair caught in appliance"
+    ]
+  },
+  {
+    "video_name": "zaV3OjWE834_trim_2.mp4",
+    "caption": "A person is feeling pain in her head and two other people are checking on her in a kitchen.",
+    "gt_actions": [
+      "rescue effort"
+    ]
+  },
+  {
+    "video_name": "zaV3OjWE834_trim_3.mp4",
+    "caption": "A person is feeling pain in her head and three other people are checking on her in a kitchen.",
+    "gt_actions": [
+      "rescue effort"
+    ]
+  },
+  {
+    "video_name": "zaV3OjWE834_trim_4.mp4",
+    "caption": "A person is feeling pain in her head in a kitchen. Another person is getting a drink from a machine. A third person is cleaning. A fourth person is handling the machine.",
+    "gt_actions": [
+      "rescue effort"
+    ]
+  },
+  {
+    "video_name": "zaV3OjWE834_trim_5.mp4",
+    "caption": "A person is feeling pain in her head in a kitchen. Another person is getting a drink from a machine. A third person is cleaning. A fourth person is handling the machine.",
+    "gt_actions": [
+      "rescue effort"
+    ]
+  },
+  {
+    "video_name": "zaV3OjWE834_trim_6.mp4",
+    "caption": "A person is holding her hair in a kitchen. Two other people are checking on her. Another person is getting a drink from a machine. ",
+    "gt_actions": [
+      "rescue effort"
+    ]
+  },
+  {
+    "video_name": "zbhAHjl_iOM_trim_0.mp4",
+    "caption": "A person is operating a forklift carrying a heavy load in a warehouse. He is tilting the forklift deliberately and posing for the camera.",
+    "gt_actions": [
+      "operating forklift",
+      "operating heavy equipment dangerously"
+    ]
+  },
+  {
+    "video_name": "zd-Wt1nndig_trim_1.mp4",
+    "caption": "Two people in firefighter suits are walking towards a burning building.",
+    "gt_actions": [
+      "fire incident"
+    ]
+  },
+  {
+    "video_name": "zd-Wt1nndig_trim_2.mp4",
+    "caption": "Two people in firefighter suits are walking towards a burning building.",
+    "gt_actions": [
+      "fire incident"
+    ]
+  },
+  {
+    "video_name": "zd-Wt1nndig_trim_9.mp4",
+    "caption": "A person is standing and observing a burning building.",
+    "gt_actions": [
+      "watching incident passively",
+      "fire incident"
+    ]
+  },
+  {
+    "video_name": "zd-Wt1nndig_trim_10.mp4",
+    "caption": "A person is standing and observing a burning building.",
+    "gt_actions": [
+      "watching incident passively",
+      "fire incident"
+    ]
+  },
+  {
+    "video_name": "zd-Wt1nndig_trim_13.mp4",
+    "caption": "A person is walking in the compound of a burning building.",
+    "gt_actions": [
+      "fire incident"
+    ]
+  },
+  {
+    "video_name": "zd-Wt1nndig_trim_17.mp4",
+    "caption": "Two people in firefighter suits are standing and looking towards a burning building.",
+    "gt_actions": [
+      "watching incident passively",
+      "fire incident"
+    ]
+  },
+  {
+    "video_name": "zJqzjDX-XFU_trim_1.mp4",
+    "caption": "Two people are trying to stop a car from rolling down a slope in front of a building. The car keeps rolling down and its doors break.",
+    "gt_actions": [
+      "vehicle losing control",
+      "collision between vehicles",
+      "rescue effort"
+    ]
+  },
+  {
+    "video_name": "zJqzjDX-XFU_trim_6.mp4",
+    "caption": "A person is driving a car forward but a metal object behind the car is stuck to the garage door, causing it to break.",
+    "gt_actions": [
+      "vehicle crash into building or stationary object"
+    ]
+  },
+  {
+    "video_name": "zJqzjDX-XFU_trim_19.mp4",
+    "caption": "A person is backing up a quadbike into a car but loses balance and falls down.",
+    "gt_actions": [
+      "vehicle losing control",
+      "person falling down"
+    ]
+  },
+  {
+    "video_name": "zJqzjDX-XFU_trim_21.mp4",
+    "caption": "A car is losing control and falling off a ledge turning upside down. Water is coming out of that area as other cars drive by.",
+    "gt_actions": [
+      "vehicle falling off edge",
+      "vehicle losing control",
+      "flooded floor"
+    ]
+  },
+  {
+    "video_name": "zJqzjDX-XFU_trim_27.mp4",
+    "caption": "A person is trying to stop a car that has lost control but it rolls down and hits a school bus. A child is observing and running towards the car.",
+    "gt_actions": [
+      "vehicle losing control",
+      "collision between vehicles",
+      "rescue effort",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "zJqzjDX-XFU_trim_34.mp4",
+    "caption": "A car is backing down quickly and hits a house and a parked car, getting wrecked in the process.",
+    "gt_actions": [
+      "vehicle crash into building or stationary object",
+      "vehicle losing control",
+      "collision between vehicles"
+    ]
+  },
+  {
+    "video_name": "zJqzjDX-XFU_trim_35.mp4",
+    "caption": "A person is picking up a trash can when its lid opens.",
+    "gt_actions": [
+      "lifting heavy load"
+    ]
+  },
+  {
+    "video_name": "zJqzjDX-XFU_trim_42.mp4",
+    "caption": "A person is putting letters in a mailbox then driving his bike forward. The package in the bike causes the mailbox to fall down.",
+    "gt_actions": [
+      "vandalism or intentional property damage",
+      "falling load"
+    ]
+  },
+  {
+    "video_name": "zJqzjDX-XFU_trim_43.mp4",
+    "caption": "A person gets down from his motorbike and puts a fallen mailbox back in its place.",
+    "gt_actions": [
+      "rescue effort"
+    ]
+  },
+  {
+    "video_name": "zJqzjDX-XFU_trim_44.mp4",
+    "caption": "A person is driving a motorbike but loses balance and falls down.",
+    "gt_actions": [
+      "vehicle crash into building or stationary object",
+      "person falling down"
+    ]
+  },
+  {
+    "video_name": "zJqzjDX-XFU_trim_45.mp4",
+    "caption": "A masked person is picking up in an attempt to steal boxes from the front door but falls down. He quickly gets up and picks up the boxes.",
+    "gt_actions": [
+      "intention of theft",
+      "carrying object and slipping",
+      "person falling down"
+    ]
+  },
+  {
+    "video_name": "zJqzjDX-XFU_trim_50.mp4",
+    "caption": "Two people are running in panic across a balcony while a dog chases them. Another person is getting out of a car.",
+    "gt_actions": [
+      "escaping from danger",
+      "intention of theft"
+    ]
+  },
+  {
+    "video_name": "zJqzjDX-XFU_trim_66.mp4",
+    "caption": "A person is backing a car in a repair shop but it suddenly falls on one side. Another person is observing and walking towards it.",
+    "gt_actions": [
+      "vehicle losing control",
+      "vehicle falling off edge",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "zJqzjDX-XFU_trim_68.mp4",
+    "caption": "A person is hammering down one television after another in an electronics store.",
+    "gt_actions": [
+      "vandalism or intentional property damage"
+    ]
+  },
+  {
+    "video_name": "zJqzjDX-XFU_trim_74.mp4",
+    "caption": "A person is stocking shelves when many of the food start falling.",
+    "gt_actions": [
+      "overstacked shelves",
+      "warehouse shelves toppling",
+      "falling load"
+    ]
+  },
+  {
+    "video_name": "zJqzjDX-XFU_trim_75.mp4",
+    "caption": "A car is moving forward but its hood slides open and it brakes suddenly.",
+    "gt_actions": [
+      "car hood malfunction or improper interaction"
+    ]
+  },
+  {
+    "video_name": "zJqzjDX-XFU_trim_76.mp4",
+    "caption": "A car is moving forward with its hood slid open.",
+    "gt_actions": [
+      "car hood malfunction or improper interaction"
+    ]
+  },
+  {
+    "video_name": "zJqzjDX-XFU_trim_80.mp4",
+    "caption": "A person is picking up a plant pot in front of a house and putting it inside a car in an attempt to steal it.",
+    "gt_actions": [
+      "intention of theft"
+    ]
+  },
+  {
+    "video_name": "zJqzjDX-XFU_trim_83.mp4",
+    "caption": "A person is getting down from a bike as it starts to fall down. He is catching it before it falls and putting it back on its wheels.",
+    "gt_actions": [
+      "vehicle losing control"
+    ]
+  },
+  {
+    "video_name": "zJqzjDX-XFU_trim_86.mp4",
+    "caption": "A person is getting on top of a damaged car hood and tries to fix it by jumping on it.",
+    "gt_actions": [
+      "car hood malfunction or improper interaction"
+    ]
+  },
+  {
+    "video_name": "zJqzjDX-XFU_trim_87.mp4",
+    "caption": "A person is quickly jumping on a damaged car hood trying to fix it.",
+    "gt_actions": [
+      "car hood malfunction or improper interaction"
+    ]
+  },
+  {
+    "video_name": "zJqzjDX-XFU_trim_98.mp4",
+    "caption": "A car is backing towards three people losing control. One of the people notices and tries to stop it with his hands.",
+    "gt_actions": [
+      "vehicle losing control",
+      "rescue effort"
+    ]
+  },
+  {
+    "video_name": "zJqzjDX-XFU_trim_102.mp4",
+    "caption": "A person is backing down trying to put out a fire that caught on a desk.",
+    "gt_actions": [
+      "extinguishing fire",
+      "fire incident",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "zJqzjDX-XFU_trim_103.mp4",
+    "caption": "A car is breaking through an electronics showroom losing control and people standing and observing it. One person runs towards it.",
+    "gt_actions": [
+      "vehicle crash into building or stationary object",
+      "watching incident passively",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "ZNOHrOs9VMA_trim_1.mp4",
+    "caption": "A person is operating a forklift in a warehouse when it catches fire. The other people are running away from it.",
+    "gt_actions": [
+      "operating forklift",
+      "fire incident",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "ZNOHrOs9VMA_trim_2.mp4",
+    "caption": "A group of people are running away as a forklift catches fire in a warehouse.",
+    "gt_actions": [
+      "fire incident",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "ZNOHrOs9VMA_trim_4.mp4",
+    "caption": "A person is using a fire extinguisher to put out a fire on a forklift in a warehouse.",
+    "gt_actions": [
+      "extinguishing fire",
+      "fire incident"
+    ]
+  },
+  {
+    "video_name": "ZNOHrOs9VMA_trim_5.mp4",
+    "caption": "A person is rushing using a fire extinguisher to put out a fire on a forklift in a warehouse.",
+    "gt_actions": [
+      "extinguishing fire",
+      "fire incident"
+    ]
+  },
+  {
+    "video_name": "ZNOHrOs9VMA_trim_6.mp4",
+    "caption": "A group of people are using fire extinguishers to put out a fire in a warehouse.",
+    "gt_actions": [
+      "extinguishing fire",
+      "fire incident"
+    ]
+  },
+  {
+    "video_name": "ZNOHrOs9VMA_trim_7.mp4",
+    "caption": "A group of people are using fire extinguishers to put out a fire in a warehouse but the flame reignites.",
+    "gt_actions": [
+      "fire incident",
+      "extinguishing fire"
+    ]
+  },
+  {
+    "video_name": "ZrUcYQFFE9A_trim_4.mp4",
+    "caption": "A person is placing a pipe in a large hole when one of the walls starts to collapse.",
+    "gt_actions": [
+      "structural collapse"
+    ]
+  },
+  {
+    "video_name": "ZWYH_lCpl8w_clip0_trim_0.mp4",
+    "caption": "A person is operating a forklift in a warehouse when shelves full of boxes start to fall down.",
+    "gt_actions": [
+      "operating forklift",
+      "warehouse shelves toppling",
+      "falling load"
+    ]
+  },
+  {
+    "video_name": "ZWYH_lCpl8w_clip0_trim_1.mp4",
+    "caption": "A group of people are running as shelves full of boxes start to fall down in a warehouse hitting a forklift.",
+    "gt_actions": [
+      "warehouse shelves toppling",
+      "falling load",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "2uuwpx1ykPQ_trim_0.mp4",
+    "caption": "Two people are working on a car in a repair shop when suddenly a fire starts.",
+    "gt_actions": [
+      "fire incident"
+    ]
+  },
+  {
+    "video_name": "2uuwpx1ykPQ_trim_1.mp4",
+    "caption": "Two people back away as fire starts to spread running in panic. One person is standing and watching.",
+    "gt_actions": [
+      "fire incident",
+      "escaping from danger",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "2uuwpx1ykPQ_trim_2.mp4",
+    "caption": "Two people are running looking at a fire. One person is standing and watching.",
+    "gt_actions": [
+      "fire incident",
+      "escaping from danger",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "2uuwpx1ykPQ_trim_3.mp4",
+    "caption": "A couple of people are running looking at a fire. One person is standing and watching.",
+    "gt_actions": [
+      "fire incident",
+      "escaping from danger",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "2uuwpx1ykPQ_trim_4.mp4",
+    "caption": "A person is trying to put out the fire with a fire extinguisher. Other people are running or standing and watching.",
+    "gt_actions": [
+      "extinguishing fire",
+      "fire incident",
+      "escaping from danger",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "2uuwpx1ykPQ_trim_5.mp4",
+    "caption": "A person is trying to put out the fire with a fire extinguisher. Other people are running or standing and watching.",
+    "gt_actions": [
+      "extinguishing fire",
+      "fire incident",
+      "escaping from danger",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "2uuwpx1ykPQ_trim_6.mp4",
+    "caption": "A person is trying to put out the fire with a fire extinguisher. Other people are running or standing and watching. The fire is still burning and the person with the extinguisher is also running away.",
+    "gt_actions": [
+      "extinguishing fire",
+      "fire incident",
+      "escaping from danger",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "2uuwpx1ykPQ_trim_7.mp4",
+    "caption": "The flames of a fire are spreading and two people are looking at it then walking away.",
+    "gt_actions": [
+      "fire incident",
+      "watching incident passively",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "2uuwpx1ykPQ_trim_8.mp4",
+    "caption": "A person is walking away as the flames of a fire are spreading.",
+    "gt_actions": [
+      "fire incident",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "6AISVvob4C0_trim_7.mp4",
+    "caption": "A person is climbing a ladder in a warehouse. The ladder slips and the person is falling down.",
+    "gt_actions": [
+      "person falling down"
+    ]
+  },
+  {
+    "video_name": "6AISVvob4C0_trim_8.mp4",
+    "caption": "A person is falling to the ground from the ladder and lying there appearing to be in pain.",
+    "gt_actions": [
+      "person falling down"
+    ]
+  },
+  {
+    "video_name": "6AISVvob4C0_trim_9.mp4",
+    "caption": "A person is lying in the ground after falling from a ladder appearing to be in pain.",
+    "gt_actions": [
+      "person falling down"
+    ]
+  },
+  {
+    "video_name": "6AISVvob4C0_trim_10.mp4",
+    "caption": "A person is lying in the ground after falling from a ladder appearing to be in pain.",
+    "gt_actions": [
+      "person falling down"
+    ]
+  },
+  {
+    "video_name": "6AISVvob4C0_trim_11.mp4",
+    "caption": "A person is lying in the ground after falling from a ladder appearing to be in pain.",
+    "gt_actions": [
+      "person falling down"
+    ]
+  },
+  {
+    "video_name": "6AISVvob4C0_trim_12.mp4",
+    "caption": "A person is getting up from the ground after falling from a ladder.",
+    "gt_actions": [
+      "person falling down"
+    ]
+  },
+  {
+    "video_name": "6ZrAeC5mZ5w_trim_1.mp4",
+    "caption": "A group of people are standing, talking, walking and opearting machines. One machine suddenly starts shaking and a glass shatters from it.",
+    "gt_actions": [
+      "machine part flying off",
+      "glass shattering on impact"
+    ]
+  },
+  {
+    "video_name": "6ZrAeC5mZ5w_trim_2.mp4",
+    "caption": "A group of people are running as a glass shatters from a machine. Some other people are standing and watching. One person is checking another person wearing red shirt.",
+    "gt_actions": [
+      "escaping from danger",
+      "watching incident passively",
+      "glass shattering on impact",
+      "rescue effort"
+    ]
+  },
+  {
+    "video_name": "6ZrAeC5mZ5w_trim_3.mp4",
+    "caption": "A group of people are checking a malfunctioning machine.",
+    "gt_actions": [
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "8t1ci0ezwP8_trim_2.mp4",
+    "caption": "A person is getting down from a ladder as it starts to slip. The person is falling down and lying the ladder.",
+    "gt_actions": [
+      "person falling down"
+    ]
+  },
+  {
+    "video_name": "8t1ci0ezwP8_trim_3.mp4",
+    "caption": "A person is getting up after falling from a ladder. Some other people are coming to check the person.",
+    "gt_actions": [
+      "person falling down",
+      "rescue effort"
+    ]
+  },
+  {
+    "video_name": "17XDkmsBbLg_trim_0.mp4",
+    "caption": "A person is placing some pipes on a ship controlling with a rope. The pipes almost hit other people as they quickly move away.",
+    "gt_actions": [
+      "falling load",
+      "escaping from danger",
+      "lifting heavy load"
+    ]
+  },
+  {
+    "video_name": "17XDkmsBbLg_trim_1.mp4",
+    "caption": "Two people are running away to avoid being hit by pipes suspended with a rope on a ship. Some other people are standing and watching.",
+    "gt_actions": [
+      "escaping from danger",
+      "watching incident passively",
+      "falling load"
+    ]
+  },
+  {
+    "video_name": "17XDkmsBbLg_trim_3.mp4",
+    "caption": "Two persons are crouching and running to avoid being hit by pipes suspended with a rope on a ship. Other people are standing or sitting and watching.",
+    "gt_actions": [
+      "escaping from danger",
+      "watching incident passively",
+      "falling load"
+    ]
+  },
+  {
+    "video_name": "17XDkmsBbLg_trim_5.mp4",
+    "caption": "A person is getting on and walking over on pipes suspended with a rope on a ship to avoid being hit. Another person is sitting to avoid being hit. Some other people are standing and watching.",
+    "gt_actions": [
+      "escaping from danger",
+      "watching incident passively",
+      "falling load"
+    ]
+  },
+  {
+    "video_name": "87O1pBSGtR0_trim_2.mp4",
+    "caption": "A person unties metal coil and quickly backs away as it starts to unroll. The person is falling to the ground as the coil hits him.",
+    "gt_actions": [
+      "heavy object slipping",
+      "person falling down"
+    ]
+  },
+  {
+    "video_name": "87O1pBSGtR0_trim_3.mp4",
+    "caption": "A person is sitting on the ground injured after being hit by a metal coil apparently in pain.",
+    "gt_actions": [
+      "person falling down"
+    ]
+  },
+  {
+    "video_name": "87O1pBSGtR0_trim_4.mp4",
+    "caption": "A person is sitting on the ground injured after being hit by a metal coil apparently in pain.",
+    "gt_actions": [
+      "person falling down"
+    ]
+  },
+  {
+    "video_name": "87O1pBSGtR0_trim_14.mp4",
+    "caption": "A person is pouring something to a burning pot and flames start to erupt.",
+    "gt_actions": [
+      "fire incident",
+      "gas burst"
+    ]
+  },
+  {
+    "video_name": "87O1pBSGtR0_trim_15.mp4",
+    "caption": "A person is seen crouching among huge amount of fire and smoke.",
+    "gt_actions": [
+      "fire incident",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "87O1pBSGtR0_trim_19.mp4",
+    "caption": "A person is lowering a forklift from an elevate platform. The forklift slips and the person is falling down. Another person is entering the room and watching the incident.",
+    "gt_actions": [
+      "operating forklift",
+      "vehicle losing control",
+      "person falling down",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "87O1pBSGtR0_trim_20.mp4",
+    "caption": "A person is getting up after falling down and another person is helping him. Two other persons are standing and watching.",
+    "gt_actions": [
+      "person falling down",
+      "rescue effort",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "87O1pBSGtR0_trim_24.mp4",
+    "caption": "A forklift is backing as the loads on it hit the wall and fall down.",
+    "gt_actions": [
+      "operating forklift",
+      "falling load"
+    ]
+  },
+  {
+    "video_name": "87O1pBSGtR0_trim_29.mp4",
+    "caption": "A person is operating a motorized cart and it crashes into a conveyor belt causing the person to fall. some other people are standing and watching.",
+    "gt_actions": [
+      "operating heavy equipment dangerously",
+      "vehicle crash into building or stationary object",
+      "person falling down",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "87O1pBSGtR0_trim_30.mp4",
+    "caption": "A person is gettind down and moving away from a motorized cart after it hits a conveyor belt.",
+    "gt_actions": [
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "87O1pBSGtR0_trim_80.mp4",
+    "caption": "A person is loading boxes into a truck but the boxes fall down. The person quickly moves away as another person is standing and watching.",
+    "gt_actions": [
+      "unloading truck load fall",
+      "escaping from danger",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "87O1pBSGtR0_trim_86.mp4",
+    "caption": "A forklift is carrying some heavy load and a person walks in front of it.",
+    "gt_actions": [
+      "operating forklift",
+      "carrying heavy load",
+      "operating heavy equipment dangerously"
+    ]
+  },
+  {
+    "video_name": "87O1pBSGtR0_trim_87.mp4",
+    "caption": "A forklift carrying load is almost hitting a person. The person quickly moves away as the forklift moves forward.",
+    "gt_actions": [
+      "operating forklift",
+      "carrying heavy load",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "87O1pBSGtR0_trim_89.mp4",
+    "caption": "A group of people are standing on the roof of a construction site as the roof starts to collapse. The people are falling down while some of them are trying to hold on to something.",
+    "gt_actions": [
+      "structural collapse",
+      "person falling down",
+      "hanging from something after slip"
+    ]
+  },
+  {
+    "video_name": "87O1pBSGtR0_trim_90.mp4",
+    "caption": "Some people are falling down as the roof of a construction site starts to collapse. Some of them are holding on to something.",
+    "gt_actions": [
+      "structural collapse",
+      "person falling down",
+      "hanging from something after slip"
+    ]
+  },
+  {
+    "video_name": "87O1pBSGtR0_trim_91.mp4",
+    "caption": "Some people are holding on to something, while others are sitting or walking on a collapsed roof of a construction site.",
+    "gt_actions": [
+      "structural collapse",
+      "hanging from something after slip"
+    ]
+  },
+  {
+    "video_name": "87O1pBSGtR0_trim_93.mp4",
+    "caption": "A person is throwing wooden planks from a height and they are falling down onto the head of another person wearing red shirt. The person hit by the planks is losing balance.",
+    "gt_actions": [
+      "falling load"
+    ]
+  },
+  {
+    "video_name": "87O1pBSGtR0_trim_99.mp4",
+    "caption": "A crane is lowering a person and starts to malfunction. The person is thrown into the air and is hanging by a rope.",
+    "gt_actions": [
+      "operating heavy equipment dangerously",
+      "hanging from something after slip"
+    ]
+  },
+  {
+    "video_name": "87O1pBSGtR0_trim_100.mp4",
+    "caption": "A person is hanging from a malfunctioning crane. Another person looks at him and starts running.",
+    "gt_actions": [
+      "hanging from something after slip",
+      "watching incident passively",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "87O1pBSGtR0_trim_101.mp4",
+    "caption": "A person is hanging from a malfunctioning crane.",
+    "gt_actions": [
+      "hanging from something after slip"
+    ]
+  },
+  {
+    "video_name": "87O1pBSGtR0_trim_102.mp4",
+    "caption": "A person is hanging from a malfunctioning crane.",
+    "gt_actions": [
+      "hanging from something after slip"
+    ]
+  },
+  {
+    "video_name": "87O1pBSGtR0_trim_122.mp4",
+    "caption": "A person is trying to extinguish fire by pouring something on it. The fire is still burning and two people are running away.",
+    "gt_actions": [
+      "extinguishing fire",
+      "fire incident",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "87O1pBSGtR0_trim_151.mp4",
+    "caption": "A person is operating forklift as shelves far from him start to collapse.",
+    "gt_actions": [
+      "operating forklift",
+      "warehouse shelves toppling",
+      "falling load"
+    ]
+  },
+  {
+    "video_name": "87O1pBSGtR0_trim_152.mp4",
+    "caption": "A person is operating forklift as shelves far from him start to collapse.",
+    "gt_actions": [
+      "operating forklift",
+      "warehouse shelves toppling",
+      "falling load"
+    ]
+  },
+  {
+    "video_name": "87O1pBSGtR0_trim_154.mp4",
+    "caption": "A person is operating forklift beside fallen shelves. Another person is running behind the shelves.",
+    "gt_actions": [
+      "operating forklift",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "87O1pBSGtR0_trim_170.mp4",
+    "caption": "A person is operating a forklift as shelves start to collapse.",
+    "gt_actions": [
+      "warehouse shelves toppling",
+      "falling load"
+    ]
+  },
+  {
+    "video_name": "87O1pBSGtR0_trim_171.mp4",
+    "caption": "A person is operating a forklift as shelves are collapsing.",
+    "gt_actions": [
+      "operating forklift",
+      "warehouse shelves toppling",
+      "falling load"
+    ]
+  },
+  {
+    "video_name": "91OaD3ixCyA_trim_41.mp4",
+    "caption": "A person is riding on the fork of a forklift, when another forklift comes in and hits the first forklift.",
+    "gt_actions": [
+      "operating forklift",
+      "operating heavy equipment dangerously",
+      "collision between vehicles"
+    ]
+  },
+  {
+    "video_name": "91OaD3ixCyA_trim_62.mp4",
+    "caption": "A person is poking a building structure and the roof collapses.",
+    "gt_actions": [
+      "structural collapse",
+      "vandalism or intentional property damage"
+    ]
+  },
+  {
+    "video_name": "91OaD3ixCyA_trim_64.mp4",
+    "caption": "A person operating a forklift is carrying a heavy load and tips over. A person is walking towards it.",
+    "gt_actions": [
+      "operating forklift",
+      "crushed under overturned vehicle",
+      "watching incident passively",
+      "carrying heavy load"
+    ]
+  },
+  {
+    "video_name": "91OaD3ixCyA_trim_65.mp4",
+    "caption": "A person operating a forklift is tipping over and falling down with a load. A person is walking towards it.",
+    "gt_actions": [
+      "operating forklift",
+      "crushed under overturned vehicle",
+      "person falling down",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "91OaD3ixCyA_trim_68.mp4",
+    "caption": "A person is backing up a forklift inside a truck but the truck moves forward. Then the forklift is tipping to the ground.",
+    "gt_actions": [
+      "operating forklift",
+      "vehicle losing control",
+      "crushed under overturned vehicle"
+    ]
+  },
+  {
+    "video_name": "91OaD3ixCyA_trim_70.mp4",
+    "caption": "A truck is backing up and the forklift inside it rolls and falls to the ground.",
+    "gt_actions": [
+      "vehicle losing control",
+      "crushed under overturned vehicle"
+    ]
+  },
+  {
+    "video_name": "aTW27C3AG-o_trim_28.mp4",
+    "caption": "A person is filming looking at the camera while another person behind is rolling with a chair. Then the person on the chair is falling down and the person filming is laughing.",
+    "gt_actions": [
+      "filming incident",
+      "person falling down",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "aTW27C3AG-o_trim_42.mp4",
+    "caption": "A drone is flying towards a window with a package but hits the wall and falls down. ",
+    "gt_actions": [
+      "vehicle crash into building or stationary object"
+    ]
+  },
+  {
+    "video_name": "aTW27C3AG-o_trim_45.mp4",
+    "caption": "Two persons are delivering packages to a door. One of them hits their head on the light in front of the door.",
+    "gt_actions": [
+      "carrying heavy load"
+    ]
+  },
+  {
+    "video_name": "aTW27C3AG-o_trim_48.mp4",
+    "caption": "A person is holding a bike in a repair shop. Then the bike falls down and person's foot is hurt.",
+    "gt_actions": [
+      "heavy object slipping",
+      "falling load"
+    ]
+  },
+  {
+    "video_name": "aTW27C3AG-o_trim_50.mp4",
+    "caption": "A person is carrying a tray and walking. Then he is slipping on the floor and falling down.",
+    "gt_actions": [
+      "carrying object and slipping",
+      "person falling down"
+    ]
+  },
+  {
+    "video_name": "aTW27C3AG-o_trim_55.mp4",
+    "caption": "A person is running after a road roller which has lost control. Then the road roller is falling down the side of the road.",
+    "gt_actions": [
+      "vehicle losing control",
+      "vehicle falling off edge",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "aTW27C3AG-o_trim_61.mp4",
+    "caption": "Two persons are carrying a glass to a house. Then one of them is falling down and the glass breaks.",
+    "gt_actions": [
+      "carrying heavy load",
+      "person falling down",
+      "glass shattering on impact"
+    ]
+  },
+  {
+    "video_name": "aTW27C3AG-o_trim_62.mp4",
+    "caption": "A person is getting up after falling down with broken glass on the ground. The other person is checking up on him.",
+    "gt_actions": [
+      "person falling down",
+      "rescue effort",
+      "glass shattering on impact"
+    ]
+  },
+  {
+    "video_name": "aTW27C3AG-o_trim_69.mp4",
+    "caption": "A person is getting down from the back of a truck pulling a heap of boxes. Then the boxes are falling down as the person backs away.",
+    "gt_actions": [
+      "pulling heavy load",
+      "unloading truck load fall",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "aTW27C3AG-o_trim_75.mp4",
+    "caption": "A person is pulling a cart of pain and then it falls down. He tries to stop it from falling but eventually backs away.",
+    "gt_actions": [
+      "pulling heavy load",
+      "falling load",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "aTW27C3AG-o_trim_84.mp4",
+    "caption": "A bear is stealing fish from a container in a processing plant.",
+    "gt_actions": [
+      "intention of theft"
+    ]
+  },
+  {
+    "video_name": "aTW27C3AG-o_trim_99.mp4",
+    "caption": "A person is playing baseball with a stick in a warehouse and hits the person filming.",
+    "gt_actions": [
+      "filming incident"
+    ]
+  },
+  {
+    "video_name": "aTW27C3AG-o_trim_101.mp4",
+    "caption": "A person operating an excavator is trying to lift a heavy load but the load is too heavy and the excavator tips over.",
+    "gt_actions": [
+      "operating heavy equipment dangerously",
+      "lifting heavy load",
+      "crushed under overturned vehicle"
+    ]
+  },
+  {
+    "video_name": "aTW27C3AG-o_trim_115.mp4",
+    "caption": "A forklift is lowering a car onto a truck but it tips over as the car is almost falling down.",
+    "gt_actions": [
+      "operating forklift",
+      "crushed under overturned vehicle",
+      "falling load"
+    ]
+  },
+  {
+    "video_name": "aTW27C3AG-o_trim_127.mp4",
+    "caption": "A firefight is shooting water at a fire in a building.",
+    "gt_actions": [
+      "extinguishing fire",
+      "fire incident"
+    ]
+  },
+  {
+    "video_name": "aTW27C3AG-o_trim_136.mp4",
+    "caption": "A person is shooting a dirt without looking and hits a screen and breaks it.",
+    "gt_actions": [
+      "vandalism or intentional property damage"
+    ]
+  },
+  {
+    "video_name": "aTW27C3AG-o_trim_140.mp4",
+    "caption": "A person is cutting a tree with a chainsaw but the tree falls on him and also breaks a structure.",
+    "gt_actions": [
+      "operating heavy equipment dangerously",
+      "tree falling nearby",
+      "structural collapse",
+      "falling load"
+    ]
+  },
+  {
+    "video_name": "aTW27C3AG-o_trim_144.mp4",
+    "caption": "A forklift is pulling a heavy load but another load behind it is about to fall down.",
+    "gt_actions": [
+      "operating forklift",
+      "pulling heavy load",
+      "falling load"
+    ]
+  },
+  {
+    "video_name": "aTW27C3AG-o_trim_145.mp4",
+    "caption": "A forklift is pulling a heavy load but another load behind it is falling down.",
+    "gt_actions": [
+      "operating forklift",
+      "pulling heavy load",
+      "falling load"
+    ]
+  },
+  {
+    "video_name": "aTW27C3AG-o_trim_147.mp4",
+    "caption": "A person is hanging on a pipe of a house trying to detach it.",
+    "gt_actions": [
+      "vandalism or intentional property damage",
+      "hanging from something after slip"
+    ]
+  },
+  {
+    "video_name": "aTW27C3AG-o_trim_148.mp4",
+    "caption": "A person is hanging on a pipe of a house trying to detach it. Then he is falling down as the pipe comes off.",
+    "gt_actions": [
+      "vandalism or intentional property damage",
+      "person falling down",
+      "structural collapse"
+    ]
+  },
+  {
+    "video_name": "aTW27C3AG-o_trim_156.mp4",
+    "caption": "A person is hiding in a box as another person wearing black shirt is walking. The person in the box throws something at the other person but the box slips and falls down along with him.",
+    "gt_actions": [
+      "person falling down",
+      "physical altercation or fighting"
+    ]
+  },
+  {
+    "video_name": "aTW27C3AG-o_trim_157.mp4",
+    "caption": "A person wearing blue shirt inside a fallen box is getting out as another person wearing black shirt walks by.",
+    "gt_actions": [
+      "person falling down"
+    ]
+  },
+  {
+    "video_name": "aTW27C3AG-o_trim_168.mp4",
+    "caption": "A construction worker is getting up after falling down in a pool of water.",
+    "gt_actions": [
+      "person falling down",
+      "flooded floor"
+    ]
+  },
+  {
+    "video_name": "B2MDTsYuyt0_trim_1.mp4",
+    "caption": "A heavy object is being adjusting by wires as a group of people are standing and watching.",
+    "gt_actions": [
+      "lifting heavy load",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "B2MDTsYuyt0_trim_2.mp4",
+    "caption": "A heavy object is being adjusting by wires but it tips to the other side as a group of people are standing and watching. One of the persons run away.",
+    "gt_actions": [
+      "lifting heavy load",
+      "heavy object slipping",
+      "watching incident passively",
+      "escaping from danger"
+    ]
+  },
+  {
+    "video_name": "B2MDTsYuyt0_trim_3.mp4",
+    "caption": "A heavy object is falls down bringing down a structure that was holding the object with rope. One of the persons quickly saves himself by moving to the side as two other people are standing and watching.",
+    "gt_actions": [
+      "falling load",
+      "structural collapse",
+      "escaping from danger",
+      "watching incident passively"
+    ]
+  },
+  {
+    "video_name": "Zag5F6FXlj0_trim_3.mp4",
+    "caption": "A group of people are rescuing an injured person stuck in a machine.",
+    "gt_actions": [
+      "rescue effort",
+      "body pulled into machine"
+    ]
+  },
+  {
+    "video_name": "Zag5F6FXlj0_trim_6.mp4",
+    "caption": "A group of people are rescuing an injured person stuck in a machine.",
+    "gt_actions": [
+      "rescue effort",
+      "body pulled into machine"
+    ]
+  },
+  {
+    "video_name": "Zag5F6FXlj0_trim_7.mp4",
+    "caption": "A group of people are rescuing an injured person stuck in a machine.",
+    "gt_actions": [
+      "rescue effort",
+      "body pulled into machine"
+    ]
+  },
+  {
+    "video_name": "Zag5F6FXlj0_trim_11.mp4",
+    "caption": "A group of people are rescuing an injured person stuck in a machine.",
+    "gt_actions": [
+      "rescue effort",
+      "body pulled into machine"
+    ]
+  },
+  {
+    "video_name": "Zag5F6FXlj0_trim_14.mp4",
+    "caption": "A group of people are rescuing an injured person stuck in a machine.",
+    "gt_actions": [
+      "rescue effort",
+      "body pulled into machine"
+    ]
+  },
+  {
+    "video_name": "Zag5F6FXlj0_trim_17.mp4",
+    "caption": "A group of people are rescuing an injured person stuck in a machine.",
+    "gt_actions": [
+      "rescue effort",
+      "body pulled into machine"
+    ]
+  },
+  {
+    "video_name": "Zag5F6FXlj0_trim_19.mp4",
+    "caption": "A group of people are rescuing an injured person stuck in a machine.",
+    "gt_actions": [
+      "rescue effort",
+      "body pulled into machine"
+    ]
+  }
+]
