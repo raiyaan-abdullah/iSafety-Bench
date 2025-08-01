@@ -4,5 +4,5 @@
 
 🎉 (July 12, 2025) Paper got accepted at VISION'25 Workshop - ICCVW 25
 
-Download the videos of iSafetyBench [from here]().
+The videos in the dataset will be uploaded soon.
 The list of actions and video annotations are provided in this repository.
